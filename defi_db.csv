@@ -1,0 +1,3967 @@
+#126 - Proposal to add DSU3CRVgauge 
+[Discussion] Remove Curve DAO Whitelist
+"[Discussion] - Migrate  [tBTC, [sBTC]] Metapool to a new [tBTCv2, [sBTC]] Metapool"
+Proposal of Cooperation with Curve
+Proposal to add an ibBTC+crvRenWSBTC pool gauge
+Add a gauge for the Fantom gPool (with Geist rewards and bribes)
+"sCIP #45 - add a [RAI, [3pool]] Metapool"
+"d3 (alusd, fei, frax) pool + gauge"
+sCIP#46 - Gauge substitution on Fantom
+Proposal to ramp amplification coefficient for stETH pool to 200
+Proposal to add bveCVX/CVX pool gauge
+Proposal to set up dual rewards on xdai $CRV + $STAKE
+[Grant Application] CGA #41 - Footprint Analytics
+[Grant Application] CGA #40 - watchit bot
+[Grant Application] CGA #39 - SyntiFi
+Proposal to add alETH/ETH gauge
+Voting every 10 days is broken? Incentives bug?
+Proposal to whitelist Earning.Farm  contract
+Proposal to add sdveCRV/CRV gauge
+sCIP #42 - add a [Fei-[3pool]] Metapool
+FUND A BUILDER-FIRST LEGAL ACTIVISM DAO
+Curve Statistics need improvming
+Increase Admin Fee on pools which receive rewards from the CRV gauge 
+Proposal to add OUSD+3crv pool gauge
+"Proposal to add gauges for ibEUR, ibKRW, ibJPY, ibAUD, ibGBP, and ibCHF"
+Proposal to add DOLA-3pool factory v3 pool gauge
+Proposal to add ibBTC+crvRenWSBTC pool gauge
+Proposal to add cvxCrv/Crv gauge
+[Grant Application] CGA #38 - Atlantis World
+[Grant Application] CGA #37 - nft100
+Add support for Terra USD (UST)
+ARC: Raise AMPL's max interest rate
+Proposal: Aave Risk DAO
+AIP-44 Discussion
+ARC - Aave V2 - Liquidity Mining Program (90 days at 30% reduced rate)
+ARC: Risk Parameter Updates 2021-11-04
+Adding Credmark to Risk Admins
+Introducing Aave V3
+Atlantis World <3 AAVE
+ARC: Polygon Market - wMATIC Risk Parameter Changes
+Proposal: Implement cross chain bridging function
+ARC: Update AMPL interest rate curve to account for over-approximation in compounded interest
+ARC: Q2 Dynamic Risk Parameters
+Proposal: add support for AMPL
+[PROPOSAL] Loan to GoodDollar protocol to support UBI distribution
+Proposal: Add Banxa as a fiat on/off ramp and for AAVE to replace banks
+Aave Weekly: Protocol Performance & Governance Update
+Where is my asset?
+Aave - Initial Treasury Strategy
+[Proposal] Building a mobile app for Aave
+ARC: Risk Parameter Updates 2021-10-21
+Aave Jobs that are on the go?
+Save the Lend tokens that are stucked in the Lend contract
+Update on Malus progress
+ARC: Add Gelato’s G-UNI ERC20 Uniswap v3 positions as collateral to Aave’s AMM market
+Announcement: Aave Snapshot Space
+[Poll] Should HUSD be supported as an Aasset on AAVE?
+Proposal : A decentralized and public Aave frontend
+Proposal: Add support for Golem Network Token (GLM) (updated version)
+Market Risk Monthly: Updates and Review (October 2021)
+Community Governance Process
+Uniswap Governance Forum Rules
+"Fee switch date approaching, time to act"
+Proposal Discussion - The Unit: Should defi platforms replace the USD as a unit of account?
+Deploy Uniswap V3 on Polygon/Matic
+Proposal - Add 1 Basis Point Fee Tier
+BED INDEX Proposal
+Quadratic voting
+I like uniswap program
+Consensus Check - Add 1 Basis Point Fee Tier
+EU Regulation MiCA - Interview with a member of the European Parliament
+Uniswap is recommended to do cross chain DEX
+Management of $UNI treasury - temperature check
+Uniswap Community Treasury
+Create NFT for the UNI community
+UGP v3 Bug Bounty contribution
+Moving DEF's assets to an on-chain custodial wallet to bolster security
+Temperature Check - Should the DEF move its assets to a custodial wallet viewable on chain?
+Right Time for UNI Screenshot Airdrop to HODLers private wallet
+Demand for Transparency from DeFi Education Fund
+Poll: Should Dharma postpone their proposal?
+"Are we a ""DAO""?"
+Delegate your UNI votes to the Duke Blockchain Lab
+Have you received support?
+ELI5 how does governance work
+Uniswap for noobs
+Pool problems. Help!
+Proposal: Paid Uniswap chat support
+Compounding Fees in V3 LP
+UNI Default list
+Unclaimed Indexer rewards
+Roadmap to L2 utilization
+GIP-0019: Save gas when initializing a subgraph deployment
+Know Your Indexer #20 | Maple Nodes
+GIP-0021: NEAR Indexing for Graph Node
+Problem in testnet node installation
+Missing GRT tokens
+This month in Curation #9 | November
+Core development notes and updates
+"Developer Highlights #6 - ""Matchstick - Unit testing for subgraphs"""
+This month in Graph Indexing - October 2021 Edition
+The Graph Protocol Governance Process
+The Graph FAQs & Everything You Need to Know
+Daily rewards report for Delegators [BETA]
+A protocol providing 7% peer to peer cash back using stablecoins
+Subgraph Showroom
+GIP-0015: Allow passing a larger amount than available to unstake
+GIP-0016: Revert when not enough precision to assign a delegation share
+GIP-0012: Reduced gas usage by caching address resolution
+GIP-0011: Delegation parameters initialization when used from stakeTo
+GIP-0010: Update rewards snapshot when close allocation with empty POI
+A process for specifying the subgraph API version and feature support matrix
+GIP-0007: Different slashing percentages for query and indexing disputes
+GIP-0005: Gas costing for handlers
+A framework to build any data applications entirely on the decentralized Web3 infrastructures
+Graph syncing time & deployment optimization (best practises and discussion points)
+Script for closing allocations with 0x POI
+Subgraph: list logs in a transaction class
+Figment proposals: Network Indexers (manager-worker model)
+Figment proposals: Network Graph and GraphQL in Subgraph Processing
+Welcome to Lido DAO
+Problems swapping stETH for ETH
+Referral Program Whitelisting
+Where can i swap stETh back to ETH
+Were is my money?
+Start new period of Curve and Balancer LP rewards
+Shave Cobie's Head on UpOnly - PR for LDO
+Proposal for LDO liquidity
+Moving StEth onto L2 Arbitrum/Optimism
+Candidate proposal (Isidoros Passadis) for “Master of Validators” Core Contributor Role
+LEGO Proposal: Sponsor Staking Rewards Podcast
+Business Development Q4 OKRs and first update
+Lido staking module
+LEGO Proposal: Fund stETH Rabbithole Campaign
+Candidate proposal for Stake DAO (Stake Capital) as an ETH2 and Solana node operator for Lido
+It is recommended to launch the pledge function of Lido token
+Define Core Contributor Role for Lido: Master of Validators
+Propose to Add Gauge to Liqee Lending
+Should Lido use third party insurance providers?
+Add vesting to referral rewards
+LP Rewards to Bootstrap Lido for Solana
+Staking through Ledger LDO Token Question
+LIP-5: Mitigations for deposit front-running vulnerability
+Mitigations for deposit front-running vulnerability
+Metadata Working Group
+Continue 1inch stETH<>DAI LP rewards
+AAVE stETH listing options
+Switch Referral Program to Whitelist Mode
+Lido Treasury Diversification — Part 3
+"Unit Bias - Increase supply, Decrease raw price"
+[Proposal: $USF on Bancor]
+Launching a simple micro-grants program
+Activate Fees on Asset Management Yield and Premiums Paid
+Olympus Pro Bonds Proposal
+Connecting the application
+OlympusPro bonds trial
+Deploying more ETH into the stETH pool
+Rethinking USF Rewards (Part I)
+Proposal for First Full Asset Management Deployment and Allocation
+Using Asset Management Yield to buyback USF to reward Capital Miners
+Incentivise new capital through long-term thinkers vault
+"Capital, withdrawals and direction for the next weeks/months"
+How to deploy the spartan bucket capital
+"Reward current ""stuck"" capital suppliers who continue to support the network"
+"Start listing ""Medium Risk"" Policies in the Spartan Bucket"
+Explore using Arbitrum rollups to reduce gas fees
+How to Grow Capital Providers (what's their incentive to join/stay)
+Proposal: Using Enzyme Finance for asset management
+$USF Utility for Cover Buyers
+Harvest Finance Tokenomics
+Sushi Tokenomics
+Curve Finance Tokenomics
+3 months Carte Blanche for the Team
+First Exploit/Claim process through Unslashed
+$USF Utility Discussion
+Perpetual Protocol Policy Listing
+Staking Pool Rewards Example (Alpha Homora)
+Move Uniswap LP Pool to Sushiswap or 1inch
+A- Staking Pool Creation
+B- Profit/Fee Sharing:
+Welcome to Discourse
+[Proposal] Treasury Swap: Balancer DAO <> Fei DAO
+[Proposal] Activation of the protocol fee to grow the Balancer DAO
+TUSD Stablepool Joint Distribution Agreement
+[Proposal] Commission quarterly financial reports through the Messari Hub
+"BLabs x Community Update // November 2, 2021"
+Balancer on other chains: Friendly Forks (aka Franchise Model)
+[Proposal] Work with Alchemist to Provide BAL Rewards & Retain LBP Liquidity
+[Proposal] Appoint Reptile Presidente as the spokesperson to run the @balancer Twitter account on behalf of the community
+[Proposal] Renew Funding for the Ballers
+[Proposal] stopping the BAL for Gas Initiative
+Gauntlet Stable Pool Amplification Factor Updates
+Balancer Grants DAO Wave 2
+"BLabs x Community Update // October 20, 2021"
+Proposal: Invest in the Erebus Launchpad as Strategic Partner
+[Proposal] Staking of BPT for Economic and Governance Benefits
+Reducing costs for claiming liquidity mining distributions - introducing the Merkle Orchard
+"BLabs x Community Update // October 13, 2021"
+[Proposal] Sponsor the First Ever Poapathon
+sor.getSwaps price missmatch
+"BLabs x Community Update // October 5, 2021"
+Adding Limit and Stoploss orders to Balancer
+[Discussion] Strategic Partner/Venture Fund
+"BLabs x Community Update // September 29, 2021"
+[Proposal] Replace Liquidity Mining Tiers on Polygon with Flexible BAL
+"BLabs x Community Update // September 22, 2021"
+Is Liquidity Provider a Market Maker or a Market Taker? How I instantly lost 4 ETH
+Proposal: Onboard Fire Eyes DAO as Strategic Partner
+Gauntlet Fee Update
+"BLabs Community Update // September 15, 2021"
+Announcing MakerDAO’s Official Discord Server
+[Informal Poll] Prioritize D3M Rollout to Compound
+"Fear, Respect, and Influence within MakerDAO"
+Proposal: Market Making Proposal from Wintermute Trading
+Australia’s most influential coal lobby advocates for small modular nuclear reactors
+Returning ERC20 tokens accidentally sent to the DAI contract
+Many nuclear power generation plants vulnerable to sea level rise
+[Signal Request] Increasing the Surplus Buffer (2021-11)
+"Implement a function that allows the transfer of received tokens, instead of them becoming lost and stuck"
+Want Help about Transaction
+The Arranger Model - a highly scalable RWA framework
+SES Project Real-World Sandbox
+[aUST] MIP6 aUST Collateral Onboarding Application
+Shill the heck out of this coin! ;-)
+Suggestions for Multiply Oasis interface
+Feedblack Loops LLC Delegate Platform
+MIP41c5-SP2: Facilitator Offboarding (RWF-001)
+"Multi-chain DAI-lights - November 4, 2021"
+My SAI is diluted to $1 from $22.. can I revert it back?
+D3M - DC Increase & Target Borrow Rate Decrease Proposal
+Help Needed - contact address doesn't work
+MakerMan delegate platform
+Parameter Changes Proposal - PPG-OMC-001 - 2021-10-28
+ultraschuppi Delegate Platform
+Request to raise Staked ETH DC to 50M
+Forum at a Glance: October 28th - November 4th
+New Silver October 2021 Update
+MIP41c4-SP25: Immunefi Security Core Unit Facilitator Onboarding - IS-001
+[resolved] Restore access to my account)
+Collateral Status Index
+Welcome! Start Here! Please read before posting
+KNC Unstaking Error
+Needed helpwith KnC withdrawal
+KNCL sent to new KNC address
+Migration problem not connecting to trezor wallet
+Improving KyberDAO: Snapshot and Other Ideas for Governance
+Getting errors when trying to migrate KNCL to KNC at kyber.org/migrate
+Joint Liquidity Mining on BSC and Ethereum with dForce on KyberDMM
+KIP-18: Advance KNC Allocation for Small-Scale Liquidity Mining Activities
+DMM Token Swap is Stuck/Broken
+KNC Migration Recommendations and Safeguards - HyperChain
+KyberDMM Bridge
+Joint Liquidity Mining on Polygon with Pegaxy (PGX Token) on KyberDMM
+KNC Token Migration & Upgrade Discussion
+Joint Liquidity Mining on Avalanche with DeFi Yield Protocol DYP on KyberDMM
+[Proposal] Buying DeFi Pulse Index (DPI)
+Discuss: KyberDMM Expansion and Liquidity Mining on BSC
+Joint Liquidity Mining on Ethereum with Unbound Finance on Kyber DMM
+EvryNet - EVRY Joint Liquidity Mining on Kyber DMM
+Joint Liquidity Mining on Avalanche with APEIN on KyberDMM
+"Joint LM with Jarvis Network, for incentivizing Forex pools"
+Joint Liquidity Mining DefiWarrior( Fiwa Token) on KyberDMM
+Proposal to integrate Footprint Data Analytics with Kyber
+StepHero - HERO joint Liquidity Mining on KyberDMM
+Introduction - Index Coop Protocol Ambassador
+Register B.AMM as the liquidation strategy for the fee
+Failed transaction from KNC to KNCL
+Subsidized insurance to protect KNC/PAIRS from Impermanent Loss
+How to migrate Old Kyber from Enjin Wallet (Iphone) to new one?
+Joint Liquidity Mining with xDollar (Polygon) on KyberDMM
+Legal structure for the Idle DAO
+[IIP-15] Remove DyDx and Cream. Add IDLE to idleFEI
+Remove Cream from IdleFEI pool
+[GRANT] Idle Perp Yield Tranche Convex strategy
+Enable $IDLE liquidity mining on IdleFEI
+dYdX deactivation
+An Idle-Paladin Voting Market
+[Proposal] - Remove CREAM from the RAI Aggregator
+[GRANT] Idle Ambassador Program
+📅 IdleGov Biweekly Update – 10/25/21 [BW23]
+LP Staking: Next Steps
+[IIP-14] Risk-Adjusted removal and Polygon LP staking funding
+[JOB] Communication & Marketing League v2.0 - Open Applications
+[JOB] Dev League v2.0 - Open Applications
+[JOB] Treasury League v2.0 - Open Applications
+[IIP-13] Code Improvements and Flash Loan Fee Adjustment
+Idle Monthly Community Call
+📅 IdleGov Biweekly Update – 10/04/21 [BW22]
+3-phase proposal to foster liquidity provision (LP staking analysis)
+Risk-Adjusted Removal for Tranches Migration
+[Proposal] - Diversify Idle's Treasury with RAI
+Roadmap Update 3.0
+[IIP-12] Enable $IDLE LM on idleRAI and fund Leagues mandate
+📅 IdleGov Biweekly Update – 09/20/21 [BW21]
+[Proposal] - Integrate NFT Gated or Token Gated Quadratic Voting via the Influence.Vote dApp
+Proposal to integrate Footprint Data Analytics with IDLE
+📅 IdleGov Biweekly Update – 09/07/21 [BW20]
+[Proposal] Idle and Polygon $700k partnership to jointly scale DeFi yield aggregation
+Liquidity Incentive Continuation
+Contributors Extensions for the Treasury League New Mandate
+Welcome to the BadgerDAO Discourse
+Cannot Withdraw Badger from Vault
+BIP 73: NFT Boost v1
+Can't withdraw my staking
+BIP 74. Treasury Controlled Liquidity for Badger
+DIP 1: Pause Negative Rebasing of DIGG
+BIP 72: Sett Vaults and ibBTC Fee Restructuring
+Badger Vault ROI
+wBTC / DIGG Sushi LP token deposits aren't accurate....?
+Staking badger vault
+BIP 68: ibBTC Yield Retention Model
+BIP 71: bCVX to bveCVX transition
+BIP 70 - CVX Locking & Delegation Incentives
+Badger staking vault
+Sending staked tokens to another address
+Thank you!badger team
+Error calculating mint
+"Rewards, portfolio value, and setts not working"
+Please fix app PLEASE
+BIP 69. Emissions: Q4 schedule
+Unable to withdraw (contract error)
+Please fix UI for Coinbase wallet
+Portfolio Empty
+"Help me. Please.Help me. Please, I forgot the btc"
+Can anyone help
+Badger/WBTC Uniswap Vault
+Help me. Please. I'm sad
+Loading page does not show portfolio value
+Portfolio not showing value
+Portfolio value not showing
+PTIP-42: V4 Migration Rewards
+PoolGrants committee open applications
+PoolGrants open feedback thread
+C4 Audit: PoolTogether V4
+Analysis of v4 draws
+Tier based prizes?
+LP Partnership with Fei
+Token listing
+PTIP-41: Operations Overhaul
+[Proposal] Trial KPI options with the grants committee
+Adding FRAX to PoolTogether
+PTIP-40: Olympus LP incentives & POOL pool Distribution
+V4 uncollected wins sent to charity
+PoolTogether DAOs purpose
+Olympus Pro LP Proposal
+Olympus Pro LP bonds
+V3 to V4 PT tickets migration
+V4 coming! Let's spread the word. :rocket:
+Forming PoolTogether Treasury Management Committee
+PTIP-39: Incentives for V4 Prize Pool Launch!
+Gamifying PoolTogether
+Continued Funding of Coordinape
+Llama DAO Presents | Tokenomics and Alternative Capital Structures: Approaches for PoolTogether Treasury Management
+An Official ETH Pool: We Really Need One
+POOL distribution & V4 Rollout
+PTIP-37: Prizes & POOL drips!
+Fei Partnership & Prize Pool!
+Marketing for V4 Launch: Let's Brainstorm
+Treasury Management: Buy ETH + More buybacks
+PTIP-36: Migrate PoolTogether Uniswap V2 Liquidity Mining Program to SushiSwap
+Welcome to Discourse
+Kashi not displaying any pairs - Troubleshooting Tips?
+AVAX conversion never arrived but says success
+Slp contract creation
+Liquidity pool issue
+Collateralize SUSHI Reactor on Tokemak
+"Help, Buy BITDAO with Sushi"
+Introducing Sushi Times
+Begin Preparation for ZkSync v2.0 Deployment
+SUSHIB airdrop for SUSHI holders
+Can't remove stake or harvest rewards from harmony LPs
+Transaction fee was charged as the Transaction failed
+Someone steel my tokens?
+Listing on Sushi/providing liquidity
+"Removed liquidity, pair disappeared, unable to unstake"
+Proposal to change Sushi's denomination to a lower amount like Shib
+Help! Transaction didn't complete. Lost $$$?
+I deposited sushi tokens to bento box and they do not show
+POAPathon Proposal for Sponsorship and Prizes
+Governance voting incentives
+Nekojita: SushiDAO Treasury Evolution
+Proposal: Community-Enabled Analytics for Sushi
+"Incorrect Wallet Address Entered, Lost Coins"
+Proposal to conduct a token swap with MaskDAO
+New to Sushiswap need help please
+MISO Launchpad Application form
+No Coins Received
+Help For Newbie. Getting Sushi to Sushiswap
+Introducing SousChef + YieldToken(ERC-20)
+Introducing Sushi Filters
+1inch DAO Forum Guidelines
+[1IP-4] 1inch Network Treasury
+How can withdraw my old LIQUIDITY on BNB-1inch
+Why cannot I see my 1Inch/USDT pool on the pool page
+How can we reach your team about partnership?
+Mobile App Features Lacking? Cannot Connect Trustwallet on Web Browser
+What chain should be next target for 1inch (10/13/2021)?
+1inch Network Treasury
+What chain should be next target for 1inch?
+Why no farming on BNB network since may?
+Where the chi gas tokens disappear from 1inch DEX?
+Add KCC(KuCoin Community Chain) support
+Trouble creating stop -loss order
+Discussion on possible 1INCH tokenomics
+Permission to swap
+Aggregated NFT Exchange
+[ Discussion Panel ] Making 1inch Tokens ULTRA - USEFUL!
+callBytes failed
+Request for 1inch 2021 roadmap
+Incentives for long term investors
+Make 1inch a real DEX - Add leveraged trading
+Quality of tweets should improve
+"Transaction Success, but no swapping happened with node.js example"
+[1IP-3] Formalization: VOTE to make $1INCH deflationary!
+Need orderbook data for optimization algorithm
+Referral Code That Also Links to Trades (Polygon/BSC)
+Staking APY Formula for 1Inch
+Active Gas Refund Thread?
+[1IP-2] Airdrop for Active Engagement v1.0 ( Voting Check )
+[ Vote Only ] Enable 1inch LP token voting on Snapshot?
+Call for Ideas: YFI Tokenomics Revamp
+Fixed Forex - Support thread
+What are the best / worst parts of Yearn?
+Following through with tokenomics
+YFI is eligible for the FIAT DAO Jubilee program
+yAcademy Pilot: A Retrospective
+Fixed Forex - Statistics
+I cannot for deposit any usdt into a yearn vault
+[Proposal] Factory Deployed Partnership Vaults
+Adjust fees on non-stablecoin yVaults
+[Proposal] Bootstrap the minting of new yveCRV
+[POLL] yfi split
+[Working Proposal] Innovating on Fee Structures
+How to pitch yearn/yfi in one sentence or less
+Use yearn NFT's to unlock bonus yields
+Yearn Interaction / Feedback / Bugs
+How can I use a Yearn Finance trademark?
+Donate Curve voter airdrops to yvBOOST
+Yearn Deployment on Numio- in Development
+"Cant BOND , stuck in pending , 3 weeks now"
+Working Proposal: Yearn to sponsor Permissionless
+yvBOOST clarity
+Transaction Error. Exception thrown in contract code
+Can we add FTM projects relate to Yearn here?
+LeXpunK Initial Projects for Feedback
+yveCRV v1 vs yvBOOST v2 net APY
+Any plans on deploying on arbitrum?
+[Resource] Created a statistics tool to help track your Keep3r earnings & transaction fees
+ROI on latest spending
+Cannot Activate Bond
+Please Read Before Posting:
+Staking dApp feedback
+Proposal to integrate Footprint Data Analytics with Synthetix
+SIP: Kwenta Independence
+SIP-172: Governance V3
+SIP: Kwenta TreasuryDAO
+SIP: Formalize Kwenta Interim Council
+SIP-91: Debt Cache Contract
+L2 Bridged Governance
+Formalizing the Thales Council
+Addition of new crypto to futures conteact
+Launch a app of synthetic derivatives
+Scaling the Synthetix Debt Pool with Thales collateral
+Question about Stake
+"Idea for Synthetix V3: Liquidations by protocol itself, with profit distribution to SNX stakers"
+SIP-142: Deprecate binary options contracts
+SIP - Create a global stock market synth
+SIP-132: Add Volume Program to the Synthetix Protocol
+SIP 120: Keep3r TWAP Exchange Function
+"SIP - sSUSHI, sBNT"
+SIP-134: Minimal Proxies for BOs
+SIP - Add DOGE crypto Synth
+SIP - Add ZEC crypto Synth
+Su rentabilidad
+"SIP ? - Toggle off the ""ALL"" approval, if set, when withdrawing other delegate approvals"
+SIP ? - Adding CRV long synth sCRV
+Formalising the protocolDAO
+How to stake/unstake AAVE: Safety MiningThe Maker Direct Deposit Dai Module (D3M)
+ARC: Liquidation Bonus Updates for AAVE V2 TUSD market
+Temperature Check - Should Uniswap incentivize Liquidity on Optimism and Arbitrum?
+"Retroactive Airdrop Excludes Proxy Contract Users (e.g. Dharma, Matcha, etc.)"
+"MIP6 Collateral Onboarding Application: Monetalis - Wholesale, Green Economy, Senior, Secure SME funding"
+G&R Snippets - en español
+Requesting help about recent transaction
+A Framework for Valuing MKR - 10.27.2021
+SIP-127: Minimal Proxies for Virtual Synths
+SIP 112: wrappr
+I think you need make trader pratfrom like
+The Maker Direct Deposit Dai Module (D3M)
+How to stake/unstake AAVE: Safety Mining
+ARC: List Aavegotchi $GHST token as collateral on Matic Aave network
+Trying to recover misplaced tokens
+"How does liquidation work? How much of my collateral gets liquidated, and which collateral tokens get liquidated?"
+Uniswap Protocol Brand Update: Request For Comment
+Broken link for audius subgraph
+Continue LP rewards for Sushi DAI<>wstETH pool
+[Signal Request] New IAM-vault-type for WBTC with lower LR
+"Proposal: Add Kattana: cross-chain trading terminal for DEXs and CEXs, to the app ecosystem of MakerDAO"
+Proposal: GUSD PSM
+Auction Throughput Parameters Adjustments - Nov 9 2021
+MakerDAO Actual Expenses vs Budget - September 2021
+Weekly MIPs Update #61
+Governance Portal Release v0.2.3 - November 8th
+[USDT] ERC20 Token Smart Contract Technical Assessment
+Maker Relay Ep 70
+"Makerburn updates, november 2021"
+Flip Flop Flap Delegate LLC Platform
+Maker Governance Review: October 2021
+GovAlpha Q3 2021 Quarterly Review
+"[Signal Request] Set both USDC-PSM and USDP-PSM ""tin"" to 10 bps"
+Change the dmm name. What happened to Kyberswap?
+Coinstore Listing
+The Next Few Yield Sources For Idle - Potentially Undertaking By @IdleHusbandry
+[VOTE] Grants committee lead elections
+PTIP-43: V3-V4 migration
+Shoyu.eth utilization
+Babylon Finance Partnership - Priority Access to Prophets Event (NFT + IDO)
+Swap fees calculation
+The Curve Emergency DAO has killed the USDM gauge
+Listing Proposal: Add UMA as collateral on Aave
+Add Fireblocks as a whitelister on Aave Arc
+Proposal: Add support for Terra USD (UST)
+ARC: Bring AMPL to Avalanche Market
+Listing Proposal: Add V2 Market assets to Polygon Market that are relevant to Polygon Network
+ARC: Adding Credmark to Aave v3 Governance permitlist
+Quarterly Market Risk Review (November 2021)
+Adding LINK.e as Collateral on the AVALANCHE Market
+Have we strayed from the marked roadmap?
+What do you think of the initial airdrop?
+🦄 UNI rewards - How to distribute UNI reward tokens best
+"URGENT discussion on current vote: ""Reduce UNI Governance Proposal & Quorum Thresholds"""
+Proposal: Reduce amount of UNIs required to submit governance proposal
+Deploy Uniswap V3 to Boba Network
+Voting and discussing the design to create a physical coin!
+Websites & Dashboards that Track Data on The Graph
+Require that more recent PoIs are submitted in order to collect indexing rewards
+Absolute rookie delegator question
+GRT Tokens Not on Graph Explorer
+Gnosis Safe support in the Studio app
+The Graph's Community Talk #5
+Insufficient funds when delegating
+Infinite loop query
+Delegated token is missing after deducted fee
+Know Your Indexer #18 | Protofire
+The Graph Council - Meeting #17 Notes
+The Graph Council - Meeting #16 Notes
+Query filter - Geolocation
+The Data isn't being synced to the Graph!
+Graph Codegen TS
+GIP: File data sources
+"Proposal: Update the Referral Program's terms of service to be more inclusive to smaller stakers, influencers, and educators"
+LDO Rewards on Curve
+Continue LDO rewards for 1inch stETH<>DAI LP
+Announcement: Onboarding for (Ethereum Wave 3)
+"LEGO Proposal: LIDO governance research, mapping exercise (approved)"
+What happens if i withdraw stETH yhrough curve
+stSOL _ LIDO vs Marinade
+Reducing USF rewards while on Olympus Pro waiting list
+[Proposal] Governance Process Revamp
+Migrate to different chains
+"[Agenda/Discussion] Scientific Governance and Risk #168 - Thursday, November 18 17:00 UTC"
+Governance Over the Winter Break - 2021/2022
+RWA Business Continuity
+MIP40c3-SP29: GovAlpha Core Unit Budget Q4 2021 to Q1 2022 - GOV-001
+Forum at a Glance: November 11 - 18
+[Informal Polls] Clean Money - Exploratory Sentiment Polling
+The case for Clean Money
+Maker Relay Ep. 71 - en español
+Improving governance participation rate at MakerDAO
+Gauntlet Delegate Platform
+Proposed Risk Parameters for WBTC-C Vault Type
+DAI Supply Growth and Risk Metrics
+re: FratDAO financial hazing incident
+PaperImperium Delegate Platform
+The Official Welcome Thread
+[preMIP] IAM for Surplus Buffer
+Meet Your Delegate #6
+"# MIP40c3-SP33: Modify Core Unit Budget, MKT-001"
+:toolbox: Core Unit Tools #11: Radicle.xyz
+MIP39c2-SP23: Adding the Deco Fixed Rate Core Unit
+Ask MakerDAO #12: [AMA] Learn About Maker Wormhole with Protocol Engineering
+Proposed Offboarding Collateral Parameters #2
+[Signal Request] One-time Payment to COM-001 to Cover Missing DssVest Funds
+Introducing Maker Wormhole
+MIP40c3-SP30: Modify Core Unit Budget - Collateral Engineering Services (CES-001)
+Error when i try to swap tokens
+Migration of Old Kyber
+[GRANT] Idle Perp Yield Tranche mStable strategy
+[IIP-16] PriceOracle Upgrade
+Idle Leagues - Current Team Reconfirmation (M3-2021)
+📅 IdleGov Biweekly Update – 11/09/21 [BW24]
+Badger Not Displayed on Dashboard
+BIP 75. Emissions: migration to ibBTC/sBTC Convex Sett
+PTIP-45: Fei / Ondo LP Partnership
+LATOKEN listing via comarketing offer
+Scaling Prizes!
+Scaling the PoolTogether Network
+V4 continuation and POOL tokenomics
+[Proposal] Forming the Treasury Working Group
+PTIP-44: Continuation of C4 Partnership
+Prize claim pool
+Sushi Relay: YCabal 2.0 - Reducing Gas Prices for SushiSwap Traders
+YCabal - towards enabling free trading on Sushi
+Lost my tokens/ HELP
+Was in Discord and Channel Disappeared/Can't join Discord
+Approved router... now i need to swap? how?
+Swap Failed? sushi to eth
+Bought eth 0.7 to kishu only recive 0.003 kishu
+Ginseng Fractionalization Protocol
+"Пропал весь 1inch со стейкинга, просто исчез"
+1inch Android app support Hardware Wallet (Trezor)
+CREAM Hack and follow up
+Yearn Millennium Prize - Discussion Thread
+KP3R FAQ (unofficial) by @0xSato
+[Proposal] Allow yvBOOST to vote on new CRV gauges
+💎 the BEST Yearn Tokenomics (Diamond Hands Model)
+[Proposal] Millennium Prize - Directing Liquidity
+[Proposal] Millennium Prize Strategy (Frax/DAI)
+[Proposal] FixedForex vault
+Could you contribute to Yearn?
+Governance Over the Holidays Break - 2021/2022
+6s Capital - State of the Business
+Proposal to add 3EUR (agEUR/EURs/EURt) gauge
+Proposal to add DSU3Crv gauge (Quorum resubmission)
+[Discussion] Gauge Risk Assessment Team
+Aave V3 Launch strategy: Code licensing
+Is it possible to add stkAbpt to voting & governance contract?
+Aave Grants Update and Renewal
+ARC: Add ENS as collateral
+How do I get my tokens back
+Eidoo 2 aave migration
+Request: Who should speak at the next community call?
+Analysis of xSushi's incident
+Continuous Formal Verification
+Finops/Payment Tool for DAOs
+Proposal Discussion - S&P500 of Crypto as The Unit of Value
+Rebrand proposal for Aave
+Vote for UNI as collateral in Makerdao
+Why doesnt paradigm promote uni any more? seems like they have moved on to SBF tokens
+Temperature Check - Deploy Uniswap V3 to Polygon PoS Chain
+Proposal Discussion: Community Treasury Divestment and Risk Mitigation using UMA KPI Options
+UNI should become an oracle token
+Temperature Check - [Fee Switch V2 should be turned on]
+The Quest for Cheaper Gas!
+Indexing got stuck for simple subgraph
+GIP-0020: Unattestable Indexer Responses
+Subgraph node run using bsc network got error
+Personal Subgraphs
+The Graph Council - Meeting #18 Notes
+Complete indexer
+LDO single-sided staking
+Lido on Terra protocol upgrade
+Continue Balancer wstETH<>WETH LP rewards
+LIP-3: Easy Track release
+"Proposal Discussion - Crypto's S&P 500, A Unit of Value for the Cryptoverse"
+Proposal to address tax and regulatory considerations surrounding liquid staking
+[RFC] Treasury Swaps Program GNO x BAL
+[Proposal] Take a MTA position to redirect rewards to Balancer Pools
+My Vision for Balancer Protocol
+"BLabs x Community Update // November 18, 2021"
+Governance Over the Holiday Break - 2021/2022
+"An assessment, first hand experience, and recommendations from the Aave Offboarding"
+[Signal Request] Offboarding MATIC
+Chainlog: Improving how we keep track of our deployed contracts
+Makerburn requests
+Mapping MakerDAO's GitHub footprint
+[G-UNI DAI / USDC 0.01% tier] Onboard G-UNI for UniV3's new 0.01% fee tier
+"COP26, a Technological Revolution History Lens, and some food for thought"
+ETHDenver 2022 Planning Update
+Aggregating educational resources - asking for community input
+:earth_americas: Maker Explorer #1: Real-World Sandbox Grant Report
+Forum at a Glance: November 18 - 25
+SES Updates - 25.11.2021
+Parameter Changes Proposal - PPG-OMC-001 - 2021-11-25
+JustinCase Delegate Platform
+"[Signal Request] Offboarding MATIC, COMP, AAVE, and BAL"
+[Nexo Institutional Vault] Collateral Onboarding -- Update --
+"Multi-chain DAI-lights - November 24, 2021"
+MIP55c3-SP2: Create RealDAO SPF to make Moloch-based SPVs
+[Discussion/Feedback] Improving Clarity Regarding Signal Request Outcomes
+GFX Labs Delegate Platform
+Stuck Transaction
+[Signal Request] Adjusting Dust Parameter (2021-4)
+[Discussion] The DAO needs a serious discussion about legal structure
+[Consultation Poll] Centrifuge Global Debt Ceiling Cap
+Problem with removing jeur usdc liquidity pool
+How to order book work in kyber network?
+Joint Liquidity Mining on Binance Smart Chain with Elpis Battle (EBA Token) on KyberDMM
+Idle Grants Program 2.0 (IGP)
+[JOB] Treasury League v3.0 - Open Applications
+[JOB] C&M League v3.0 - Open Applications
+[JOB] Dev League v3.0 - Open Applications
+[IIP-17] IdleTokens upgrade to remove flash loans
+Enzyme - Bug Bounty Cooperation
+Build Protocol-Owned IDLE/ETH Concentrated Liquidity
+📅 IdleGov Biweekly Update – 11/23/21 [BW25]
+BTC vault deposits not getting boost
+Adjusting Prizes
+PTIP-48: Grants Committee Funding (Season 2)
+PTIP-47: Prize Adjustments
+Proposal & Discussion: 1% quorum for Pure Snapshot Signalling
+PTIP-46: Forming the Treasury Working Group
+Analysis of v4 draws (bis)
+Scaling The DAO!
+Giving everyone an equal chance to win & adding additional gamification to PT
+AMA with Core Dev
+Increase xSushi taker fee to 0.1%
+"Proposal Discussion - Crypto's S&P 500, A Unit of Value to Unite Us All"
+How-to Video Storyboarding & Animated
+My Metamask has been compromised and contains my sushi
+How do I raise a ticket with Sushi Swap?
+[SIGNAL] Integrate SafeSnap into Sushi
+[UPDATED] Proposal: Community-Enabled Analytics for Sushi
+[URGENT] Metamask wallet got compromised
+Farming stopps suddenly
+Lost tokens after swap
+Lost YGG tokens
+Remove arbitrary and draconian exchange restrictions
+[1IP-0] 1inch Proposal Template
+DAO Constitution and Governance Agenda  
+What do we need to do to expand the forum?
+Tokens 1inch sumiram
+WebDollar Blockchain crypto
+CREAM Exploit Restitution Proposal
+Porting to ETH L2 rollups
+YIP-64: Adjust fees on non-stablecoin yVaults
+Can't redeem rKP3R
+LeXPunK Army / YIP63 - Prescribing best practices
+SNX bonds for LP tokens
+Node Operator Policies & Procedures
+Shib to pibble via Coinbase
+Anyblock Analytics and Blockdaemon Merger: short term and long-term actions
+Growth CU weekly update: Nov 19-26
+Interest on deposit?
+ARC: Include Ampl in the Aave Liquidity Mining Program
+Aave Multi-chain IDO Launchpad
+Consensus Check - Deploy Uniswap V3 to Polygon PoS Chain
+Deploy Uniswap V3 to Polygon PoS Chain
+Governance Proposal 8 - Upgrade Governance Contract to Compound's Governor Bravo
+Issue deploying subgraph locally
+[Proposal] Transition Treasury Control to Governance Multisig
+"[SB-frOGI Coin] MIP6 Application: MEMBERSHIP INTERESTS IN RED FROG DIGITAL SERIES OF SOLIDBLOCK HOLDINGS, LLC, IN THE FORM OF RED FROG DIGITAL COIN (frOGI Coin) - a SolidBlock Offering"
+[Curve.fi-ETH-stETH] ERC20 Token Smart Contract Technical Assessment
+What's up with the Flap Auctions?
+Delegates Actively Supporting Clean Money?
+An Idea For Vaults 2.0 Or Advanced Vaults
+MKR Holder’s Guide to Delegation
+"MIP40c3-SP45: Modify Core Unit Budget, ORA-001 (Oracle Gas Costs)"
+[Signal Request] Should We Introduce a Performance Modifier to the Delegate Compensation Trial?
+[CurveLP-stETH-ETH] Collateral Onboarding Oracle Assessment (MIP10c3-SP43)
+USDC A - What happens with accrued stability fees when vaults get undercollateralized?
+GovAlpha Weekly Update - 2021-11-26
+Multicall Contract and any downsides to using it
+Colby's Research: Range Polling. Provide Community Feedback Please!
+Swap LP token to single token
+Hey Newbies
+$1 million weekly prizes & POOL distribution
+Reworking the POOL Token: Why It's Important and What to Do
+Couldn't unstaking wmatic/weth
+Sushi Relay - OpenMEV Dashboard and Insights
+Future direction of Woofy
+Uniswap as a world's first cryptostate
+Lido Node Operator & Validator Metrics
+Consensus Check - Should Uniswap incentivize Liquidity on Optimism and Arbitrum
+Request for information about disputes #GDR-8
+Request for information about disputes #GDR-7
+About api.makerdao.com
+MakerDAO Actual Expenses vs Budget - October 2021
+Maker Relay Ep 73
+[Signal Request] Should We Mint New MKR for Protocol Expenses or Fund Them With MKR from the MakerDAO Treasury?
+[Nov29 '21] Post-Mortem: Impaired Poll Voting On Governance Portal
+Weekly MIPs Update #64
+Meet Your Delegate #7
+Community Snapshot Voting Strategy
+"[Agenda/Discussion] Scientific Governance and Risk #169 - Thursday, November 25 17:00 UTC"
+GovComms Bi-Weekly Update: Nov 15 - 26
+Conclusion to Colby’s DAO Scaling Research: Forum Post #2
+Create an account for Kyber DAO on Tr3butor.com to find new contributors
+[JOB] C&M League M4 - Open Applications
+[JOB] Dev League M4 - Open Applications
+[JOB] Treasury League M4 - Open Applications
+1inch Network Treasure For 1inch Staker 
+Wii Graph subgraph be used
+"ARC: Aave Centrifuge Permissioned ""RWA"" Market Proposal"
+BondAppetit: Proposal to create a Standard Vault with a collateral ratio of 100% and a stability fee of 3%
+About the Sidestream Auction Services Core Unit category
+[JOB] C&M League - Open Applications (M4)
+[JOB] Dev League - Open Applications (M4)
+[JOB] Treasury League - Open Applications (M4)
+Idle Leagues - Current Team Reconfirmation (M3 → M4)
+[JOB] Communication & Marketing League - Open Applications (M3)
+[JOB] Dev League - Open Applications (M3)
+[JOB] Treasury League - Open Applications (M3)
+[Signal Request] - D3M Parameters & Guidance for MOMC
+How is pool APY calculated for liquidity providers
+Rewards in pools on BSC
+[Draft] Partnership Agreement BalancerDAO <> PrimeDAO
+Maker Relay Ep. 73 - en español
+"Governance and Risk #170 - Thursday, December 02 17:00 UTC"
+ARC: MakerDAO Direct DAI Deposit Module (D3M) for the AAVE Arc Market
+Impossible cannot save without an ID error
+Request For Comment - 2022 AO Improvements Feedback
+[Brainstorm] Immunefi Security Topics
+POOL distribution to further minimize gaming v4 deposits
+This month in Graph Indexing - November 2021 Edition
+[RBLD] MIP6 Collateral Onboarding Application - Real Estate - NEW
+[SIGNAL] Restrict the rights of product team & introduce more transparency into the DAO
+Sushinomics : introducing oSushi
+Create Euro stablecoin
+MIP40c3-SP15: Modify Oracles Core Unit Budget
+Risk Core Unit Month in Review: November 2021
+Continue Curve and Sushi LP rewards
+"NO rewards SUSHI on CELO Network, why?"
+Deploy Uniswap v3 to Arbitrum Mainnet
+Request for information about disputes #GDR-4
+Require that more recent PoIs are submitted in order to collect indexing rewards (& multi-blockhain PoIs)
+SAS-001 Incubation Recap - Milestones and Key Learnings
+Real-World Sandbox: Final Deliverable for Consultation Round
+Distributing some of the Lido supply to base layer maintainers
+Adding Onramping to PoolTogether v4
+1inch Network Treasure For 1inch Staker
+:man_judge: LexMaker #2 ||| System of a DAO: A Legal Framework for Decentralized Autonomous Organizations
+:earth_americas: Maker Explorer #2: Crossing the Carbon Chasm
+PTIP-49: RabbitHole Quest
+Eth missing after attempting to swap USDT for Mana
+Github and open sourcemany minds
+The Graph’s Core Devs Meeting #9
+wstETH-A Parameters Adjustment - Dec 1st 2021
+MIP40c3-SP44: Adding Financial Strategy Core Unit Budget - FS-001
+"MIP41c4-SP28: Facilitator Onboarding, Financial Strategy (FS-001)"
+MIP39c2-SP26 - Adding Financial Strategy Core Unit
+Actualización - Encuestas de la Semana - 29 de noviembre del 2021
+[rETH] MIP6 Collateral Application
+ACREinvest Delegate Platform
+Proposal Idea - Purchase ETH for Strategic Reserves [Poll]
+Proposal to raise A parameter on USDN pool to 500
+Curve Fantom NFT - Solidly / Solidex
+[Discussion] Acquire a CVX position
+Proposal to add PWRD Metapool Gauge
+CIP#55 - To make the community fund self sustaining
+CIP#142 Update fee burners
+Proposal to raise A parameter on FEI-3CRV pool to 500
+CIP#12 - Which tokens should be included in a gold pool?
+Proposal to Add MAI Gauge on Polygon
+Proposal to Add MAI Gauge
+Proposal to add agEUR - ibEUR Gauge
+Expand to Terra Blockchain
+Proposal to add FEI-3Crv Gauge
+[Discussion] Vote veCRV modification on L2 or veCRV delegation for small veCRV Holder
+Proposal to add T/ETH gauge
+"sCIP #47 - add a [RAI, FRAX] Base Pool"
+[Discussion] Pool Optimization Researcher
+Proposal to add UST/FRAX gauge
+[Discussion]Tokenised Gold Pool
+Allowing for fractional votes by Curve DAO
+December/January Community Grants
+Proposal to add the RAI3CRV gauge
+Proposal to add rUSD/3CRV gauge
+Fee Burners - vote #133
+Launch Aave V3 on Avalanche
+Gauntlet Support for Users Affected by AIP 55
+Add FRAX as Collateral to Aave V2
+Help me please(wrong address)
+Recovery Request
+Crowdcast on the RWA Market - Wednesday 2nd of Feb 16:00 CET
+Add MIM to Aave V2
+ARC: Aave Deployment to BitTorrent Chain (BTTC)
+ARC - Enable Borrowing of DPI on Aave Markets
+Gauntlet Aave Risk Dashboard Update
+ARC: Avalanche Market - AVAX Risk Parameters Update
+Launch Aave V3 on Metis
+More button in menu bar should be fixed
+ARC: Add Support for LUSD
+The RWA Market is live: What’s next?
+Resolving Error on Parameter Changes
+Flipside Crypto CEA | Grant Overview
+"ARC - Consolidate Aave V1, V2 & AMM Reserve Factors, Purchase CVX and Deploy to Earn Yield"
+ARC. Aave Governance V3
+Interest paid in other currency/token e.g. Stablecoin or BTC
+Aave Liquidation Calculator?
+ARC: Risk Parameter Updates 2022-01-14
+AAVE social media discussion
+"Borrowing against ""a"" tokens"
+Can we introduce some incentives/utility for holding AAVE token?
+ARC: Add Support for FOX
+How to speed up V3 deployment on AVAX?
+Deploy Uniswap V3 on Harmony through an Additional Use Grant to Hermes DeFi
+Introduce stablecoin liquidity pools with 0.01% fees to UniSwap v3 on Polygon POS
+Consensus Check - Should Uniswap Provide Voltz with v3 Additional Use Grant
+Welcome to the Uniswap Governance Discourse
+Proposed Simplifications to the Uniswap Governance Process
+On Hyperstructures and Value of Public Goods
+[RFC] Uniswap Grants Program v0.1
+Temperature Check - Deploy Uniswap V3 on AVAX
+Uniswap and NFTs
+Governance Proposal 005 - DeFi Education Fund
+Add SNX/ETH pool to list of pools eligible for UNI rewards
+Uniswap Q4 Quarterly Report
+Unicode hackcantos
+Call for Research Collaboration: Uniswap Proposal Creators and Governance Contributors
+Should Uniswap Provide Voltz with v3 Additional Use Grant
+I think it is necessary for uniswap concurrently to turn on the fee switch and liquidity mining incentive
+Temperature Check - Support izumi Finance as the official Uniswap V3 Liquidity Mining Platform
+Governance Proposal UP010 - Deploy Uniswap V3 to Polygon PoS Chain
+A community analytics program for Uniswap
+Subgrounds: Plug-and-play Python framework for visualizing subgraph data with Plotly/Dash
+This month in Graph Indexing - January 2022 Edition
+Publisher/Developer Incentives
+Rewarded force-close mechanism to eliminate stale allocations
+IPFS Sync of a directory with a lot of files?
+The Graph Council - Meeting #22 Notes
+Wrong code example on Many-To-Many relationship
+Is it possible to create a live chart platform like Poocoin or DefinedFi using The Graph to pull on-chain data?
+Can the Graph Index Government Documents?
+GIP-0023: Subgraph ownership transfer using external NFT contract
+Querying Subgraphs from Unity Game Engine with Rawrshak Gaming SDK
+"Query just return the last emitted event, even if more events have been emitted"
+The Graph's Community Talk #7
+Matchstick feedback and suggestions
+Can a subgraph access both indexed and non-indexed event properties?
+Create subgraph on multi chain
+Ethereum client and JSON-PRC API for The Graph network
+Getting Immediate Data of Token
+Easier on ramp to billing account
+GIP-0018: Subgraph ownership transfer
+GIP-0022: Tendermint indexing for Graph node
+Query the subgraph only get few records?
+Unbonding twice during same period results in longer thawing period for first unbonding?
+How to automatically map large amounts of events?
+The Graph Council - Meeting #21 Notes
+Cross-Dex Price Oracle Solution powered by The Graph
+Add Deploy to Studio button on Hosted Service
+Referral Program Whitelisting [Ethereum]
+RFC: Allocate treasury assets to Univ3 wstETH<>WETH pair to foster Compound listing
+Ethereum Consensus Layer Client Evaluation
+LDO token economics - Proposal [draft]
+reWARDS February 22' Budget
+LEGO: Expand LEGO Committee by adding Mike from Mixbytes()
+LIP-12: On-chain part of the rewards distribution after the Merge
+Yield Generation on Maple Finance
+LIP-11: Add a transfer shares function for stETH
+Lido for Avalanche – Joint Proposal by Hyperelliptic Labs and RockX
+Migrating Anchor protocol bETH integration bridge from Shuttle to Wormhole
+LIP-10: Proxy initializations and LidoOracle upgrade
+reWARDS January 22' Budget
+Updated: Lido Kusama+Polkadot LS by Mixbytes()
+LIP-9: Add an explicit log for the stETH burn events
+LIP-8: Increase keysOpIndex in assignNextSigningKeys
+Proposal: Sponsorship of Bankless Podcast/Newsletter
+LEGO: Integration Lido <> Stakeall Finance
+Combine $LDO governance and staking
+LEGO: A proposal to continue LEGO for Q1 2022
+Lido teams' objectives and key results for 2022
+LIP-6: In-protocol coverage proposal
+Proposal: Commission research through the Messari Hub
+LEGO RFP: Lido Validator Dashboard
+Balancer WETH<>wstETH LP rewards for January
+Rewards distribution after The Merge: architecture decision record
+Join the Flashbots Eth2 Working Group
+Clarification please!
+Lido Referral Program on Solana
+Olympus Pro Bonds Final Push
+Reward @Mainbrain_ community with a BONUS for Olympus proposal
+Proposal Olympus Pro multisig
+Olympus Pro x Unslashed Finance kick-off
+BalancerDAO Partnership with Polygon DAO
+Fund Balancer DAO for Q1 2022
+Move over Grant Program budget of Wave 2 to Wave 3
+[Proposal] Deploy Balancer on L2 Optimism
+token rewards- anyone know?
+[DRAFT] Proposal: Balancer subDAOs Formation
+"BLabs x Community Update // January 12th, 2022"
+FEI<>WETH Liquidity and strenghtening ties with Fei
+[DRAFT] Proposal: Co-Incentivized Metastable Pool with FEI and RAI
+[Proposal] Increasing flexibility of Liquidity Mining program
+Get claimable Balancer(BAL)
+Trade error on gasless exchange
+[Proposal] Set up a structure for long-term collaboration with Tempus
+[Proposal] Invest FEI/TRIBE & MTA tokens
+Governance Pledge to the Balancer Ecosystem
+"BLabs x Community Update // December 15, 2021"
+[Proposal] Boosted Pools: Authorize Gauntlet and the Ballers Multisig to manage pool parameters
+[Proposal] Boosted Pools: Authorize Balancer Labs to emergency pause
+[Proposal] Authorize the Batch Relayer
+"BLabs x Community Update // December 2, 2021"
+Risk Core Unit Month in Review: January 2022
+Relay Semanal: 18 - 24 de Enero de 2022
+Encuestas de la Semana: 31 de enero de 2022
+"State of Dai: January 25 - 31, 2022"
+"Weekly Relay: January 25 - 31, 2022"
+[PAXG] Collateral Onboarding Risk Evaluation
+Retrieving lost DAI
+[Signal Request] Extend the Delegate Compensation Trial
+🔎 Focus On #4: MIP6 Review Methodology for Structured Finance Transactions
+MIP41c4-SP29: Facilitator Onboarding for Maker Talent Core Unit (MT-001)
+MIP40c3-SP51: Modify Core Unit Budget (MKR) - Maker Talent (MT-001)
+MIP40c3-SP50: Modify Core Unit Budget - Maker Talent (MT-001)
+MIP39c2-SP28: Adding Maker Talent Core Unit (MT-001)
+Parameter Changes Proposal - PPG-OMC-001 - 2022-01-27
+MIP6 Collateral Onboarding Application: Stable+; US Treasury Securities Up To 12 Months Duration
+How to make 320M DAI disappear (aka why Accounting matters)
+Meet Your Delegate #9 - Hasu
+PSM WebApp: A Maker Community Project
+Flappy Friday - CLIP and FLAP Analysis
+Weekly MIPs Update #72
+[Signal Request] Maker Accessing Pools of Institutional Loans Through Maple Finance
+MIP4c2-SP16: MIP55 Amendments
+Source for getting collateral and dept balance
+"Growth CU weekly update: Jan 28 2022, YGG as collateral?"
+Remove from LP token to usdt
+KyberSwap's🔺#AvalancheRush Yield Farming Phase 2 is coming!
+"Dear Kyber, don't shoot yourself in the feet, please!"
+How can I create a token
+Hiii i have sent my knc (v2) sent to coin base account but they are not credited what is the reason is this
+Withdraw my KNC from kyber.org
+Removing token from old LP
+Thoughts on veKNC?
+Problem with Farming LP Token
+Tranches Battle: choose which asset integrate next
+Introducing $IDLE Gauges model for Tranches
+Idle DAO Legal Structure - FAQs
+"[IIP-18] - Governor bravo update, M1-2022 Leagues budget transfer, Idle Smart Treasury migration, and Enzyme Bug Bounty"
+DAO Tools Research - Idle DAO Modular Stack
+Idle DAO Legal Structure - Summary
+Idle DAO Legal Structure - Governance Proposal
+Remove Idle Smart Treasury and deploy 200k IDLE into Bancor and Uni v3
+Yearn Idle Strategies Team Formation
+📅 IdleGov Biweekly Update – 01/04/22 [BW28]
+Governor Bravo Upgrade
+Leagues budget M1-2022
+📅 IdleGov Biweekly Update – 12/21/21 [BW27]
+Idle Leagues – Learnings and improvements for the next mandate
+C&M League – Advisor Application
+Messari launches governance tool with Idle support
+Idle Leagues M3 report (Sept-Nov 2021)
+$IDLE rewards on Polygon Lending
+📅 IdleGov Biweekly Update – 12/06/21 [BW26]
+Accidentally rejected Metamask prompt
+Broken links to the wiki
+How long it takes to have a BIP thread approved?
+BadgerDAO: Hashmask
+BIP 84: DIGG Boost Restoration
+Tranching yields while improving ibBTC Curve liquidity with Idle Perpetual Yield Tranches: vote is on
+Trying to convert btc to wbtc
+I can no longer locate my Badgers
+BIP 80 Restitution of non-recoverable assets via remBadger Sett
+Determine Whether Hack Victim?
+Boost optimization incorrect - not showing I have Native even though I do
+BIP 83. Update bCvxCRV to lock CVX
+BIP 82. Emissions: Q1 2022
+Staking mismatch
+BIP 80: Parameter FeedBack - Seed Funds For Restitution Program of Non-Recoverable Assets
+Is it normal that my asset does not display?
+BIP 81: Buy The Dip
+byvWBTC Withdraw using bridge
+BIP 78: Return Recoverable Tokens
+BIP-80. Pay a white hat bounty to discord user who flagged up the frontend exploit
+BIP 79: Restore Governance Tokens
+Unstake/Claim Rewards Block? Please Advise How To Unlock. Thx
+Not Prompted To Send Minted WBTC
+BIP 77: Reactivate Smart Contracts and Recover Funds
+BIP 76. Upgrade Smart Contracts
+Earned my Anniversary Badge
+POOL Holder wants to be fun
+Treasury Assets Management #1
+Replace $1 prizes with small APR
+[RFC #2] Community Advocate Status Role
+Amended- Forming The PT Marketing Working Group
+Reintroduction of Pods to incentivise small depositors
+Direction for PoolTogether + POOL Tokenomics
+"Better POOL Tokenomics through gPOOL, Staking, Prizes, and Liquidity"
+Prize Adjustment #2
+Borrow or Buying wining chance(make a real lottery)
+PTIP-53: Prize Adjustment #2
+"Jan 21, 2022 - Prize Liquidity and Exec-Team Budget (52&53)"
+Tuna's POOL Stimulus Plan
+PT Inc. Vision and Roadmap for 2022
+Gonbatfire's POOL Tokenomic Reactivation Plan
+"Jan 16, 2022 - 100k USDC from ETH to POLY"
+RFC: Enable POOL voting on L2s and non-Ethereum L1s
+PTIP-52: Additional 30 Days of Prize Subsidies
+RFC: Formalizing the Community Advocate role
+[META-VOTE] POOL pool gasless voting setup
+PTIP-53: Executive Team Budget
+"Additional Prize Methodology to Drive Participation, Fill Pool Treasury, and subsequently increase Token Value"
+Source to get Ticket Smart contract details or API to get balance of particular user
+Forming the PoolTogether Marketing Working Group
+Inroduction of Pool Together on PH
+"Coordinape, Continuation Q1 2022, Increasing Budget"
+RFC: Formalizing the Executive Team
+Optimising Pool Togethers Treasury Yield
+Uniswap V2 Pool/Fei trading pair list on CoinGecko
+PT v4.1: Draw Percentage Rate (DPR)
+All transaction become fail
+If you have issues with Sushi Relay
+Sushi DAO Restructure Proposal
+Community election of new interim CEO
+Pricing Network Outages for Sushi Relay - Improved Gas Price API
+"Deposited (or Approved?) my Sushi tokens, paid ETH fee in the process, but no staking data available"
+Farm on Harmony -balance disappeared
+Hire a Dedicated Forum Moderator
+Board of Directors of Guarantees for Interim Governance
+[Call to action] The next steps forward
+Ask 0xMaki to return as CEO
+Issues with the account
+Combined Arca & Frog Nation Restructuring Proposal
+Sushi Relay --- Comments/Questions/Concerns
+Is Meowshi still being supported?
+Increase decentralisation for SUSHI DAO by eliminating SUSHIPOWAH Poll Proposal Restrictions
+Shoyu NFTs & Immutable X Partnership
+Deploy on L2 Optimism
+Forum Moderation Updates
+Possibly Missing Funds in Liquidity Pool
+Clover Finance x SushiSwap Proposal
+Cronos blockchain
+[Draft] Proposal Deploy SUSHI on Meter
+[Draft] Constitution: Let's write it together
+A Transparency Framework Required for SUSHI new Governance
+Can't withdraw from staking
+Add Rainbowpuffpuff as forum and discord moderator
+Hire DomainGuard for Proactive Phishing and Fraud Protection
+1inch swap API issue
+Call swap api using javascript
+[1IP-05] Add Derivative Aggregation to 1inch Network
+1inch Network DAO -- Snapshot Delegate Thread
+Swap API fee and referrerAddress
+How about building multi-assets transaction routing?
+How about building a cross-chain bridge aggregator?
+How 1Inch integrated Venly?
+Error while trying to broadcast transaction approve in BSC
+How to get rates with API?
+What do we need to do to expand the forum? possible implementations
+what can we do to create awareness for the platform as the cryptocurrency world is gaining popularity around the globe exponentially while taking into consideration the utility and governance protocol into account?  
+Advice what to do with 1inch tokens
+The 1inch-Usdc LP Farm!
+Swap API is throwing error for slippage less than 8
+Unstake Governance tokens
+Discussion proposal: expand utility for $1INCH token by leveraging OPIUM protocol
+[1IP-0] 1inch Improvement Proposal Template
+Adjust positive slippage reclamation
+How can 1 inch DAO benefit us?
+Suggestions and discussion for voting mechanisms
+"virtualParts, parts and mainRouteParts API parameters"
+"New treasury, DAO needs to make a decision "
+Unique Idea for Ethereum Gas Fee Payments
+[Proposal] Streamlining contributor compensation
+Keep3r V2: decrease bond for maximum kp3r boost
+Increase job fees from worked() keeper jobs to 10%
+[PROPOSAL] Job Scouters & Strategists Incentives
+Fair business practices
+"Tranching yields, improving yCurve liquidity: vote"
+YFI Solid Theorycrafting
+[Proposal] yMarkt: The best buybacks can get
+"Not able to join discord, can someone help me"
+[Proposal] Revising delegated vault fees (part 2)
+What new Yearn product would you like to see?
+I deposited wFTM but don't see the balance
+Job Scouter -- Keeper
+Yearn Finance Artwork
+[Proposal] Revising delegated vault fees (part 1)
+YIP-65: Evolving YFI Tokenomics
+[Proposal] Mean - DCA Buyback Pilot Program
+Yearn finance good
+Proposal to create a USDap vault
+Introduce sophistication tiers for strategies
+Strategists rewards
+"stKeep3r is a scam, right?"
+"Help, my vkp3r token is missing"
+Synthetix expansion to Polygon
+Welcome to DVF DAO Discourse!
+What is the minimum amount of DVF that needs to be staked in order to create proposals within the governance mechanism?
+Where should DeversiFis next bridge be?
+Changes to the Trading Rewards Program
+Margined swaps / perpetuals
+Add $SOS trading pair(s) to exchange
+Incentivising payment of fees in dvf
+"We should get a fee discount for holding DVF, what do you think?"
+Which initial pairs should the AMM Liquidity Mining Program launch with?
+Vote to create and fund a Community building subDAO
+Reduce Trading Rewards by 80% + Increase Each Subsequent Week
+Minimum order size
+Give an early airdop to all members
+Vesting Schedules
+Metaverse coins on DeversiFi
+Can deversifi work with dydxfoundation to allow users to quickly withdraw dydx to deversifi for trading?
+About Voting on Snapshot
+Airdrop dvf small nec
+Temperature Check - Should the DVF DAO Add Additional DVF to the DeversiFi & Uniswap DVF Markets Above $10?
+Create bridge to binance smart chain (bsc)
+Does the team think to share Exchange Revenue to share with Stakers?
+Temperature Check: Should the DVF DAO Owned DVF LP tokens be staked into Sushi Onsen?
+Bridge with Polygon and 1Inch to attract more users
+DVF DAO Frequently asked questions
+Community Guidelines
+Launch Aave V3 on Gnosis Chain
+Request for Approval. Aave <> Starkware Phase I
+Paper on Stablecoins
+[Request for Proposals] $LIQ Airdrop to Wonderland Users
+What is a $sushi token?
+ARC: Add support for stETH (Lido)
+The Graph’s Core Devs Meeting #10
+Deploy subgraph to multiple networks simultaneously using the same project
+"MIP4c3-SP1: Rapid Payment for Small Bug Bounties (MIP64, MIP40c3-SP42 Amendment)"
+[Signal Request] Raise Gemini Dollar (GUSD) PSM Debt Ceiling To 60 Million DAI
+[GRANT] RFP-5: Deploy Idle Perp Yield Tranches for Harvest Finance– IdleHusbandry
+Deploy Aave V3 on Evmos
+MIP4c2-SP15: Core Unit Offboarding Process Amendments
+"[Signal Request] SourceCred, stop paying people who are already paid by MakerDAO"
+ConsolFreight taps into Maker's Vault
+DAO article for Currency.com
+Schuppi Delegate Platform
+"gbMKR, a proposal to benefit long-term MKR holders"
+Immunefi Security CU Update for Fe--January
+GovAlpha Quarterly Review Q4 2021
+"Proposal: Uniswap purchases presenting sponsorship spot at Permissionless, the worlds largest DeFi conference"
+[Informal Poll] Discontinuation of G&R Call Snippets
+"Governance and Risk #177 - Thursday, February 03 17:00 UTC"
+Multichain Strategy Community Call
+Should BadgerDAO Sponsor Permissionless?
+MIP40c3-SP58: Modify Core Unit Budget Immunefi Security Core Unit Budget - IS-001
+Maker Academy: New Incubating Core Unit
+Intangible Asset Agreed Modification of Management 2022-02-01
+Add Polygon AMM Market
+Issue Discussion Call #4 | Core Unit and Facilitator Offboarding
+BIP 85: Add bveCVX and bveCVX LP as Native in Boost
+Make Tangle owner of Sushi Discord
+How about in-app browser?
+ARC: Deploying Aave on StarkNet
+MIP40c3-SP55: Modify Core Unit Budget - Sustainable Ecosystem Scaling (SES-001)
+In defense of bigger Surplus Buffer
+Staking YFI but no reward!
+[Proposal] Implementation of Coordinape for Keep3r
+Proposal to add a DYDXETH Gauge
+Launch RocketPool rETH pool to promote decentralization.
+Aave V2 - Liquidity Mining Program Aave V2 Ethereum market and Aave ARC market
+How to vote govermance
+The $UNI token and its future
+Adopt 🦄 on unicode
+Market makers and CEX Listings
+Does this belong to you
+"Forum at a Glance: Jan 27 - Feb 3, 2022"
+Product Discussion: NFTs as MakerDAO Collateral
+SES Weekly Status Update: Maker Academy Convocation
+"[Signal Request] Advance ""Rapid Payment for Small Bug Bounties"" to on-chain poll"
+A pioneer in Real-World Assets has left
+"[Signal Request] gbMKR, a proposal to benefit long-term MKR holders"
+ALM framework for MakerDAO
+Auction-backed Dai
+Relay Semanal: 25 al 31 de Enero de 2022
+[Signal Request] Offloading TUSD-A
+MakerDAO Actual Expenses vs Budget - December 2021
+Delegate Round-up January 2022
+MIP40c3-SPX: Modify Core Unit Budget
+MIP6 Collateral Onboarding Application: Stable+; US Treasury Securities Between 2 and 10 Years Duration
+[PUNK] Collateral Onboarding Application
+MIP41c5-SPX: Facilitator Offboarding
+MIP39c3-SPX: Removing Core Unit
+Recognized Delegate Compensation Breakdown - January 2022
+Old KNC and KNC v2
+Have crvibBTC now what?
+Nomination: underthesea
+Nomination: Taliskye
+Ondo Dreams of Sushi
+SS/MetaMask dollar value discrepancy
+Doubts on 1inch api
+Shortfall Event occurrence
+ARC - Add DPI as Collateral on the AAVE ARC market
+ARC: Add alUSD as Borrowable to Aave V2
+ARC - Continue Liquidity Mining Program on Aave V2 Ethereum market and Introduce Liquidity Mining on Aave ARC market
+Market Downturn: Gauntlet Risk Review (Jan 2022)
+The Graph Council - Meeting #23 Notes
+"BLabs x Community Update // February 4th, 2022"
+Introducing veBAL tokenomics
+Grant Announcement: KYC/AML Compliance Research
+Lost DAI IN FTM Network
+Our condolences go to Phil and his family
+[Signal Request] bring back the MKR burn
+[OHM] - OLYMPUS DAO Collateral Onboarding Application (MIP6)
+Encuestas de la Semana: 24 de enero de 2022
+GovComms Biweekly Update: Jan 17 - 28
+Anyway to get dai back
+Correction to Last Week's Executive
+Deploy Curve on the Kava Network
+Governance and DAO UI launch
+PSA: active moderation of governance threads
+[ARC] Aave V3 network integrations process
+[Grant Proposal] OpenSky Finance x AAVE Protocol
+Deploy AAVE v3 on Polygon Network
+Deploy Aave v3 on the Kava Network
+Graphtronauts app- allow easy 0x0 access
+Pending connection with MetaMask?
+This month in curation #12 | February 22
+Support for one of the fastest growing networks Flare Networks?
+Allow multiple undelegation request from a delegator
+JSON-RPC API for all TheGraph indexers by Anyblock
+Potentially bad pattern of Indexer behavior [Open Discussion]
+Baseline for Lido validators on Terra
+Stake flattening on Terra
+Proposal: Convertible Voucher Offering on Solv
+[Proposal] Balancer DAO Fuse Pool
+[Proposal] Deploy Balancer on Gnosis Chain
+Framing The Debate on Market Liquidity - Part One - Funding
+10 000 000 000 DAI reached!
+MIP13c3-SP12: Declaration of Intent - Invest in short-term bonds
+Makerburn's 10B DAI NFT meme competition
+Parameter Proposal Group - MakerDAO Open Market Committee
+"MIP40c3-SP56: Modify Core Unit Budget, RISK-001"
+Monthly Core Unit Updates: January 2022
+"State of Dai: January 1 - 7, 2022"
+"Weekly Relay: January 1 - 7, 2022"
+Sent dai in bep20 to dai On plygan network
+MIP40c3-SP57: Modify Core Unit Budget - Collateral Engineering Services (CES-001)
+Weekly MIPs Update #73
+Meet Your Delegate #9 - Hasu - Postponed
+Methodology for Review of MIP6 Structured Finance Transactions
+Rate Limited Flapper
+Monthly Governance Review: January 2022
+$spell from MIM3CRV perpetual tranche
+Badger Expiring
+Arbitrum rewards
+PTIP-55: Extend Pool Emissions
+Leadership of the #Marketing Working Group
+PTIP-54: Treasury Assets Management #1
+Proposal: veSIP - an improvement for Sushiswap proposals
+SushiSwap Org Chart & Business Plan Roadmap
+Pay the team (backpay and month-to-month)
+Help for someone very new to this
+Добавление сетей / add network
+Hey community im Philip and an old investor in ETH from when it started!
+Yaern.vision shareprice calculation
+YIP-66: Streamlining contributor compensation
+Call to Action: We NEED better recognition
+MIP60: Intangible Asset Assignment
+"Scaling On-chain collateral (in a bear market), using EIP-4626"
+Invest 10% of DAO treasury fund into yield-generating stablecoin USD+ pegged to USDC
+Query Analytics Data Dashboard for Indexers
+[Request for Comment] Balancer DAO Fuse Pool
+Help Wanted: Writers for Stakeholder Programs
+Thoughts around paying Dai Dividends to Maker Holders
+"Growth CU weekly update: Feb 5 2022, L2 Dai liquidity"
+Encuestas de la Semana: 07 de febrero de 2022
+"bETH Anchor integration upgrade on 12PM-2PM UTC, 10th Feb, 2022"
+Misleading Sentence Summary on Live Poll
+Financial Report - 2022-01
+MIP61: Recognized Delegate Compensation
+[Signal Request] MakerMan Retroactive Delegate Comp
+A pioneer in Real-World Assets is gone
+Help Wanted: Writers for Stakeholder Content Program
+Increase the Protocol Fee
+"Governance and Risk #178 - Thursday, February 10 17:00 UTC"
+Proposal: SIMP - Sushi Improvement Proposal format
+Temperature Check - Ultrasound UNI [Fee switch organization funding]
+Frog Nation <3 Sushi
+"Weekly Relay: February 1 - 7, 2022"
+"State of Dai: February 1 - 7, 2022"
+Yearn.vision shareprice calculation
+LIP-13: Easy Track payments limit
+Intangible Asset Agreed Modification of Management - 2022-02-02
+About management fee of delegated vaults
+Aave Polygon User Retention Dashboard
+6s Capital / MakerDAO - Office Hours
+MIP40c3-SPXX: Modify GovAlpha Core Unit MKR Budget
+MIP40c3-SPXX: GovAlpha Budget 2022-23
+When will i Staking Rewards?
+Temperature Check - Deploy Uniswap V3 on Harmony through an Additional Use Grant to Hermes DeFi
+Starknet Engineer Core Unit - January 2022 Update
+[Signal Request] bring back the MKR burn Part II
+MIP63c4-SP1: Onboard/Amend Keeper Network - Tech-Ops
+Planned Executive Proposal Update
+MIP40c3-SP59: GovAlpha Budget 2022-23
+MIP65: Project Clydesdale: Monetalis Arrangement I: Liquid Bond Strategy & Execution
+[ARC] Deploy Aave V3 on Cronos chain
+ARC: Risk Parameter Updates 2022-02-10
+New protocol that creates potential risk: Bribe
+Lens Protocol Governance
+Lending Subgraph Standard
+Number of Node operators for each protocol
+0
+Announcement: Onboarding for (Terra Wave 3)
+[Proposal] Partnership with MCT Token (MyConstant)
+[Signal Request] Allocate 20M to protocol owned Uniswap V2 MKR/DAI LP
+RWA - 6s - 2022 - a time to start walking - Part 3
+[Informal Poll] Build MKR/DAI LP and use as Backstop
+[Discussion] Open Discussion with TrueUSD
+Manual Operacional de Maker (en español)
+¿Qué es el SourceCred y cómo puedo apuntarme?
+MakerDAO & Immunefi Security Core Unit launch LARGEST Bug Bounty for DeFi
+"Forum at a Glance: February 3 - 10, 2022"
+Relay Semanal: 01 - 07 de Febrero de 2022
+MIP40c3-SP61: Modify Core Unit Budget - Real-World Finance (RWF-001)
+[Signal Request] Raise Threshold For Emergency Shutdown Module
+Contracts on mumbai test chain are not verified
+Arbitrum tricrypto pool
+DAO Happiness Survey
+Is this email a scam?
+0
+0
+0
+0
+Introduce yourself thread
+Safe Contract v2MIP41c4-SP32: Facilitator Onboarding to DUX-001 - 0xdeniz
+Launch on the Aurora EVM
+Make WalletConnect first-class feature
+Proposal to add DYDX/ETH to the Gauge Controller
+Listing Proposal: Add CVX (Convex Finance Token)
+Enable Contract Creation tracking
+NFT based Delegation game
+Hosted-Service is not working with Aurora-testnet
+"LDO bi-weekly community call, proposal"
+Increase the DAO voting duration
+Simple micro-grants proposal round 2
+Balancer DAO <> Copper Revenue Share Agreement
+[PROPOSAL] Protocol revenue sharing for pool creators
+Is the Stability fee burnt?
+Doesn't a debt auction devalue MKR tokens?
+Does Maker collect Stability fee in DAI or MKR?
+Algunas dudas sobre MAKER
+MIP41c5-SP5: Facilitator Offboarding
+Why do developers join crypto/Web3 and keep contributing to the space? Insights that fuel sustainable developer growth strategies at MakerDAO
+"MIP39c2-SP30: Governance Communications Core Unit, COM-001 (Mandate Refresh)"
+GovComms Biweekly Update: Jan 31 - Feb 11
+Protocol Engineering Month in Review: January 2022
+[Signal Request] Fund Ambassadors Program Pilot
+GovAlpha Weekly Update - 2022-02-11
+Rate Limiter Parameter Proposal
+SES Updates 11.2.2022: Spotlight X-Ray Research!
+Unified Auctions UI Release v0.7.0 - February 11th 2022
+MIP41c4-SP32: Facilitator Onboarding to DUX-001 - 0xdeniz
+This Forum is No Longer Active - Join the Badger Discord to Join Active Discussions
+This Forum is No Longer Active - Join the Badger Discord to Learn More About Developer Opportunities
+This Forum is No Longer Active - Join the Badger Discord to View Current Postings
+This Forum is No Longer Active - Join the Badger Discord to Submit a Support Request
+Ideas of delegate & multi-delegate ( custom prize tier)
+gPOOL and the Centralization of Power
+PT Inc Development Update
+Safe Contract v2
+Add CRV rewards on a gauge for SDT/WETH pool
+Crypto.com needs tonne and tune as the rappers that fill the stadium YMCCCMBWA
+"Expand LEGO Committee by adding Kai, Lido Terra Lead"
+LEGO: Allocate funds to Immunefi bug bounty
+No Executive Proposal - 2022-02-11 + 2022-02-18
+About the Content Production category (archive)
+Lido Governance Optimisation - Snapshot Delegation
+🔎 Focus On #5: AMA with the Centrifuge Team
+Maker Operational Manual - Spanish version
+Weekly MIPs Update #74
+Makerdao/mcd-security gitbook
+Proposal to add CADC/USDC to the Gauge Controller
+RWA - First Annual Gala Charity Dinner - Save the date
+"State of Dai: February 8 - 14, 2022"
+"Weekly Relay: February 8 - 14, 2022"
+Add support for CVX (Convex Finance Token)
+[Proposal] Governance Process Revamp 2.0
+Introducing Sushimi: SUSHI's NFT PFP project
+Welcome to The Graph Forum!
+[Proposal] Authorize Treasury subDAO to Allocate BAL to Turbo
+No Governance and Risk Call - 2022-02-17
+Statement regarding B.Protocol v2 and Maker integration and risk considerations
+"MIP4c2-SP17: Rapid Payment for Small Bug Bounties (MIP64, MIP40c3-SP42 Amendment)"
+What factors help DAI to maintain a 1:1 peg?
+Encuestas de la Semana: 14 de febrero de 2022
+Doo Delegate Platform
+Delegation Resources
+Meet Your Delegate #10 - Doo
+Obtaining a Marketing Core Unit
+TWAB For Fun and Rewards
+Listing Proposal: Add agEUR on Aave V3 on Polygon
+Gauntlet Risk Parameter Recommendation and Model Methodology
+Compensating security assessment costs for Lido-on-X projects
+[Draft] Proposal: Hand Over Swap Fee Control to the Balancer DAO
+[Signal Request] Implement Governance Mining Trial
+CES Sprint Update #1 (2022/Q1 Sprint #3 - Jan 31st to Feb 11th 2022)
+Maker Academy’s First Status Update!
+SourceCred Report
+Strategic Finance Core Unit Report - January 2022
+Liquidations -> Batch vs Dutch auctions
+Encuestas de la Semana: 14 de enero de 2022
+Encuesta: Aumentar el techo de deuda de PSM-GUSD - 14 de febrero de 2022
+Governance: Endgame
+"Develop ""No-Loss subscribe ""( Free Subscribe) modules on Lens Protocol (AAVE's Web3 social media platform)"
+Samurai v2 Proposal
+"[Proposal] GokuSwap, a Flagship NFT for a Trading & Play-To-Win Platform"
+Hardhat graph plugin
+I was hacked please help me
+Listing POOL on LATOKEN via co-marketing
+Relay Semanal: 8 - 14 de febrero de 2022
+"Forum at a Glance: February 10 - 17, 2022"
+Listing proposal: add jEUR on Aave v3 on Polyon
+Onboarding stETH to zkSync and StarkNet through ZigZag Exchange
+Proposal to add cvxFXS/FXS to the Gauge Controller
+Proposal to add rETH/wstETH to the Gauge Controller
+Proposal to add BTRFLY/ETH to the Gauge Controller
+Proposal to add VST/FRAX to the Gauge Controller
+"3pool, Wormhole UST v2, Frax A parameter changes"
+vETH/ETH pool - Bifrost Finance <> Curve 
+[Wallet Integration] - BlockWallet
+Proposal to Integrate Tally Wallet - Metamask Killer!
+Aave - Treasury Report
+Governance Risk protection in a bearmarket scenario
+ARC - Add DPI as Collateral on the Aave Arc Market
+Governance Proposal - Should Uniswap Provide Voltz with v3 Additional Use Grant
+The Graph's Community Talk #8
+Internal txn support
+"Pillar-p2p-org Indexer for support the Network [don't delegate to it, non-profit indexer]"
+Allowing developers to delete / hide their subgraph (in hosted and studio)
+Can I use the graph with RSK (rootstock) network?
+Mapping relational field thegraph
+Simple Subgraph Integration Testing Proposal
+Request for Proposals: Market Making
+Lido Transaction Error
+[Asset Management] [Request for Feedback] Experiment with new active strategies and optimise the yield
+Trusted Token List
+Against the burn
+Framing The Debate on Market Liquidity - Part Two - Strategic Goals
+Expectations of a delegate
+[3F Delegate Pre-Vote Notice] SES Incubation of the Proposed Talent Core Unit is Inadequate
+Relay Semanal: 15 - 21 de febrero del 2022
+"Buenas, me presento!"
+"Nuevo usuario en el foro, no tan nuevo en el protocolo"
+Multi-chain DAI-lights - 20 de enero de 2022
+Progress Update on the legal structure for Centrifuge RWA vaults
+The case for payouts to token holders
+Primera vez en el foro
+"Strong Towns, an economic analysis of car-centric cities"
+Growth Core Unit Offsite
+"Forum maintenance announcement - Wednesday, 23 February 2022 9-10 UTC"
+Treasury Management M1-2022
+EPNS Partnership & Prize Notifications
+PTIP-56: V3 Transitions
+Executive-Team Clarifications and Member Addition
+PTIP-57: Delegate Voting Power of C4 $ARENA Tokens to Brendan
+C4 Audit: TWAB Delegator
+"Jan 28, 2022 - Prize Tiering Update and Claimed Ownership"
+What is your favorite network?
+Swap Avax to Time (wonderland)
+Clarification on alleged criminal background of SUSHI's involved people
+Integrate Tally Wallet - Metamask Killer!
+Proposal: Sushi is Omakase
+Advertising suggestion
+Use SUSHI for GAS
+Start generating yield for DAO Treasury money through investing in low-risk defi instruments
+"Governance and Risk #179 - Thursday, February 24 17:00 UTC"
+Proposal: Aave Interest Rate Uber Model
+Donation from the Aave protocol treasury to support people in Ukraine
+ARC: Social Impact Treasury Allocation via GoodDollar Staking
+ARC: Risk Parameter Updates 2022-02-24
+"Requesting complete itemized token release table and all founders allocations, and lock up periods, including the names, amount and dates of any sales, and current holdings"
+The Graph Council - Meeting #24 Notes
+Intra DeFi stablecoin issuers money-market
+Off-Chain Governance List of Options and Recommendations
+[EXECUTIVE VOTE NOTICE] 3F Delegate Cannot Support an INCREASE of the GUSD PSM Debt Ceiling
+Mistakenly Sent my DAI to a contact address
+SES Weekly Status Update: Incubation Program Tracks & Core Unit Ideas
+"Forum at a Glance: February 17 - 24, 2022"
+Flipside Crypto Delegate Platform
+Offloading growing Centralization risks to Maker and to DAI. Opening a general discussion
+Proposal: Use the ENS airdrop to subsidize MKR holder onboarding into ENS
+Why are you passionate about Maker?
+Hola comunidad! 👋 Mucho gusto de estar aquí en el foro
+GovComms Biweekly Update: Feb 14 - Feb 25
+GovAlpha Weekly Update - 2022-02-25
+MIP4c3-SP1: Amend MIP64 to clarify critical web bounty amount
+Mi incorporacion al Foro!
+Staked PGX-USDT not showing up
+Bancor Follow-up Liqudiity Deployment (187k IDLE)
+PTIP-59 EPNS Partnership & Exec Team Mandate
+PTIP-58 Exec-Team Add drcpu & Clarify Compensation
+Token Approval Manager - Gnosis Safe app
+Business and Sales Insights
+Immunefi Security CU Update for February
+Monetsupply Delegate Platform
+Lido stETH strained in contract
+Proposal to add FTML/FTM to the Gauge Controller
+ARC: Proposal to add support for USX
+This Month in Graph Indexing - February 2022 Edition
+Announcement: Onboarding for Polygon (Wave 1)
+Maker Academy: Educational Content Poll [Forms Now Accessible]
+"State of Dai: February 22 - 28, 2022"
+"Weekly Relay: February 22 - 28, 2022"
+Growth CU Weekly Update: Feb 28 2022
+Weekly MIPs Update #76
+API “Invalid msg.value” error when swapping bnb for another token
+reWARDS March 22' Budget
+Proposed parameters for offboarding TUSD-A
+Migrate old KNC to New with ledger
+Meet Your Delegate #10 - Doo Wan Nam and Flipside Crypto
+Nexus 2022 Plans
+Forum Guidelines and FAQs
+Welcome to the Nexus Protocol Research Forum
+Introducing: On-chain Rebalancer Vault
+Using mirror community pool
+[Proposal] Adjusting recognized Maximum LTV parameter for bLuna
+[Proposal] Increasing LTV ratio of vaults from 45-50% to 65-70%
+Pylon Pool Monthly Report Jan2022/Feb2022
+Pylon Pool Monthly Report Dec2021/Jan2022
+Proposal: Protocol Tax Update - Buyback Migration
+Introducing: Wrapped mAsset Strategy
+Introducing: Leveraged bAsset Strategy
+LP Money Market
+Introducing: Mirror Short Leveraged aUST Farm
+Protocol-Owned-Liquidity Initiative
+Proposal to add BEAN:3CRV to the Gauge Controller
+ARC: Add support for CVX (Convex Finance Token)
+Temperature Check - Should Uniswap governance contribute funding to the Nomic Foundation?
+The new Schema Prototyper
+GIP-0024: Query Versioning
+"LEGO: Top Up LEGO Wallet with 300,000 LDO"
+"[LEGO] Supercharge cheap, private staking with Lido on Aztec"
+Lido stETH locked to Curve contract
+[Proposal] Refund wstETH liquidity providers
+"Ukraine Vault/Loan/""War Bond"" Purchase Proposal"
+Bounty payout request for Immunefi bug #5565
+Meet Your Delegate #9 - Hasu - No Longer Postponed
+MIP40c3-SP60: Modify GovAlpha Core Unit MKR Budget
+Risk Core Unit Month in Review: February 2022
+Encuestas de la Semana: 28 de Febrero de 2022
+Recognized Delegate Compensation Breakdown - February 2022
+CES Sprint Update #2 (2022/Q1 - Feb 14th to Feb 25th 2022)
+Discord Server Digests
+PTIP-60: Add Polygon Prize Pool Tickets to Snapshot Signal
+PROPOSAL: Should SushiSwap governance contribute funding to the Nomic Foundation?
+PROPOSAL: Contribute to the Nomic Foundation
+Hilo Oficial de Bienvenida
+[Signal Request] Real World Asset Fast-Tracking
+Suggestions as to earning interest on MKR Token
+MIP39c2-SPx: Pairwyse Licensure & Fixed-Rate Core Unit Proposal - PAIR001
+DUX Monthly Update: February 2022
+"Creating a ""PoolPass"" debit card"
+Donation of 1inch DAO Treasury Funds to support Ukraine’s humanitarian crisis
+Lido for Polygon - Proposal by Shard Labs
+Proposal to form Resourcing and Compensation Committee (RCC)
+[reWARDS] March 22' Budget
+"Governance and Risk #180 - Thursday, March 03 17:00 UTC"
+Relay Semana: 22 - 28 de febrero del 2022
+"Forum at a Glance: February 24 - March 2, 2022"
+List of Core Units ideas - Request for Feedback
+Borrowers concentration analysis
+[1IP-06] Donation of 1inch DAO Treasury Funds to support Ukraine’s humanitarian crisis
+Error Vest Withdraw
+Proposal to add SILO/FRAX to Gauge Controller
+Proposal to add a UST-USDC.e Gauge on Avalanche
+Early Contributors Program Launches: Sacred's DeFi-Integrated Mixer
+Proposal: Aave Interest Rate Uber Model v0.1
+"Algo-stablecoins are popping up everywhere, but why not UNI?"
+Graph logs not reactive
+Delay in SourceCred Payments
+What is the current easiest decentralized onramp to DAI for new crypto users?
+What Core Units does the DAO need next?
+"MIP40c3-SP62: Modify Core Unit Budget, COM-001"
+Super old SAI loan
+Monetalis MIP6 - Collateral Onboarding Risk Evaluation
+Monthly Governance Review: February 2022
+Delegate Round-up February 2022
+GovAlpha Weekly Update - 2022-03-04
+SES Weekly Status Update: Lending Oversight Core Unit Incubation Announcement
+"[Signal Request] Promote ""MIP4c3-SP1: Amend MIP64 to clarify critical web bounty amount"" to on-chain poll"
+Bancor Follow-up Liquidity Deployment (187k IDLE)
+Unable to withdraw from Tricrypto vault
+PTIP-62: Grants Committee Funding (Q4)
+PTIP-61: Provide Single-Sided Liquidity to Uniswap V3
+Auto claim
+PoolTogether Community Update
+Automatically harvest SUSHI rewards and stake for xSUSHI
+Pylon Pool Monthly Report Feb2022/Mar2022
+How/where do I source the numbers for a MakerDAO income statement?
+Consensus Check - Should Uniswap governance contribute funding to the Nomic Foundation?
+TechOps Core Unit Updates - February 2022
+Defrost - Melt the Avalanche // Proposal to add H2O:3CRV to the Gauge Controllet
+Proposal to fund Vyper development via a new Fundraising Gauge
+Proposal to add pBTC/crvRenWSBTC to the Gauge controller and kill pBTC/sbtcCrv gauge
+Proposal to Launch Curve on Celo
+Proposal to add SILO/FRAX to the Gauge Controller
+Contributing to Curve
+Proposal to add a UST-USDT-USDC Gauge on Fantom
+Market Risk Monthly (February 2022): Updates and Review
+ARC: Migrate ABPT Safety Module to Balancer v2
+Add EURS on Aave v3
+Verifying Legit Emails from Aave Grants
+Aave X OnePiece Operating System
+ARC: Deploy Aave V3 on IoTeX to Revolutionize DeFi x MachineFi
+Ways to participate in RFPs?
+Proposal: Add support for rETH Token
+Consensus Check — Uniswap x Celo: Green Pool for Treasury Proposal
+[Temperature Check] Uniswap x Celo: Green Pool for Treasury Proposal
+Creating an New Capital Market Structure
+Why do we talk so much about a new airdrop?
+I think uniswap should be extended to more networks~
+Contributing to UniSwap
+"Sync will appear Failed, but cannot reach 100%, what is the general reason?"
+Hosted vs Subgraph Studio
+The Graph Council - Meeting #25 Notes
+"GIP-0001 and Getting Started with GIPs, GRPs, GRCs, etc"
+Making API calls with node-fetch in nodejs issue
+The Graph's Community Talk #9
+Flatten curation market bonding curve AND steepen Graph Name Service bonding curve
+Grafting in the decentralised Graph Network
+GIP-0017: Allow batching calls in Staking contract
+GIP-0025: DataEdge
+GIP-0026: Principal-Protected Bonding Curves
+Problematic Economics: Subgraphs with low traffic get dropped
+Regex support for queries
+This month in curation #13 | March 22
+Introducing the Semiotic Indexer
+Staked asset naming rules
+Candidate Proposal for Head of Marketing & Community Role
+Contributing to Lido
+[LEGO] PoLido Staking Strategies <> Stakeall Finance
+Head of Marketing and Community Proposal
+Setup Lido Referral Program committee and use Easy Track for the payouts [Ethereum]
+Legal Engineering RFC/RFP: Establish Lido Legal Entities
+Compensating gas costs for protocol operation
+Proposal: Hand Over Swap Fee and Amplification Factor Control to the Balancer DAO
+Ways to contribute to Balancer?
+[Signal Request] Onboard D3M For Notional Finance
+MIP40c3-SP64: Add Data Insights Core Unit Budget
+MIP40c3-SP67: Modify Core Unit Budget - Strategic Happiness (SH-001)
+stkMKR: Maker Staking and Tokenomics Revision
+"MIP40c3-SP63: Modify Core Unit Budget, COM-001"
+"Weekly Relay: March 8 - 14, 2022"
+RFC Budget request MIP - Break on-going from expansion budget requests. Budget Polling to RCV
+MIP63c4-SP2: Onboard/Amend Keeper Network - Keep3r Network
+[Signal Request] Onboard PAXG
+Content Production Core Unit Offboarding Post Mortem
+Weekly MIPs Update #78
+MIP68: Monetalis Vault V2
+GovComms Biweekly Update: Feb 28 - Mar 11
+Growth CU Nov-Dec-Jan review and weekly updates: March 11
+Call for Responsible Budget and Process
+MIP39c2-SP32: Adding Events Core Unit (EVENTS-001)
+Introducing the Ecosystem Performance API and Dashboard Objective
+MIP66: Pairwyse Licensure
+Hasu Delegate Platform
+GovAlpha Weekly Update - (Delayed from) 2022-03-11
+Licensed Security Tokens platform Head-quartered in Singapore
+"Forum maintenance announcement - Monday, 14 March 2022 9:00-9:30 UTC"
+Joint Liquidity Mining on Avalanche with BENQI (QI Token) on KyberSwap
+Jeur/usdc lp issue
+Uniswap v3 - Liquidity Concentration and 50k IDLE Deployment
+Leagues budget M1-2022 extension
+BIP-87: bveCVX restructure - voting strategy and emissions - Revised with community Feedback
+BIP-86: Change and ratify Badger Council Membership
+POOL Utility - SWIM Points
+(RFC) Treasury Working Group | Second Quarter Renewal
+PTIP-63: Rapidly Grow Our User Base Through Strategic Partnership
+Nomination: DaBoom
+PTIP-64: single-sided POOL staking with IL protection on Bancor
+"March 3, 4, 8, 2022 - Delegate C4, Swap USDT, Distribute POOL Comp, add drcpu"
+"Feb 16, 22, 28, 2022 - Team comp, Prize rebalance, TRIBE deposit"
+Sushi <> Galleon
+Staking Sushi using Coinbase Wallet
+Contributing to Sushi
+1inch 🤝 Balancer Boosted Pools
+How to earn with 1inch?
+Yearner.fi: simple insights into Yearn investments
+Publish a public timeline for YIP 65
+Dispute 0x6352 for manipulating yearn tend call
+[Proposal] Composable Yield Vaults
+YIP-67: Contribute to the Nomic Foundation
+Ways to participate in developing Yearn
+Ways to participate in growing Synthetix
+[Proposal] sAVAX Anchor Vault
+Encuestas de la Semana: 14 de marzo de 2022
+"State of Dai: March 8 - 14, 2022"
+Hacked by someone in aave
+Referral Program rules adjustment
+No Planned Executive - 2022-03-18
+Time for a POOL Party!
+Possible fraud committed during lbp
+Anti-inflationary proposal
+MIP67: Methodology and Review Process for Structured Finance Transactions
+"MIP40c3-SPTF-A: Modify Core Unit Budget, ORA-001 (Oracle Gas Costs)"
+New Silver February 2022 Update
+Attention TUSD-A Users: Collateral Offboarding
+Introducing: Nexus Boosted Prism Farming
+Gathering community sentiment for a built-in nAsset auto-compounder vaults (not SPECTRUM)
+[StarkNet] DAI Bridge and StarkNet Platform Technical Risk Assessment
+Product Discussion: Maker Owned Fuse Pools and Maker Fuse D3M
+IIP-19: Bancor Follow-up Liquidity Deployment and $IDLE Gauges setup
+Hexagon Friendly Fork Proposal
+DICU 2021 - 2022 Financial Year in Review
+Aggressive Growth Strategy
+"Governance and Risk #182 - Thursday, March 17 17:00 UTC"
+MIP40c3-SP46: Adding Strategic Finance Core Unit Budget (SF-001)
+MIP63c4-SP3: Onboard/Amend Keeper Network - Gelato Network
+Pending Version won't swap to Current Version (Hosted Service)
+Off-chain Node Operators keys storage
+U.S. Dept. of Labor Throws Cold Water on Crypto Related Retirement Investment Options
+"Forum at a Glance: March 10 - 16, 2022"
+Ukraine Authorizes Cryptocurrency Exchanges and Banking
+MIP4c3-SP2: MIP62 Amendments
+"[Signal Request] Promote ""MIP4c3-SP2: MIP62 Amendments"" to an on-chain poll"
+Snowcat DAO x Sushi Mutual Pooling Proposal
+ARC: A partnership between AAVE and Deri Protocol and a B2B business model for AAVE
+Proposal to add TUSD/am3CRV to the Gauge Controller 
+Relay Semanal: 8 - 14 de Marzo
+Create NFT for the MKR community
+Dai - status Pending 2 days
+Arbitration Analysts
+MIP47c3-SP1: Dissolution of Content Production (MKT-001) Multi-Sig Request Subproposal
+How do 1inch Limit Orders actually work?
+Aave <> Bored Ghosts Developing (BGD)
+SES Weekly Status Update: Legal & Transaction Services Core Unit Incubation Announcement
+🔎 Focus On #8: stkMKR: Staking & Tokenomics Revision
+🔎 Focus On #7: RWA Lending Principles
+MIP40c3-SP66: Events Core Unit DAI Budget (EVENTS-001)
+MIP39c2-SP31: Update Data Insights Core Unit Mandate
+1inch Nft airdrop to its volume swapper
+(Proposal) Aave X OnePiece Operating System
+ARC: Risk Parameter Updates 2022-03-17
+Refinance loan from compound (other money markets) to Aave
+[Proposal] Delegate Treasury subDAO the Power to Invest Protocol Fees
+[Proposal] BalancerDAO Compensation Evolution
+MIP6c3-SP2: Modify the collateral application form
+MIP69: Nice - RFC
+Maker Academy Status Update #2
+Quick Comparison of stETH lending markets Maker vs AAVE
+Limit orders won't go through
+Aave X OnePiece [Automated System Operations]
+Aave X OnePiece - [Automated System Operations]
+CES Sprint Update #3 (2022/Q1 - Feb 28th to Mar 11th 2022)
+Testnet user thank you very much
+Lido <> Galleon - Grant Proposal
+Curve X OnePiece [Automated System Operations]
+Stop the AAVE Migration and recover 4% of the AAVE supply
+"Avalanche Market - add sAVAX to aave v3, raise LTV of AVAX"
+Optimize rate curve for ETH & improve revenue generation
+[Draft]Create AAVE investment dao
+Polygon 1bp Fee Tier
+GIP-0025: Principal-Protected Bonding Curves
+The $LDO whale unlock - OTC - time to get organized
+veBAL Activation Proposal
+MIPLXIX: Nice (RFC)
+A RWA DeFi ecosystem: more than just onboarding collateral
+Acronym Reference List
+MIP40c3-SP68: Modify Protocol Engineering Core Unit Budget - (PE-001)
+7 Years of Rune in MakerDAO
+MIP69: L2 to L1 Fast Withdrawals
+Developer Volunteer to Help
+[CurveLP-stETH-ETH] Parameters Adjustment
+Flash Loan Debt Manipulation During Emergency Shutdown Vulnerability Postmortem
+MKR as collateral in the MKRDAO system?
+Discuss: Changes to Joint Liquidity Mining Framework
+DIP 2: Increase boost of digg to equal the value of one wbtc
+Prize Adjustment #3
+On PTIP participation
+Sushi Legal Structure
+Error reported on swap feature of Fixed Forex
+rKP3R rewards for vKP3R holders - w/c 14th March
+Launch Your P2E NFT Gaming Platform like Axie Infinity!
+[Informal poll] Actions to increase competitiveness of ETH & stETH collateral
+Solutions to DAO challenges
+Governance Proposal - Should Uniswap governance contribute funding to the Nomic Foundation?
+"Investing our liquidity in short-term ETF, managing PSMs exposures"
+GovAlpha Weekly Update - (Delayed from) 2022-03-18
+Weekly MIPs Update #79 :piñata:
+ARC - Strategic Partnership with Balancer
+Local Development vs Testnet
+Met trouble: graph deploy --product hosted-service <GITHUB_USER>/<SUBGRAPH NAME>
+Are subscripions feature complete?
+Does thegraph support graphql subscriptions?
+"Developer Highlights #4 - ""Templates and Anonymous Contract Events"""
+"Developer Highlights #5 - ""Supporting Multiple Networks"""
+Developer Highlights #3 - “Building ambitious subgraphs” part 2
+Proposal to freeze vesting for compromised address
+Maker Operational Manual - Updates! :partying_face:
+"Weekly Relay: March 15 - 21, 2022"
+"State of Dai: March 15 - 21, 2022"
+Enter the Stargate (Omnichain Strategy)
+Temperature Check - Should Uniswap v3 be deployed to Gnosis Chain?
+Wasm trap: out of bounds memory access wasm backtrace
+Symmetric Balancer Friendly Fork Proposal
+A16z MakerDAO Tokenomics Proposal Three: Increasing Financial Resiliency and Fostering Growth
+A16z MakerDAO Tokenomics Proposal Two: Aligning Governance Incentives
+A16z MakerDAO Tokenomics Proposal One: Adding Utility Functionality to the MKR Token
+A16z MakerDAO Tokenomics Proposal Overview
+Add MAI on Aave V3
+ARC - Update Risk Parameters Mainnet Arc Market
+Temperature Check - Upgrade the NonFungiblePositionManager smart contract to reduce gas consumption
+The Graph Core R&D Roadmap
+"Moderating ""Suspicious"" Accounts"
+Starknet simple bridge limit poll: Risk assessment & mitigation
+MIP55c3-SP3: ETHAmsterdam Event SPF
+MIP40c3-SP65: Events Core Unit MKR Budget (EVENTS-001)
+MIP6 Application - Untangled Finance DROP (U-DROP): Diversified Trade Finance Fund
+Vaults (MCD) & Governance trackers transfer
+Dai Stats Error in TVL for WSTETH-A
+"Governance and Risk #183 - Thursday, March 24 17:00 UTC"
+RFC: Prize Liquidity
+KP3R Tokenomics Explainer by SeaSaltyFunk
+Token Emissions & Olympus Pro Bond Program
+Launch on the RSK EVM
+Proposal to subsidize Concentrator's harvesting transaction cost via Fundraising Gauge (Harvest-for-All)
+ARC: Adding Multi-Collateral DAI to the Aave ARC Market
+Add TUSD to AAVE v3 Polygon
+Decaying Curation Tax
+MIP39c2-SP26: Adding Pairwyse Fixed-Rate Core Unit - PAIR-001
+MIP4c2-SP18: MIP7 Amendments
+MIP7c3-SP7: CES Domain Team Onboarding (CES-001)
+MIP41c4-SP33: Events Core Unit Facilitator Onboarding - Jon Perry (EVENTS-001)
+MIP47c3-SP1: Dissolution of Content Production (MKT-001) Multi-Sig Request
+Relay Semanal: 15 - 21 de marzo de 2022
+PTIP-66: Prize Adjustment #3
+PTIP-65: Treasury Working Group Second Quarter Renewal
+UI Design Refresh
+Proposal to refund money spent on deposits on Ethereum to the dev team
+Proposal to fund the depositor bot in Ethereum
+The Graph’s Core R&D Call #11
+Shoyu 2.0 Community Update
+"BLabs x Community Update // March, 2022"
+Proposed Security Fix to Be Added in the March 25th 2022 Executive Spell
+2022-03-25 - Adding Support for the New TUSD Implementation Address
+SES Incubation Announcement: Legal and Transaction Services Core Unit (LTS)
+"Forum at a Glance: March 17 - 23, 2022"
+The typical users of PoolTogether Part 1: Maybe smaller than you think
+Ideas for a next-gen Yearn
+Aave Interest Rate Uber Model v0.2
+[GNO] Collateral Onboarding Application
+BIP-88: Emissions: Q2 2022
+Proposal: Add Support for stMATIC (Lido)
+ARC: Governance process for RWA Market
+ARC: Governance Framework For Alternative Chain Proposals
+[ARC] - Portals governance framework
+List UST on Aave Polygon for borrowing & lending
+xToken Terminal for UniV3 Liquidity Mining
+The Graph Council - Meeting #26 Notes
+Lido on Solana - Proposed Transition from Chorus One to P2P
+"Create ""stETH"" for rocket pool"
+Gathering input for a first formal version of the Balancer Friendly Fork framework
+[Proposal] DAO Multisig Signer Replacements
+[Proposal] Polygon: Authorize Batch Relayer V2 for USD+ Boosted Pool
+Black Thursday | It's still not too late 🤷‍♂️
+Attention TUSD-A Users: Collateral Offboarding Timeline Update
+Towards taking asset risks - A primer
+GovComms Biweekly Update: Mar 14 - Mar 25
+Clarity Around Collateral Onboarding Process
+MIP6: Huntingdon Valley Bank Loan Syndication Collateral Onboarding Application
+MIP4c2-SP19: MIP40 Budget Process Amendment Subproposal
+Create a FEI PSM
+"Growth CU weekly updates: March 25, and an intro to MakerBrand ;)"
+Ust update (Terra)
+SourceCred Bi-Weekly Happenings #2
+GovAlpha Weekly Update - 2022-03-25
+Leagues Coordinators: making Leagues framework lean
+Time for a POOL Party! (Part 2)
+PTIP-67 Move 400k PTaUSDC to Prize Reserves
+MWG Update and Initial Project Pipeline
+Productive Treasury Proposal by PieDAO
+SushiSwap X OnePiece - Automated System Tools
+Introducing Impact Estimations
+LDO Farming - no stake pool atm?
+Odyssey <> The Graph
+GIP-0027: Create altruistic allocations and close stale allocations
+Referral Program Reform
+Weekly MIPs Update #80 :tada:
+ARC: Add PAX Gold (PAXG) Collateral & Borrow Support
+Proposal to mint LDO tokens into secured wallet
+[Proposal] Fund BalancerDAO for Q2 2022
+Extend Dynamic Risk Parameters to Aave Arc
+"Weekly Relay: March 22 - 28, 2022"
+[Portals] Powering the Multi-blockchain multiverse
+"State of Dai: March 22 - 28, 2022"
+Encuestas de la Semana: 28 de marzo de 2022
+Proposal to raise A parameter on USDN pool to 250
+Proposal to add a sUSD<>3CRV Gauge on Optimism
+Add Notifications Center to Aave v3
+Increase Aragon voting duration to 72 hours: operation plan
+Immunefi Security CU Update for March
+MIP63c4-SP4: Onboard/Amend Keeper Network
+Hackers Steal $625 Million From Axie Infinity's Ronin Sidechain
+Build your own PFP with Maker badge!
+CES CU Quarterly Update (Q1 2022) - 2022-04-07 @ 16:00 UTC
+Issue Discussion Call #5 | Budget Modification Process
+[SB-DDC] MIP6 Application: MEMBERSHIP INTERESTS IN DETOX MEDICAL DIGITAL SERIES OF SOLIDBLOCK HOLDINGS LLC IN THE FORM OF CRYPTOGRAPHIC DIGITAL TOKENS (“DDCs”) - a SolidBlock Offering
+Introducing: RWF-001 Weekly Office Hours!
+"Governance and Risk #184 - Thursday, March 31 17:00 UTC"
+MIP4c3SP3: Amend MIP64 to allow more flexibility in scope
+[Gauges] - Initial Gauges batch & Whitelisting process
+The Graph’s Core R&D Call #12
+MakerDAO Actual Expenses vs Budget - February 2022
+MIP63c4-SP4: Onboard/Amend Keeper Network - Keep3r Network
+Proposal to add Tri-CRV to the Gauge Controller
+Listing Proposal: Add CEL (Celsius Token) - ARC Asset Onboarding
+[Temperature Check] Deploy Uniswap V3 on Moonbeam
+Solana network estimate
+GIP-0026: Decaying Curation Tax
+SG Forge: OFH Token Transaction Update - March 2022
+Request for Definitive Description of Collateral Onboarding Process
+Relay Semanal: 22 – 28 de marzo de 2022
+"Forum at a Glance: March 24 - 30, 2022"
+Attention Auction Participants: Upcoming TUSD Liquidations
+Add Notifications Center on Sushi
+Hasu proposal to Lido governance
+Introducing SushiPro ( closed the 29/03 )
+Using 1inch Limit Protocol V2 displays -100% price drop
+MIP63c4-SP3: Gelato Network Clarification
+Proposal for Hasu to join Lido as Strategic Advisor
+ARC: Risk Parameter Updates 2022-03-31
+Stuck on V1 and need advice
+This Month in Graph Indexing - March 2022 Edition
+Instructions - Please Read
+Parameter Changes Proposal - PPG-OMC-001 - 31 March 2022
+[Discussion] Using Large Cap Coin as Collateral Offchain
+🔎 Focus On #9: Dai Foundation Core Unit Update
+Strategic Finance Core Unit Report - February 2022
+Issue with Old KNC token
+IIP-20: $IDLE Gauges activation
+Should $Sushi list on the up coming StrikeX wallet?
+Extend the Safety Module Protection to V2 Markets
+Delegate UNiswap votes to me
+DUX Monthly Update: March 2022
+[IIP-20] – $IDLE Gauges Activation
+Request to Poll for Maker Wormhole Deployment and Associated Risk Parameters
+[sETH2] Collateral Onboarding Application (MIP6)
+Aave logo redesign
+Raidparty CFTI Shop vs Guilds
+Introducing Forum Explorer
+"MIP10c9-SP16: Proposal to whitelist Oasis.app on ETHUSD, WSTETHUSD, BTCUSD, YFIUSD, UNIUSD, LINKUSD, MANAUSD"
+Proposal: Maker3.0 - The future of crypto lending. (RFC)
+Unified Auctions UI Release v1.0.0 - April 1st 2022
+Adding a 2Pool base implementation of USDC/USDT
+Proposal to add XSTUSD-3CRV to the Gauge Controller
+stkAave cooldown increase
+[reWARDS] April '22 Budget + Q1 update
+Grant Proposal: Odyssey DAO - Quality Web3 Education
+Starting staking
+HAUS/WETH 80/20 Gauge
+6s Capital - Growth Pains & Plans - Here we grow!
+6s Capital - Audited Financial Statements
+Penn Blockchain Delegate Platform
+MKR locked into AAVE — Can I still vote?
+[Discussion] Rethinking budgeting for CUs
+Coverage against black swan event (risk of depeg)
+Chips to Tires and Collateral
+[RFC] Polygon POOL Pool Funding through Grants
+Nomination: Neken
+Is there any guide to work on local test network using 1inch router?
+Proposal to add ARTH.usd Gauge
+Add a gauge for the Ankr Reward Earning Staked MATIC (aMATICb) on Polygon network
+Aave Collateral Usage Cap
+Lending Protocol Inverse Finance Loses $15.6M in Crypto Following Hack
+Recognized Delegate Compensation Breakdown - March 2022
+Risk Core Unit Month in Review: March 2022
+Proposal to add JPEG-ETH to the Gauge Controller
+Proposal to add LFT:ETH to the Gauge Controller
+Proposed Template for Future Cross-chain Deployment Proposals
+[Consensus Check] Deploy Uniswap v3 to Moonbeam
+GIP-0028: Subsidized Query Settlement
+This month in curation #14 | April
+[LEGO] [reWARDS] RFP - Incentive Optimization
+"[RCC-1] Apr 1, 2022 - June 30, 2022 Budget Request"
+Proposal-Draft - Whitelist COW pool gages for veBAL voting
+The Maker Brand Team
+"State of Dai: March 28 - April 4, 2022"
+Deco Forum Q1 Progress Report
+"Advance ""MIP4c3-SP3: Amend MIP64 to allow more flexibility in scope"" to on-chain poll"
+MIPXX: Huntingdon Valley Bank “Collateral Block” Exemption
+MIPXX: Huntingdon Valley Bank Self-Contained Onboarding Strategy & Execution
+Meet Your Delegate #11 - Penn Blockchain
+"Governance and Risk #185 - Thursday, April 07 17:00 UTC"
+MIP4c3-SP3: Amend MIP64 to allow more flexibility in scope
+Curve seeks to lower demand for DAI
+Acerca de la categoría de América Latina (ES/PT/EN)
+CES Sprint Update #4 (2022/Q1 - Feb 14th to Mar 25th 2022)
+Kyber working with AnetaBTC team
+M2-2022 Coordinators Applications
+RFC: Protocol Deployed Liquidity On Polygon Uniswap V3
+Delegate PTaUSDC to people who lock their POOL tokens
+MISO LunchPad unable to obtain tokens after Cancelled or Failed campaign
+1inch token on metamask (bnb scm) not visible in staking
+yTrust - Legal Trust Structures for yVaults
+Immediate & Short-term Parameter Changes Proposal for CRVV1ETHSTETH-A - DC and gap increase
+Proposal to add a gauge for the following pool: LFT(Lend Flare DAO token) + ETH
+Proposal to Add LendFlare Gauge on Ethereum
+Announcing startblock - find a contract's startblock easily
+RWA International Ltd. - Update
+SEC Chair makes appearance at Penn Law Capital Markets Association and talks stablecoins
+PoolTogether Community Update (March 2022)
+Transaction model Aave
+Balancer veBAL on Polygon
+veBAL vs LP token for BAL/WETH
+Allow for Gnosis Safe to be used for veBAL locking
+DAIF CU Update - Q1 2022
+MIPXX: Pando Investment Grade Climate Assets Collateral Onboarding
+Relay Semanal: 28 de marzo - 4 de abril de 2022
+MIPXX: Emerging Markets Green Opportunity: Financing for ATD Combustors’ Egyptian Power Plant Efficiency Projects
+PECU Month in Review: March 2022
+PECU Month in Review: February 2022
+MakerDAO at FATF's meeting about AML and crypto
+MIPXX: India Power Green Bonds
+Financial Report 2022-03
+MIP72: Delegated Collateral Attachment - RWA Arranger Application - 6s Capital
+Encuestas de la Semana: 4 de abril de 2022
+Addendum for MIP72: Delegated Collateral Attachment - RWA Arranger Application - 6s Capital
+IIP-21: Set final $IDLE distribution rate on Gauges
+RFC: PoolTogether Seasons
+"March 28, 29 & April 1 2022 - Bridging Liquidity to Polygon, Ghost rule applied"
+Merge MISO with InstaLiq
+Cant swap Matic over Raider
+Information on Yearn strategy/goals/values
+Tokenomics: Redirecting $Psi Airdrops
+[Proposal] bATOM Anchor Vault
+Maker Growth Strategy - We Must Act Now
+Strategic Finance - Office Hours - 2022-04-13 2pm UTC
+Proposal: SushiGuard Router Contract
+"Forum at a Glance | March 31 - April 6, 2022"
+MIP6 Recommended Guideline Metrics for Onchain Collateral Onboarding
+Bridging wstETH to Arbitrum: architecture design record
+[Proposal] Allowlist Aura Finance in Balancer VotingEscrow
+[Proposal] Allow Whitelist tetuBAL in Balancer VotingEscrow
+DUX Roadmap Spotlight: Q2 2022
+MIP6: India Power Green Bonds
+MIP73: Pando Investment Grade Climate Assets Collateral Onboarding
+[SolarX] MIP6 Application: Uprets/SolarX: Industrial Real Estate-Backed Loans
+MIP71: Huntingdon Valley Bank “Collateral Block” Exemption
+MIP70: Huntingdon Valley Bank Self-Contained Onboarding Strategy & Execution
+MIP6: Emerging Markets Green Opportunity: Financing for ATD Combustors’ Egyptian Power Plant Efficiency Projects
+Let's get $TOKE
+Proposal to fund the Protocol Guild Pilot via a veFunder Gauge
+Clarification on PECU Initiatives & Priorities
+[Signal Request] Extend SHCU (SH-001) Budget Until May Governance Cycle
+Cooperation offer!
+March 2022 Reporting for Strategic Finance Core Unit - March 2022
+[IIP-21] – Set final $IDLE distribution rate on Gauges
+Charting a Path For RWAs - The Case For Continuity
+Sidechain/L2 Gauge Replacements/Migration
+Proposal to fund the Protocol Guild Pilot via a Lido Grant
+[Proposal] Allow Tribe DAO to lock veBAL
+NOTE/WETH 80/20 Gauge
+[Discussion] Establishing Minimum Interest Rates Guidelines for MIP borrowers
+6s Structure Updates
+MIP4c2-SP19: MIP40 Budget Process Amendment
+Update to the Gelato Keeper Network Top Up Contract
+Governance House Delegate Platform
+[Discussion] EuroDAI
+Boosting Dai usage by funding an L2
+ARC - Strategic Partnership with Balancer Part #2
+ARC - Strategic Partnership with Balancer Part #1
+The Graph Council - Meeting #27 Notes
+[Proposal] Whitelist Beluga.fi on Balancer VotingEscrow
+"MIP10c9-SP16: Proposal to whitelist Oasis.app on ETHUSD, WSTETHUSD, WBTCUSD, RENBTCUSD YFIUSD, UNIUSD, LINKUSD, MANAUSD"
+6S Capital - Review of the Delaware Statutory Trust
+SourceCred Bi-Weekly Happenings #3
+Off-Chain MIPs Collateral Update: What’s Going On
+Tesla Taps MakerDAO-Powered Lender for $7.8M Real Estate Deal
+6S Capital - RWAC Monthly Report - March 2022
+DAI near 1B in AVAX
+CES Sprint Update #4 (2022/Q1 - Mar 14th to Mar 25th 2022)
+RFC: Renewing pPOOL and POOL/ETH LP Uni V2 Rewards
+Treasury Assets Management #2 (Non-stablecoin assets)
+Tax paid on staking profits
+SushiSwap Predictions - Burn Mechanism
+Design Refresh- New Mockups
+Cross chain swap vis connext.network
+Pylon Pool Monthly Report Mar2022/Apr2022
+Announcement: Onboarding for (Ethereum Wave 4)
+[Proposal] Distribute protocol fees in BAL where appropriate
+BIP 89: BadgerDAO Treasury Management Policy
+Proposal to add ibAssets and KP3R/ETH to the Gauge Controller
+Accounting of community owned $LDO + draft proposal
+A Letter to the CUs on Community Impatience and Trust
+[Signal Request] Onboard D3M for TrueFi
+"Introducing the Real World Asset Company (""RWA Co."")"
+Weekly MIPs Update #82
+[Proposal] Update Max LTV for bETH
+Add SAND as Collateral on Aave v3 Polygon
+$DAI Base Pair added on Bitrue Soon!
+Balancer V2 LBP Simulator FIX NEEDED
+Minimality - KISS principle
+"How to use Subgraphs to track treasuries assets holding? - (5 treasuries | YGG, Sushi, Fei, BitDAO, BanklessDAO)"
+"Starknet Engineering Core Unit, March 2022 Update"
+[Proposal] Whitelist Tracer DAO's Treasury Management Fund in Balancer VotingEscrow
+New Singapore Crypto Law Requires Overseas-Only Operators to Be Licensed: Report
+Delegate Round-up March 2022
+"State of Dai | April 5 - 11, 2022"
+"Weekly Relay | April 5 - 11, 2022"
+FDT / WETH 80/20 Gauge + Nested Pool Consideration
+Encuestas de la Semana: 11 de abril de 2022
+Propuesta para la creación de un marketplace Nft para MakerDao (traducción)
+Psi airdrop tokens
+Decide on Gauge Unexpected Behavior
+BADGER/wBTC 80/20 Gauge
+New Silver March 2022 Update
+"Governance and Risk #186 - Thursday, April 14 17:00 UTC"
+Centrifuge Update -- March 2022: Legal + RWA Pipeline
+stkIDLE Whitelisting Process Implementation
+Save victims who mistakenly sent to contract address
+Bug Bounty Program
+Cryptocurrencies blockchain teknology ABD WEB3.0 elçiye.me
+BIP 90: Make Every Badger Count
+Chaos Labs Update
+It will be great if Nexo Crypto Credit with Mastercard can accept PTaUSDC as collateral
+Proposal to add sETH2-stETH to the Gauge Controller
+[Consensus Check] Should Uniswap v3 be deployed to Gnosis Chain?
+Maker Growth Strategy - We Must Act Now (Part 1)
+Help! I can't find my stake
+PTIP-68: OTC Settlement for Ondo <> Fei LaaS Program
+MIP41c4-SPXX: Immunefi Security Core Unit Facilitator Onboarding - IS-001
+Aave Grants DAO Update and Renewal
+Aave v2 to v3 migration
+[Proposal] Incorporation of the Balancer Foundation
+SES Biweekly Status Update: DeFi Advocacy & the European Crypto Initiative
+🔎 Focus On #10: MIP6 vs. TradFi
+Propuesta de Cambios de Parámetros Inmediatos y de Corto Plazo para CRVV1ETHSTETH-A - Incremento de DC y Gap
+Unified Auctions UI Release v1.1.0 - April 14th 2022
+[SLP-DAI-USDC] MIP6 Collateral Onboarding Application
+[UNI-V2-DAI-PAX] MIP6 Collateral Onboarding Application
+[UNI-V2-GUSD-DAI] MIP6 Collateral Onboarding Application
+[UNI-V2-DAI-YFI] MIP6 Collateral Onboarding Application
+[UNI-V2-BAT-DAI] MIP6 Collateral Onboarding Application
+[UNI-V2-DAI-COMP] MIP6 Collateral Onboarding Application
+[UNI-V2-LINK-DAI] MIP6 Collateral Onboarding Application
+[UNI-V2-UNI-DAI] MIP6 Collateral Onboarding Application
+[UNI-V2-LRC-ETH] MIP6 Collateral Onboarding Application
+[UNI-V2-YFI-ETH] MIP6 Collateral Onboarding Application
+MIP41c4-SP34: Immunefi Security Core Unit Facilitator Onboarding - IS-001
+[xSUSHI] MIP6 Collateral Onboarding Application
+[aUSDC] MIP6 Collateral Onboarding Application
+"Forum at a Glance | April 7 - 13, 2022"
+TechOps Core Unit updates - March 2022
+M1-2022 Perfomance Report
+"[GRANT] RFP-9: Port mStable Idle Perp Yield Tranche to Polygon ($3,000 in IDLE)"
+BIP 91: Reinstate rembadger Position
+Time for a POOL Party! (Part 3)
+Coordinape Q2 2022
+Official Complaint
+Sushi support group
+Requirement for Withdrawal
+The Graph's Community Talk #10
+14th April Emergency Executive
+SIGNAL REQUEST: Fund a professional media production company as a core unit that will produce content for the benefit of MakerDAO (e.g. content-marketing to grow Dai supply and expand MakerDAO’s fanbase)?
+Relay Semanal: 5 - 11 de abril de 2022
+Discussion: Calibrating KyberDAO Governance Parameters
+Thegraph host-service often crash on chapel network
+How do I see query activity?
+INFORMAL POLL: Fund a professional media production company as a core unit that will produce content for the benefit of MakerDAO (e.g. content-marketing to grow Dai supply and expand MakerDAO’s fanbase)?
+# MIP55c3-SPX: Adding a Special Purpose Fund - Makershire Hathaway
+Where did my transaction go?
+Subgraph Contract Lookup
+TUSD Offloading - Flat Kick Incentive Change
+🔎 Focus On #11: Navigating Real Estate Investment Markets with New Silver
+Add FRAX as Asset to Aave V3 Markets
+Gauntlet Quarterly Risk Review (Q1 2022): Updates and Review
+Varbinary Scalar
+Save resolved query disputes in DisputeManager smart contract
+Indexer competition
+Stakeall Finance <> The Graph
+Baseline Enforcement for Lido on Terra validators
+OHM-ETH-DAI 50-25-25 Gauge
+[Proposal] Whitelist Olympus Pool for Gauge and veBAL
+[Signal Request] Change `lid` Parameter on the Rate Limiter
+"INFORMAL POLL: Should MakerDAO RWA establish a free speech trust (Delaware) for the benefit of Web3 and Twitter Users, to Finance Elon Musk’s Purchase of and Open Sourcing of Twitter?"
+ALM Liquidity Update
+MIP55c3-SP4: Adding a Special Purpose Fund - Makershire Hathaway
+[BUSD] MIP6 Collateral Onboarding Application
+Decentralized frontend
+Collateral Onboarding Call #40: StakeWise sETH2
+"Fire drill, request for discussion + informal polls"
+Weekly MIPs Update #83
+Introduction & Risk Parameters for wstETH-C Vault
+Where to Find Opportunities at MakerDAO
+"Talking a little Transparency of Reserves and Uniform Safe Transactions ""TRUST "" Act"
+sAVAX-AVAX farm no rewards and high IL
+[IIP-22] - stkIDLE Whitelisting Process Implementation
+BIP 92: DIGG 1:1 Boost Regardless of Peg in conjunction with DIP3 (pause all rebasing)
+"DIP 3: Pause Positive Rebasing, in conjunction with BIP92 (1:1 Boost)"
+"April 11, 2022 Contract upgrades, PrizeTier push, transfer GUSD, RNG"
+PTIP-69 Polygon Uniswap V3 WETH/POOL Liquidity
+Sushi Vesting Merkle Tree Clawback
+SushiSwap | Crystl Finance - Maximize Your SUSHI Earnings
+My farm is gone
+Request to team: status rKP3R rewards for vKP3R
+ARC: Add support for sAVAX (BENQI Liquid Staking AVAX Token) on AAVE v3
+Searching for wordpress theme Portfolio SEA V1.7.1
+GIP-0030: Minimum Curation Amount for Indexing Rewards Eligibility
+OpenZeppelin Protocol Audit: Prysm Group's C02 Economic Attack Resolution Summary
+"Add a gauge for the new ""bb-f-usd"" pool"
+"Greg Lippmann Interview on structured credit, inflation etc. (...The Big Short guy...)"
+"Governance and Risk #187 - Thursday, April 21 17:00 UTC"
+Feedblack Loops LLC Delegate Platform (FBL)
+MIP6 Collateral Onboarding Application: Emerging Markets Green Opportunity: Financing for ATD Combustors’ Egyptian Power Plant Efficiency Projects
+MIP6 Collateral Onboarding: India Power Green Bonds
+[RWA-120dB] MIP6 Application: 120dB Films: Entertainment Finance Specialists
+At what point does Maker become cost-effective?
+[Discussion] Should Maker Have A Policy For Irretrievably Lost DAI
+Encuestas de la Semana: 18 de abril de 2022
+Series: Why Integrating DeFi and Real World Finance is Hard
+"Recopilación de Noticias sobre MakerDAO, DAI y MKR"
+Lost Dai in contract
+What is a Trust Indenture? What is an Indenture Trustee?
+"State of Dai | April 12 - 18, 2022"
+"Weekly Relay | April 12 - 18, 2022"
+Sushi Vesting Merkle Tree Clawback [Temp Check]
+Kanpai: Bear Market Protection with Treasury Revenue
+How to get Limit Order history Fill information?
+Proposal to add sdTokens tokens pools to the gauge controller
+Proposal: Add Support for WZEC + RenZEC
+ARC: Risk Parameter Updates 2022-04-22
+[Grant Proposal] Galleon DAO x AAVE Protocol
+[Governance Proposal] Deploy Uniswap v3 on Celo
+The Graph Council - Meeting #28 Notes
+[Proposal] Whitelist the Aave Companies’ Gnosis Safe multisig for Balancer's VoteEscrow
+[Proposal] Whitelist the Aave Mainnet Reserve Factor for Balancer’s VoteEscrow
+[Proposal] Strategic Partnership with Aave DAO
+Snapshot proposal config change to support aggregated voters
+Incentivising arbitrage on boosted pools
+[Proposal] Empower BalancerDAO to Add Approved Gauges to veBAL Voting
+Articles: MakerDAO deploys on layer-2 network StarkNet to enhance functions of DAI stablecoin
+Collateral Onboarding Call #41: Oasis Pro Markets MIP6s AMA
+Subir de nivel en el foro
+Hola soy nuevo en el foro
+Launch of the New Collateral Status Index (CSI)
+The Maker Brand Team - Some strategic thoughts
+Lending Market Analysis - Cross-Collateralization Market Opportunity
+GovAlpha Weekly Update - 2022-04-22
+Attention CRVV1ETHSTETH-A Users: Resumption of Service
+Ilk Names versus Display Names for Vault Types
+Forum Navigation Index
+¿Cómo Votar en el Protocolo de Maker? [Video ~ Subs. en español]
+I'm looking for wordpress theme VintClub V1.0.8
+Launching on Avalanche
+Implementing LI.FI’s SDK into PoolTogether to facilitate cross-chain deposits
+PTIP-70 Uniswap V2 POOL rewards renewal
+POOL Prize Tokenomics: Motivations
+PTIP-71 Extend POOL Pool Emissions
+Fukkatsu: Make Sushi great again
+Looking for WordPress themes Invisio Cake
+Proposal to add PAL-ETH to the Gauge Controller
+Proposal to add TOR-2pool Gauge
+Proposal to add TOR-2pool to the Gauge Controller
+Aave DAO Treasury Diversification Discussion
+Historical health factor for any given user at any given time in history
+Please return the coins locked in the contract address
+ARC: Enable sUSD as Collateral on AAVE V3 on Optimism
+asset transfer error
+Proposal AAVE comminity expansion
+Supply / Borrow & Apy
+Ignite Contract
+Lido for NEAR - Proposal by Everstake
+Yield aggregator for veBAL? (just like Convex for Curve and veCRV)
+Stakeholder Content Program | Q1 2022 Update
+A Balance Sheet approach to executing an Aggressive Growth Strategy - The road to 300M revenues
+Monetalis Evolution
+"State of Dai | April 19 - 25, 2022"
+"Weekly Relay | April 19 - 25, 2022"
+Issue Discussion Call #6 | Collateral Onboarding
+My involvement with Monetalis
+Weekly MIPs Update #84 :fireworks:
+Encuestas de la Semana: 25 de abril de 2022
+DAI on other chains
+New Competitive Idea: Covered Call Option Selling on Vault Collateral
+Glass Entertainment Group's Q&A -- MakerDAO Content Creation (Every Monday -- 5 PM ET)
+MakerDAO talks at Devconnect
+Proposing a PoolTogether Bounties Team
+Sushi 2.0: A Restructure For The Road Ahead
+[1IP-07] Integrate Balancer Boosted Pools in the 1inch Aggregation Protocol
+[Proposal] Formalizing Community Management
+Savings for Yearn Vault & Treasury
+MIP-006 Use of Establishment Fees
+Discussion For Improved MPL Tokenomics – veCRV Model
+MIP-008: Tokenomics updates
+Ongoing Discussion: MPL tokenomics
+Community Call #14
+Community Call #13
+Ongoing Discussion: Use of Establishment Fee
+MIP 007 - Staking Treasury BPTs
+Community Call #12
+MIP 005 - Adjust Establishment Fee
+Community Call #11
+Start Here: Maple Governance V1
+MPL Staking Rewards
+Maple DAO Development Grant (Jul-Sep 2021)
+Community Call #10
+READ ME: How to report bugs and feature enhancements
+Liquidity Program Suggestions for Second Lending Pool
+Community Call #9
+MIP 004 - dHedge Treasury Solution
+Community Call #8
+Community Call #7
+Community Call #6
+Community Call #5 - Slides and Recap
+Proposal: Maple Finance Governance Process
+Maple DAO Transaction Request - LBP Launch
+Community Call #3 - Slides and Recap
+Community Call #2 - Slides and Recap
+Community Call #4 - Slides and Recap
+ARC: Add GNO to Aave V2
+Know Your Indexer #12 | Nuviba
+[Proposal] Fund the Integration of Boosted Pools in the 1inch Aggregation Protocol
+DeFi insurance platform Uno Re launches cover portal for crypto assets
+Optimizing Incentives: An Update from Gauntlet
+GIP-0031: Arbitrum GRT bridge
+"Governance and Risk #188 - Thursday, April 28 17:00 UTC"
+Collateral Onboarding Call #42: Monetalis MIP65 & MIP68 AMA
+MakerDAO is by far the top USDC holder today
+MakerDAO Actual Expenses vs Budget - March 2022
+SourceCred Bi-Weekly Happenings #4
+BIP 92: Digg Restructuring (V3 / Revised)
+CLV x SushiSwap Proposal [Updated Apr 2022]
+[Proposal] nexPrism launch & lockdrop
+nexPrism (Nexus Boosted Prism Farming) details
+[Signal Request] Deploy the balance sheet in ETH
+[Proposal] Cross-chain Swap function with Privacy on Pool Protocol
+"Add a gauge for the Ankr Reward Earning Staked MATIC ""aMATICb"" on Polygon network"
+"[Proposal] Deploy Balancer to Optimism, managed by BeethovenX"
+[Proposal] Treasury Swap with BeethovenX
+MakerDAO - intangibles for a better DAO
+Price of MKR against ETH is hitting all time low
+MIP6 Collateral Onboarding Application: MD Irradiance LLC: Construction Period-only Loans to Late-Stage US Solar Projects
+Collateral Status Index (CSI) Update 2022-04-28
+A North Star - DAI as the Destination
+Immunefi Security CU Update for April
+Relay Semanal: 19 - 25 de abril de 2022
+First Annual Gala Charity Dinner
+"Forum at a Glance | April 21 - 27, 2022"
+Streamlining and Simplifying Governance
+Staking revenue 
+Didn't receive reward last week
+GIP-0029: Signal Renting
+Proposal to change the 'indexer cut' mechanism
+Fund A Builder-First Legal Activism DAO
+Joseph Shmoe Test
+Interfaz descentralizada
+Parameter Changes Proposal - PPG-OMC-001 - 28 April 2022
+MIP65/Bond Allocation Review & Vote: Baillie Gifford
+Starknet simple bridge - Launch date update
+Unified Auctions UI Release v1.2.0 - April 29th 2022
+Idle Leagues Community Brainstorming Calls
+Lexpunk legal defense protocol v.1 resource
+Proposal: Reduce 3pool fee to 1 bps
+Add 2pool/4pool gauges on mainnet
+Sidechain Gauge Upgrade and migration
+Proposal to Whitelist Abracadabra mCRV Voter Contract
+Token rescue (contract address)
+Swapping Borrowed Assets
+Proposal to add MaticX to Aave v3 Polygon Market
+Focus on newcomers: healthy long term community building
+The Graph’s Core R&D Call #13
+This Month in Graph Indexing - April 2022 Edition
+This month in curation #15 | May
+LEGO: Expand LEGO Council by adding Isidoros Passadis
+LDO Token Economics
+Announcement: Lido on Solana Wave 2 Onboarding
+CRE8R Gauge on Arb
+[Signal Request] Restart The Burn 🔥 [V2]
+Encuestas de la Semana: 2 de Mayo de 2022
+Weekly MIPs Update #85
+[sUSD] MIP6 Collateral Onboarding Application
+[SNX] MIP6 Collateral Onboarding Application
+"[Signal Request] Restart The Burn 🔥 [V1] xxx [Canceled] [Refer to updated V2, link below]"
+DAI at 6-month-old levels
+Judge Rejects Musk's Attempt to Terminate Settlement Agreement with the SEC
+[FEI] MIP6 Collateral Onboarding Application
+Discussion: KNC Ecosystem Fund Allocation
+C4 Audit: Aave V3 Yield Source
+Limit Order Bug Bounty
+Bug Bounty Proposal by Hats Finance
+[Proposal] bSOL Anchor Vault
+Performance Fee 50% - Competitiveness of the protocoll
+[BOUNTY] Create a liquid stkIDLE contract
+ARC: Add Support for StakeWise’s staked ETH token (sETH2)
+Exactly.finance
+"Weekly Relay | April 26 - May 2, 2022"
+SEC Beefing Up Operations to Fight Crypto Fraud
+"State of Dai | April 26 - May 2, 2022"
+Recognized Delegate Compensation Breakdown - April 2022
+I sent USDC.e to the wrong AAve adress
+[reWARDS] May '22 Budget
+SG Forge: OFH Token Transaction Update
+Proposal: Add USDD/3CRV pool to the Gauge controller
+ARC: Add 1INCH as collateral
+HELP - USDC.e to the WRONG AAve Lending Pool 2 address
+[ARC] V3 Supply/borrow cap management Fast-track process
+[ARC] - Whitelist Connext for V3 Portals
+Graph to be indexer of choice for California
+Lido on Ethereum Scorecard
+Lido Operator Set Strategy
+Proposal to form reWARDS Committee
+"Is this possible? Doing this for as many number of times possible, I will be making more money?"
+Open Validator Service Broker: Empowering Client Diversity
+[Proposal] Freeze Treasury Swaps for 3 Months
+[Proposal] Allocate up to $2M in BAL to Bribe Tokemak CoRE3 Vote
+Proposal to add Matic<> MaticX gauge on Balancer
+[Proposal] Minimum 1 Week Waiting Time for Proposals that use Treasury Funds
+[XSGD] Collateral Onboarding Application (MIP6)
+[Archive] Collateral Onboarding
+DssKiln - a permissionless token purchasing tool
+Governance Reflections: Optimism and Maker 🔴
+Governance Cadence Improvement
+Relay Semanal: 26 de abril - 02 de mayo de 2022
+MIP-6: Porter Finance Fixed Rate DAO Bonds Onboarding Application
+DICU Monthly Updates (Thread)
+"Governance and Risk #189 - Thursday, May 05 17:00 UTC"
+Asset Change Request Process
+DUX Monthly Update: April 2022
+Fund retrieval exclusion from executive
+Error in my staking wallet
+PTIP-72: single-sided POOL staking with IL protection on Bancor (former PTIP-64)
+"Integral SIZE <> SushiSwap, enabling users to swap with zero price impact via Sushi’s price oracle"
+1inch DAO: Governance Proposal Contest is Now Live
+Proposal to fund the depositor bot in Ethereum #2
+Incubating Legal & Transactional Services (LTS): Weekly Update
+GIP: Epoch Block Oracle
+Risk Core Unit Month in Review: April 2022
+[Proposal] Allocate up to $2MM in BAL to Secure a BAL Reactor
+MIP4c2-SP20: MIP16 Amendments
+"Forum at a Glance | April 28 - May 4, 2022"
+MIP68: Monetalis Lusitano: UK Green Economy SME Wholesale Lending
+Monthly Governance Review | April 2022
+Add ether wallet keystore import feature
+[Governance Proposal] Deploy Uniswap V3 on Moonbeam
+Introduction to Precession Capital
+Where to See MakerDAO Liquidation Charts?
+6S Capital - RWAC Monthly Report - April 2022
+ARC: Add support for StakeWise’s permissioned staked ETH token (psETH) to Aave Arc
+ARC: Risk Parameter Updates 2022-05-05
+Accidentally Transferred MEMO to AAVE Lending Pool 2 Contract Address
+[Compound D3M] Compound Protocol & cDAI ERC20 Token CES Domain Team Assessment
+CES April 2022 Update
+Collateral Status Index (CSI) Update 2022-05-05
+Approved the token swap - Accepting the Swap - but it always show 0 ETH and wants to charge me full gas fee
+Liquidity disapeared
+What is good and bad about Yearn?
+[Signal Request] Increase the ESM Minimum Threshold
+Centrifuge Update: Cornerstone Agreement Complete to Onboard RWAs to Maker with Centrifuge - Successful Collaboration with Incubating LTS!
+Intangible Asset Agreed Modification of Management - 2022-05-06
+What is the best way to reuse the connect-wallet modal on 1inch DApp?
+Collateral Onboarding Call #43: Fei & Rari Pools Use Cases
+February/March Grants
+Add Snapshot voting power to v3 AAVE-ATOKEN tokens
+The Graph Council - Meeting #29 Notes
+Proposal to increase the voter threshold within Lido's Snapshot Space
+[Proposal] Whitelist VitaDAO Gnosis Safe multisig for Balancer’s VoteEscrow
+[Signal Request] Antalpha Institutional Vault
+Dai below 8 billion supply
+GovComms Monthly Update: April 2022
+[Signal Request] Maker Accessing Mortgage loans Through Bacon Protocol
+RWF-001 Monthly Update: April 2022
+[PA-DROP] MIP6 Application: US-BASED SUPPLY CHAIN FINANCE FOR LARGE OEMS
+"RWF Collateral Onboarding Update: Huntingdon Valley Bank - May 6, 2022"
+[MC-DROP] MIP6 Application: Monachil Capital Partners LP DROP: Senior Secured Credit Facility For A Private Credit Fund
+Sushi 2.1 - Introduction of a Community Oversight Committee
+Token Rescue (Reverse Contract Address) Urgent
+Pending and stuck
+Increase 'Proposal Threshold' within Lido's Snapshot Space
+SourceCred Bi-Weekly Happenings #5
+My alpha wallet
+Proposal: Add Transak fiats on ramp services on Aave
+Metamask Aave loan repayment - Error getting txParams
+WNCG/WETH 80/20 Gauge
+ALM Liquidity: 2022-05
+Token Rescue ( Aave smart contract)
+Proposal: last minute vote mitigation
+[KREDIKA] MIP6 Application: Pilot Vault for a portfolio of bridging loans secured with UK-based properties
+Now there’s a graph! 😐
+Financial Report 2022-04
+Proposal to lower A parameter on pUSD pool to 50
+Proposal: Add the aFTMb/wFTM pool to the Gauge controller.
+Partnership Question
+"Canceling AIP-74, Freezing UST, and Updating stETH Parameters"
+BGD. Aave Governance proposals reports
+ARC: Add Snapshot voting power to v3 AAVE-ATOKEN tokens
+BGD. Working Day 0
+Proposal: Add support for TerraUSD (UST)
+BGD. Rescue of tokens locked on Aave. Overview and Phase 1
+Proposal:Token rescue
+Update on Aave Grants DAO Renewal
+Algorand network support
+"The test network compilation contract is pledged, and the network cannot be detected"
+GIP-0032: Make GNS signal transferrable
+Devnet grt token
+Signaling & quering fees
+Announcement: Merge-ready protocol service pack
+Converting bETH from Terra to ETH
+[Proposal] Whitelist Stake DAO to lock BAL tokens
+Cannot estimate gas
+CREAM/WETH 80/20 Gauge
+Medium Severity Bug Found
+[Proposal] Whitelist Index Coop's Investment Account Gnosis Safe for Balancer's VotingEscrow
+[Proposal] Whitelist BadgerDAO Gnosis Safe for Balancer's VotingEscrow
+[Proposal] Whitelist DAOhaus LPDAO Gnosis Safe multisig for Balancer's VoteEscrow
+Veballer.eth - Voting Delegate
+[PROPOSAL] Reduce Voting Lock time to 5 days
+Decentralized Voter Committee on Tuesday 5pm CEST - all MKR holders welcome
+MakerDAO.com performance overview
+MIP4c2-SP21: Add Retrospection Process to prune unused MIPs
+Report: Former SEC director Hinman made millions from a pro-Ethereum firm during tenure
+Request Return of MKR Tokens Inadvertantly Sent to Governance Address
+"Starknet Engineering Core Unit, April update"
+Cool CoinDesk Article on Oasis Pro and DeFi
+Monthly Core Unit Updates | April 2022
+Blockchain integrity
+The MKR holder Confessional
+London Business School Delegate Platform
+Weekly MIPs Update #87
+Meet Your Delegate #12 - London Business School (LBS)
+Launching Maker on Metis
+Wednesday 18th May Executive: Flash Mint Module Technical Enhancement
+[email protected] Delegate Platform
+"Erm, who did this?"
+Encuestas de la Semana: 09 de mayo de 2022
+Relay Semanal | 3 - 9 de Mayo de 2022
+Internal JSON-RPC error
+[Delegation Pitch] UBC Blockchain Club - Meta Delegate Program
+[BOUNTY] RFP-18: Create a Ribbon Finance Perp tranche
+[GRANT] RFP-11: Upgrade Fee Collector
+Balancer Deposit of Treasury BTC and Badger
+BIP 93 - Council 2.0
+PoolGrants Season 3 committee applications
+Project: Optimism
+Wildlife Conservation Pool - Black Rhino (Proposal)
+Proposal for Adoption of One Primary Centralized CRM
+PTIP-73: Authorize Optimism Prize Pool
+Roll-up deployment - Temperature check
+Elect SuperGenius to Head Sushi Chef/CEO Position
+sushiHOUSE - Revival
+About Across Bridge's integration with sushi to bring the best multi-chain experience to DEX users
+About Across Bridge's integration
+Add automatic self liquidations for Kashi
+Provide transparency on finances
+Enter the Across
+Governance Process Proposal [Part 2]
+Posting on Instagram should happen more
+Meowshi in the Bentobox?
+Hiring Proposal [Part 3]
+Cannot see Sushi Bar for months
+OKC <> SushiSwap Extended Collaboration
+Community Oversight Committee Proposal [Part 1]
+Give Massive Airdrop For New And Old User
+ [1IP-#] 1inch DAO Meta-Governance Delegation ⏹ Governance Booster
+[ TIP ] Self - Earning DAO Engine V1.0
+[1IP-8] 1inch Community Grants Program
+Staking rewards and treasury revenue - Discussion
+Discussion on yvecrv v crv
+[Discussion] Risk on Gauge Incentive Strategy
+Fulfilling Keep3r's Potential
+Know Your Indexer #21 | Nodeify.eth
+MIP40c3-SP72: Lending Oversight Core Unit MKR Budget (LOVE-001)
+Incentives for concentrated stETH/WETH curve pool
+Presentamos Maker Wormhole [Traducción]
+RFC: PoolTogether Seasons Framework
+Proposal: Add TOKE/ETH Pool to the Gauge Controller
+Boost the wETH:wstETH Pool
+MIP10c19-SP1: Update Oracle Expiration Time for All Oracles
+"MIP10c7-SP1: Modify Data Models for BTC/USD, LINK/USD, MANA/USD, USDT/USD, YFI/USD Data Model"
+Wednesday 18th May Executive: DssCure Technical Enhancement
+Swap Treasury CVX for BAL to lock as veBAL
+[Proposal] Allowlist Pickle Finance in veBAL’s VotingEscrow
+Vulnerability disclosure
+[RWA008] OFH/MIP21 Token CES Domain Team Assessment
+"State of Dai | May 10 - 16, 2022"
+Encuestas de la Semana: 16 de Mayo del 2022
+"Weekly Relay | May 10 - 16, 2022"
+Meet Your Delegate #12 - London Business School (LBS) and [email protected]
+Deploy Aave to Kava
+[Governance Proposal] Should the Uniswap community participate in the Protocol Guild Pilot?
+The Graph's Community Talk #11
+API methods (staking)
+Robinhood to launch a stand-alone application that lets users custody their own NFTs and cryptocurrencies
+Solarcurve Delegate Thread
+CEO Of Cryptocurrency And Forex Trading Platform Charged With Fraudulent Scheme Involving Over $59 Million
+Core unit on strategic planning
+RFC: Uniswap Universal Governance Module
+"Governance and Risk #191 - Thursday, May 19 at 17:00 UTC"
+Proposal to remove UST pool gauges
+New Marketplace - TradFi distribution channel
+Market Downturn Risk Review (May 2022)
+Temperature Check - Add Notifications Center to Uniswap
+Introduce ProtocolFeesWithdrawer
+The Endgame Plan call Thursday 5pm CEST: everyone welcome
+MIP75c2-SP1: Onboard Task Force - Growth Task Force
+[RWA-008/OFH] Collateral Onboarding Oracle Assessment
+Wintec Reintroduction
+[EURS] - Stasis Euro stablecoin
+🔎 Focus On # 12: Centrifuge Indenture Trust Agreement Deep Dive
+RWF Office Hours - New Link for Wed. May 18th
+Maker Wormhole new name: Maker Teleport
+Choose mixmore to Sushi CEO (Head Chef) and about my vision and ideas
+Nuevo Nombre de Maker Wormhole: Maker Teleport [Traducción]
+The United States Court of Appeals (5th Circuit) : SEC in-house adjudication violates 7th Amendment right to trial by jury
+"GRP-0001 Decorator Hooks, Cron Jobs and Initialisation Handlers"
+Should Lido support Terra reboot?
+MIP74: Permissionless Open Market Operations
+"[Signal Request] Offboard UNI, UNIV2DAIETH, UNIV2WBTCETH, UNIV2UNIETH, and UNIV2WBTCDAI"
+Real World Finance: Decision-Making and Delegated Committee Proposal
+Collateral Status Index (CSI) Update 2022-05-19
+Linking wallet to forum username
+Adding Arabic language to the list of supported languages on Sushi
+Community Roadmap 2021
+Custom url for endpoint GraphQL
+Signal Request - Launch Maker Teleport with 1 basis point fee
+[RWA-008/OFH] Evaluación del Oráculo para la incorporación de garantías (traducción)
+"Forum at a Glance | May 12 - 18, 2022"
+Exactly.finance (traducción)
+POOL to incentivize saving
+Wallet connect feature with Bitkeep crypto wallet
+Airdrop or swap 1:1 from old token to new token
+ARC: Add new KNC to Aave
+Understanding Risk on Aave
+Should Lido on Ethereum be limited to some fixed % of stake?
+Form the Emergency subDAO
+Tribe DAO : Unclaimable BAL rewards
+MIP65: Monetalis Clydesdale: Liquid Bond Strategy & Execution
+Netflix documentary on Three Mile Island
+[rETH] Collateral Onboarding Risk Evaluation
+Create a PAX PSM
+Open Decentralized Voter Committee Tuesday 5pm CEST - join if you are an MKR holder
+Weekly MIPs Update #88
+[sETH2] Token Smart Contract Technical Assessment
+MIP41c4-SP37: Governance Facilitator Onboarding (GOV-001)
+Founder And CEO Of Off-Shore Cryptocurrency Derivatives Platform Sentenced For Violating The Bank Secrecy Act
+SourceCred Bi-Weekly Happenings #6
+Introducing the governance stats and tracker dashboard
+RWF Collateral Onboarding Update: Huntingdon Valley Bank
+Classification and cleanup of the makerdao github - Request for comments
+Investment Committee Work / food for thought
+PoolGrants Season 3 Lead elections
+Sushi Senzu (!仙豆): Using the SushiGuard Router for SUSHI Value
+Gauntlet x Sushi Incentive Optimization [Renewal]
+Sushi and Shoyunft on social media statistics for discussion
+"SWAT analysis of Sushi shows strengths, weaknesses, opportunities and threats just for discussion"
+Moonbeam <> SushiSwap Proposal
+[1IP-09] 1inch DAO Meta-Governance Delegation Programme
+[1IP-11] Delegate Improvement Proposal
+[1IP-10] Self - Earning DAO Engine V1.0
+[1IP-08] Earn Conservative Yields on USDC in Treasury
+1inch DAO Governance Process
+1Inch Improvement Proposal Template 2.0
+vKP3R Governance Rights
+Bug / error in Vault
+Cannot withdraw my ETH from yvWETH contract
+HYVE Proposal for SushiSwap
+[ARC] - Whitelist deBridge for Portals V3
+Compensation levels in a global organization
+Amend the Agreement with 1inch for Integrating Boosted Pools
+"State of DAI | May 17 - 23, 2022"
+Encuestas de la Semana: 23 de mayo de 2022
+Stable Assets now above 4 Billion
+1Inch Mata-Governance Proposal (1inch Meta-Gov)
+[Informal Poll] Curve Basepool Composition
+Intangible Asset Agreed Modification of Management - 2022-05-24
+"Weekly Relay | May 17 - 23, 2022"
+Merchandise Proposal
+"PSA: withdraw bETH from Anchor intergation (deposited stETHs are safe, daily rewards are lost)"
+Estado de DAI | 17 al 23 de Mayo de 2022 [Traducción]
+Metaverse mini education games for kids
+Collectivegovernance.eth - Voting Delegation
+Maker Governance Analytics Dashboard v2.1
+KIP-20: KNC Ecosystem Fund Allocation [APPROVED]
+KIP-19: Calibrating KyberDAO Governance Parameters [APPROVED]
+sushiPRO.io // Tournament
+[Help] 1inch swap transaction Fail with error 'Invalid msg.value'
+Allocate BAL to a Ribbon Finance Vault
+ChicagoDAO Delegate Platform
+"Allocate 31,250 BAL for Optimism Incentives"
+Tracer DAO integration - Balancer perpetual markets UI using BAL/veBAL as collateral
+MIP41c5-SP6: Facilitator Offboarding (DIN-001)
+How Many Delegates Do This As Their Job?
+MIP41c4-SP35: Facilitator Onboarding (DIN-001)
+{New} MIP4c2-SP15: Core Unit Offboarding Process Amendments
+Listing Gitcoin GTC Question
+Off-Chain Proposal Bounties
+Off-Chain Governance Incentive Changes (SourceCred)
+Delegate SourceCred
+"Deploy a ""FRAXBP"" Pool & whitelist Frax for veCRV Staking"
+vETH/ETH pool - Bifrost Finance <> Curve
+I want to bring aave to the troubled teens of america
+Link forum handle to voting wallet address for Karma reputation
+The Graph + Singer = Blockchain data pipeline!
+Link forum handle to wallet for Karma reputation
+Tribe DAO : boost delegation
+Linking forum username to wallet
+Where is the MakerDAO Discord chatter happening?
+FPI (consumer price index)
+[Poll] Incoming Velodrome Airdrop on Optimism - $VELO veNFT
+Request Minting of new MKR Tokens to Replace MKR Tokens Inadvertantly Sent to MKR Token Address (Burned)
+"Governance and Risk #192 - Thursday, May 19 at 21:00 UTC"
+Partially Withdraw $USDC and $WBTC from Rari Fuse Pool 22
+Optimism Epic
+Treasury portfolio - A suggestion for Diversification
+[Signal Request] Deploy a Trial Permissionless Open Market Operation & Resurrect the Burn
+"Article: “The [SEC] is the Number One Blocker,” says Chamber of Digital Commerce Founder"
+[Signal Request] Request Minting of new MKR Tokens to Replace MKR Tokens Inadvertantly Sent to MKR Token Address (Burned)
+Where Can I Find Historical APR Rates?
+ARC: Risk Parameter Updates for Aave V2 and Aave Arc (Fireblocks) 2022-05-26
+[Report] The State of Uniswap Governance
+StableNode Delegate Thread
+No Executive Proposal - 2022-06-01
+Relay Semanal | 17 - 23 de Mayo del 2022
+[Signal Request] Restart The Burn 🔥 [V2] [Canceled]
+[Signal Request] Incoming Velodrome Airdrop on Optimism - $VELO veNFT
+"Forum at a Glance | May 19 - 25, 2022"
+Cambios en los Incentivos Off-Chain a la Gobernanza (SourceCred) [Traducción]
+"MIP10c7-SP2: Modify Data Models for BTC/USD, LINK/USD, MANA/USD, USDT/USD, YFI/USD Data Model"
+Collateral Status Index (CSI) Update 2022-05-26
+"Governance and Risk #192 - Thursday, May 26 at 21:00 UTC"
+Rebranding of Sushi Products [Discussion]
+Enable PAL/USDC 80/20 Gauge [Ethereum]
+Growth CU updates: April 8
+BGD. Release - Aave Seatbelt
+Unified Auctions UI Release v1.3.0 - May 27th 2022
+Parameter Changes Proposal - PPG-OMC-001 - 27 May 2022
+GovAlpha Weekly Update 2022-05-27
+RFC: POAPS as communication tools
+Proposal to add sFTMX to Aave v3 Fantom Market
+The Graph Council - Meeting #30 Notes
+Today Maker the only AAA security rated DEFI project!
+Stress Tests Results
+How to sign message as Gnosis safe
+I'm slightly confused regarding the voting format. TIA
+Enable Two FIAT Stableswap Gauges
+Recompensas de Propuestas Off-Chain [Ttraducción]
+I sent FTM by mistake to a site for GRT staking. Any chance I can get it back?
+What is writing so much postgres disk space?
+Join the veBAL war on Balancer
+"Very Worry, need help with several BTC held by Balancer"
+Article: DAI Takes the Reigns as the Leading Decentralized Stablecoin by Market
+[Signal request] Require 2/3 approval to issue MKR or debt
+MIP39c2-SP33: Adding Lending Oversight Core Unit (LOVE-001)
+FPI (índice de precios al consumo) (traducción)
+"MIP41c4-SP36: Facilitator Onboarding, Lending Oversight Core Unit (LOVE-001)"
+MIP40c3-SP71: Lending Oversight Core Unit DAI Budget (LOVE-001)
+Recompensas de Propuestas Off-Chain [Traducción]
+Sushiswap X Rigelprotocol AutoPeriod
+SushiSwap DAO Guidelines analysis
+Should we rebalance 1inch token?
+Direct USD+ integration
+Nominations for the Grants Committee.   
+Cannot be removed Liquidity Pool Matic/USDC
+[Proposal] Metamouse x SushiSwap
+I can't see my dai in yearn finance
+Operating Framework for Balancer DAO
+[Discussion] Capital Raise
+[Informal Poll] Require 2/3 approval to issue MKR or debt
+Amended MIP40: Important Information for Core Units
+Introduce ChildChainGaugeTokenAdder
+The Endgame Plan parts 1&2
+The Endgame Plan parts 1&2 (traducción)
+Decentralized Voter Committees: startup phase - Wednesdays 5pm CEST. All MKR holders welcome
+MakerDAO: Long-term Growth Strategy for the Future of DeFi
+Permissonless Summary
+Weekly MIPs Update #89
+Things You Can't Find in Sushi Swap
+Uniswap customer onboarders/affiliate members payouts
+Enable users to adjust claims!
+Mhonkasalo & teemulau Delegate Platform
+"Bear Stearns Broker-Turned-Whistleblower Loses Bid Against SEC for Reward, D.C. Circuit Rules"
+"Some ideas about accounting, products, operation and human resources"
+SourceCred de Delegados [Traducción]
+MIP75c3-SP1: Onboard Task Force - Growth Task Force
+The Prize Pool Network
+Proposal: Integrating Pocket RPC in Aave
+Meet Your Delegate #13 - mhonkasalo & teemulau and ChicagoDAO
+Send back 3CRV stuck to Stake Dao Multisig Address
+[reWARDS] June '22 Budget
+Should Maker Manage Sustainability? What Topics Will Be Most Relevant to Future-Proof the DAO
+MIP40c3-SP69: Modify Core Unit Budget - Strategic Finance (SF-001)
+MIP40c3-SP70: Modify Growth Core Unit Budget (GRO-001)
+Immunefi Security CU Update for May
+DICU: DAI & MKR datasets web-app showcase
+"State of DAI | May 24 - 30, 2022"
+"Weekly Relay | May 24 - 30, 2022"
+"Legal Wrappers and DAOs by Prof. Chris Brummer, Esq. and Rodrigo Seira, Esq"
+Some ideas for development
+Update on Atlendis roadmap and progress
+Details about spells to be included in June 8th 2022 Executive votes
+Recognized Delegate Compensation Breakdown - May 2022
+Details about spells to be included in June 8th 2022 executive vote
+Proposal to raise A parameter on GUSD pool to 1000
+Proposal to lower A parameter on pUSD pool to 25
+Bug Bounty Vault Proposal by Hats Finance
+Add light theme to SushiSwap
+Enable aMATICc/wMATIC Gauge on Polygon [ANKR]
+Quick Lending Market Update
+Chris Blec Delegate Platform
+MIP75: Task Forces
+RFC: Prize Distribution
+[Proposal] Whitelist Yearn Finance's Voter Contract for Balanacer VoteEscrow
+"Governance and Risk #193 - Thursday, June 02 at 17:00 UTC"
+[Signal Request] Update dust limit analysis
+Vulnerability Disclosure: Twab Rewards
+This Month in Graph Indexing - May 2022 Edition
+Vebalrepresentative.eth (aka ZeKraken) Thread
+MakerDAO Actual Expenses vs Budget - April 2022
+MakerDAO Gastos Actuales vs Presupuesto [Traducción]
+Prioritization Framework - Sentiment Polling
+New Article: What is DAI? Here’s an alternative Stablecoin to USDT and USDC!
+GUSD/PSM Below for 100K DAI
+[Temperature Check] Should the Uniswap community participate in the Protocol Guild Pilot?
+Encuestas de la Semana: 30 de mayo de 2022
+MIP6: Cabot Renewable Energy Crypto Mining
+MIP10c3-SP22 Proposal: rETH Oracle (Collateral Onboarding Oracle Assessment)
+"Quarterly Strategy Review - Q1 2022 - (Public Call on Tuesday, 6/7/22, 3:00PM UTC)"
+Collateral Status Index (CSI) Update 2022-06-02
+Proposal: Gradual reduction of collateralization ratio via interest payments
+GIP-0033: Osmosis indexing for Graph node
+[Discussion] Is GFX's Interest Protocol a Direct Challenge to Maker?
+Introducing the CU Budget Transparency Map
+Collateral Onboarding Call #44 | Kredika AMA
+[Rescheduled!] 🔎 Focus On # 12: Centrifuge Indenture Trust Agreement Deep Dive
+"Forum at a Glance | May 26 - June 01, 2022"
+Balancer Deposit of Treasury BTC and Badger #2
+MWG Brief #1 The Multi-Delegator
+MWG Brief #2- Optimism Launch
+MWG- Creative Process Primer
+Building financial and accounting system for Sushi
+An extension to uniswap to leverage liquidity pools for lending and borrowing
+Lido to prepare for the bear market
+Veballer.eth - Delegate Thread
+Embedding legal analysis on new governance proposals
+Consol Freight update June 3rd 2022: ConsolFreight helps SME grow their business towards IPO
+ARC Round 4 Liquidity Mining Aave v2 Ethereum Market
+MIP41c5-SP7: Facilitator Offboarding (Voluntary) - LongForWisdom (GOV-001)
+DUX Monthly Update: May 2022
+Maker Brand: PR Updates
+BGD. aBPT Balancer V2 - Migration plan
+ARC Round 5 Liquidity Mining Aave v2 Ethereum Market
+Prioritization in MakerDAO
+Meet Your Delegate #14 - Chris Blec
+Claims and Luna2 Airdrop
+Relay Semanal: 24 - 30 de mayo de 2022
+"Article: MakerDAO ‘Endgame Plan’ Calls for Specialized DAOs, Says Protocol is Held Back by Complexity"
+GovAlpha (GOV-001) Quarterly Review - Q1 2022
+GovAlpha Administered Multi-sig
+Allocate BAL towards Etherem<>Optimism Bridge Liquidity
+Harbor Update May 2022
+Proposal to add pxCVX/CVX to the Gauge Controller
+Linking forum username to wallet address
+Aave DAO <> Governance House
+Research: MEV-Boost for Lido validators
+SourceCred Bi-Weekly Happenings #7
+Wanted: Weekly Governance Recap for MKR Holders
+[RAI] - RAI Collateral Onboarding Application MIP6
+Updated GovAlpha Administered Multisig
+GovAlpha Weekly Update - 2022-06-03
+Swap is success but my balance not change
+Linking forum username to wallet address
+Risk Core Unit Month in Review: May 2022
+Delegate Round-up May 2022
+BGD. Proposal for Bounty. Fallback oracle misconfiguration
+Vault Protection Score - Model Validation
+SourceCred Acontecimientos Bi-Semanales #7 [Traducción]
+1.5x BTC Long using 5 Treasury BTC and Oasis
+Sushiswap X Rigelprotocol
+Add 2Stable (USDs/FRAX Arbitrum) Pool to the Gauge Controller
+[Proposal] Allowlist GnosisDAO's treasury in VotingEscrow
+[UNI-V3-WBTC-RENBTC] MIP6 Collateral Onboarding Application
+SG Forge (SocGen) Risk Assessment
+Towards web3-native intelligence: tools for protocol comprehension and stewardship
+Senator Lummis Finishing Crypto Bill
+Missed Proposal Post-Mortem
+For more communication in Sushi community and better interaction
+Deploy a 1bp fee tier to UniswapV3 on Optimism
+"It's the tokenomics, stupid!"
+h
+t
+t
+p
+s
+:
+/
+/
+f
+o
+r
+u
+m
+.
+u
+n
+s
+l
+a
+s
+h
+e
+d
+.
+f
+i
+n
+a
+n
+c
+e
+/
+l
+a
+t
+e
+s
+t
+ 
+s
+e
+e
+m
+s
+ 
+t
+o
+ 
+b
+e
+ 
+d
+o
+w
+n
+Starknet Engineering Core Unit - May update
+Weekly MIPs Update #90
+"Governance and Risk #194 - Thursday, June 09 at 17:00 UTC"
+"Decentralized Voter Committees: General meeting Wednesday 5pm CEST June 8, Endgame Plan meeting 5pm CEST June 9"
+"Know Your MIP KYM #11: MIP40: Core Unit Budget Process, Friday, June 10th 16:00 UTC"
+"State of DAI | May 31 - June 6, 2022"
+"Weekly Relay | May 31 - June 06, 2022"
+PTIP-74: Treasury Working Group Third Quarter Renewal
+YIP-531: Send Yearn Developer to WEF 2023
+Sunsetting Lido on Terra
+Crypto Bill Proposal - How would this affect DAI and MakerDAO?
+Coinbase Integration
+Governance Information
+Delegate Proposals Mega-Thread
+Some things need improvement
+ARC: Add support for LUSD (Liquity)
+[Jun8 ’22] Post-Mortem for IRV poll issues
+Staked ETH and AAVE Risk (June 11th Update)
+[Proposal - Grant] Superstate - Virtual sAMMs That Keep Full Assets in Lending Markets With Atomic Withdrawals/Deposits
+BGD. Month 1 Recap
+AIP. Renewal of Safety Module AAVE allowance
+BGD. Release - Aave Address Book
+Aave Monthly Risk Review (May 2022): Updates and Review
+Vietchain to Vietnam Blockchain
+NFT SF Conference
+This month in curation #16 | June 22
+Parse a subgraph event that has a struct
+Engage ChainSecurity for Lido protocol audit
+LDO+stETH dual governance
+Propose $10M Bond Issuance for Lido
+Banning substantial amount of deposit for a while
+[BIP-1] Operating Framework for Balancer DAO
+"Enable DFX/ETH 50/50 [ETH], DFX/TEL/USDC 40/40/20 [POL] Gauges"
+[Discussion] Delegate Compensation
+[Proposal] Whitelist DFX Finance Gnosis Safe for Balancer’s VotingEscrow
+[BIP-X] Fund the Balancer Maxis for Q3
+Collectivegovernance.eth (Andrea)
+[BIP-6] Execute SNX Recovery Coordinator
+Education Partnership Proposal with Mass Effect
+Enable PICKLE/ETH 80/20 Gauge [Arbitrum]
+[BIP-4] Implement New Gauge Requirements
+[BIP-2] Allowlist GnosisDAO's treasury in VotingEscrow
+[BIP-3] Allocate BAL towards Etherem<>Optimism Bridge Liquidity
+[BIP-5] Tribe DAO : Unclaimable BAL rewards
+Decentralized voter committees: Wednesday and Thursday 9pm CEST - getting real edition
+[Discussion] Delegate Roles and Incentives
+[Very Informal Poll] MKR Cash Out
+MKR almost below $900
+Increasing MIP Efficiency Community Poll
+[Signal Request] Set the AAVE D3M DC to 0 (Zero)
+Weekly MIPs Update #91
+Celsius will probably be liquidated and the consequences for MakerDao
+Calling All Lawyers! Would You Like To Help Contribute?
+[Encuesta Informal] Permitir que la Core Unit de RWF asigne tiempo y recursos a la revisión de una próxima New Silver Request para el aumento del techo de deuda [Traducción]
+Fortunafi Update - May 2022
+"MIP62c2 Amendment, Joint Statement - Comms Channels for Collateral Offboarding"
+Financial Report 2022-05
+"""Ruble gold standard"""
+[Informal Poll] Permit the RWF Core Unit to allocate time and resources to reviewing an upcoming New Silver request for Debt Ceiling increase
+Change on-chain voting from voting by raise of hands to voting by ballot
+KGT Use idea for DMM LP providers
+BIP 91: Reinstate rembadger Position - CLOSED - did not pass forum vote
+RFC: Creating The Business Development Sub-Group
+Integrate Umbria Bridge with Pool Together
+PTIP-75: Grants Committee Funding (Season 3)
+U.Today Top 5 Crypto Media for Marketing
+Community Advocate Nominations
+KlimaDAO x Sushi Swap Carbon Offset Integration
+Create audio logo for Sushi
+Cannot access portfolio page
+Some advantages in centralized exchanges can be copied to Sushi
+[Proposal] Reduce and cap fees through yRates
+[Proposal] Create a Index vault using $YFI
+YIP-68: Rotate multisig signers
+Explainer; Fixed Forex Swap Function
+Explainer; ib Stablecoin Tokens
+Specialization Unlocks Complexity
+LEGO: a proposal to continue the initiative for another year
+[Proposal] Whitelist OlympusDAO Gnosis Safe for Balancer’s VotingEscrow
+Updated Growth Task Force Vote (Lite Post-Mortem)
+Ripple Insight from Counsel
+Discussion: External Work
+Add ARTH/DAI Pool to the Gauge Controller
+Proposal to Whitelist Liquity’s Treasury Multisig Contract
+Tricrypto on the Aurora network
+Proposal to raise A parameter on HBTC pool to 1000
+Add gauge for concentrated stETH/WETH pool to gauge controller
+Lower A Parameter on bveCVX/CVX to 40
+AAVE token buyback with treasury assets?
+Sigma Prime: Security Assessment Services for Aave
+NFT San Francisco Conference
+Subgraphs management
+GIP-0034: The Graph Arbitrum devnet with a new rewards issuance and distribution mechanism
+Graph token withdrawl to metamask
+Optimistic Oracle + Fraud Proofs to Mitigate Consensus Layer Deposit Frontrunning
+Pause LP rewards on Curve as a stress-testing
+The Midwest Independent Declairation: A subDAO for those who have been forgotten
+What is Lido's goal for staking on other chains
+wstETH on Optimism: bridging security management
+Lido and MEV - Topics & Resources
+"[BIP-11] Enable DFX/ETH 50/50 [ETH], DFX/TEL/USDC 40/40/20 [POL] Gauges"
+[BIP-13] Whitelist DFX Finance Gnosis Safe for Balancer’s VotingEscrow
+[BIP-12] Whitelist OlympusDAO Gnosis Safe for Balancer’s VotingEscrow
+[BIP-10] Enable AURA/ETH 80/20 Gauge
+[BIP-8] Enable TetuBAL/20WETH-80BAL Gauge
+[BIP-7] Enable auraBAL/[8020 BAL/WETH bpt] Gauge
+[BIP-9] Update Snapshot Parameters
+[BIP-X] Incentivize Core Pools & L2 Usage
+[BIP-X] Funding Proposal for the Balancer Foundation
+Actualización de Fortunafi - Mayo 2022 [Traducción]
+Recognized/Endgame Delegates: ¿dónde está LatAm?
+DeCap + Quadratic Funding: augmenting the EndGame. Optimal infrastructure funding mechanism for MakerDAO
+USDD Slips its Peg as TRX Tumbles
+Registro de delegados de gobernanza científica orientados a los negocios [Traducción]
+MKRUSD pair triple moving average crossover
+Relay Semanal | 7 - 13 de Junio 2022
+"Forum at a Glance | June 09 - 15, 2022"
+The Endgame Party delegate signup
+Migration Portal: Redemption after SCD Shutdown (May 12th 2020)
+Avoiding the Tragedy: ACREinvest Delegate Office Hours
+URGENT: Signal Request Set Aave D3M bar to 0%
+[Example Literature To Distribute To Financial Advisors] Using Maker Vaults For Tax-Efficient Crypto Asset Investing In US Jurisdictions
+Activate DAI account
+Maker DAO information
+Digitized Mining in Russia
+Encuestas de la Semana: 13 de Junio de 2022
+Huntingdon Valley Bank (HVB) Additional Risk Assessment - LOVE CU (In Incubation)
+[Maple] Protocol & ERC20 Token Assessment - D3M Signal Request
+Core Unit de Crecimiento - Revisión del año pasado y plan de alto nivel para el año próximo [Traducción]
+[GRANT] RFP-21: ECR-4626 wrapper for Perpetual Yield Tranches main contract
+PTIP-76 Chain Specific Prizes
+DeFi Insurance and Sushi
+xxSushi (Cross xSushi)
+Remove the positive slippage fee for 1inch stakers
+YIP-69: Reduce and cap fees through yRates
+A suggestion to deleting the network name from the copied address text
+Signal Request: Asset Allocation of MIP65/Clydesdale
+Distribution from kyberswap
+stETH/risk management<> negative supply rate<>Curve incentivization/liquidity attraction
+Lido on Ethereum Node Operator MEV Survey
+LDO token economics - connecting all chains
+[BIP-X] Fund Balancer Grants for Q3
+SushiHouse Funds Redemption
+Treasury Multisig Member Rotation
+Monthly Core Unit Updates | May 2022
+Weekly MIPs Update #92
+DGNZ DAO W3SOP Proposal Sheet
+DGNZ DAO SoPo Proposal Sheet
+Signal Request: LP our AAVE and ENS with ETH on Uniswap v3
+Add frETH/WETH Gauge for *non-CRV* Reward
+Suggestions on cooperation between uni and hop ~
+Ethereum MEV Extraction and Rewards - Discussion & Policy Groundwork
+Financial Impact of the first SP Proposal Round to the Balancer DAO Treasury
+Funding Proposal for Ecosystem Ops and Development Squad
+Funding Proposal for Orb Collective
+Update DAO Multisig Replacement List
+Fund Balancer Community Group [BCG]
+Zen-dragon.eth Delegate Thread
+Inscripción de delegados de Endgame Party [Traducción]
+[Signal Request] Weather-Proofing Existing RWA Vaults Against Market Conditions
+[Signal Request] REPEAL Poll ID-827 Deployment of a Permissionless Open Market Operation Trial
+PECU Month in Review: May 2022
+The business-oriented scientific governance delegate signup
+Media: MakerDAO Cuts Off Its AAVE-DAI Direct Deposit Module
+Self Insurance Fund - Update
+SourceCred Bi-Weekly Happenings #8
+Know Your MIP KYM #12 | Core Unit Offboarding Process Amendments
+Independent review of ALM Framework for MakerDAO and Suggestions For Balance Sheet Optimization
+Idle DAO Governance Mining
+D2D collaboration proposal: Idle <> Lido
+[1RC] Simple diversification mechanism for 1inch DAO Treasury
+yBudget Update: Bear Minimum Comp
+Guardians Gather
+CIP#191 - TriCrypto Burner Update
+ARC: Add Reserve Rights (RSR) as a borrowable asset
+Adding assets to aave
+Research on the Fee Switch
+Add UNI to Genie Airdrop recipients
+The Graph's Community Talk #12
+Beaconcha.in | Block explorer
+graviAURA ecosystem gauges (3)
+[BIX-X] Request BAL from treasury for June 2022 Balaries
+Decentralized Voter Committees: Endgame Party calls. Everyone welcome
+MIP40c3-SPXX: Modify Core Unit Budget for EVENTS-001
+GovAlpha Internal Process Changes
+MIP41c5-SPXX: Facilitator Offboarding for EVENTS-001
+Would the launch of CBDC be beneficial to MakerDAO and DeFi?
+El Plan Endgame parte 3: La fuerza de trabajo descentralizada de Endgame [Traducción]
+Modeling DAI maturity
+Revisión Independiente del Marco ALM para MakerDAO y Sugerencias para la Optimización del Balance [Traducción]
+MIP55c3-SP5: Interim Chief Legal Officer
+"[CALL PLACEHOLDER] Governance from First Principles: Building a Resilient, Decentralized and Uncensorable Stablecoin"
+"Maker Brand Team Monthly Update, May 2022"
+MIP40c3-SP36: Deco Fixed Rate Core Unit MKR Budget
+Link ETH address to forum handle for Karma reputation
+BIP 94. Emissions: Q3 2022
+RFC: Renewing POOL/ETH LP Uni V2 Rewards and Discontinuing pPOOL Rewards
+SushiGuardRouterV01: Formal Proposal
+[1RC] Collect 1inch DAO Treasury Revenue in 1INCH Token in Addition to USDC
+[1IP-11] Earn Conservative Yields on USDC in Treasury
+"[KICKOFF] Governance from First Principles: Building a Resilient, Decentralized and Uncensorable Stablecoin"
+Need For Discord Report Scam Channel
+[BIP-18] Fund the Balancer Maxis for Q3
+[BIP-17] Request BAL from treasury for June 2022 Balaries
+[BIP-16] Update DAO Multisig Replacement List
+[BIP-15] Enable Two FIAT Stableswap Gauges
+[BIP-14] Funding Proposal for the Balancer Foundation
+[RWA009] HVBank/MIP21 Token CES Domain Team Assessment
+Endgame Plan 4: Understanding MetaDAOs
+Explainer/Guide; Keep3r Revenues
+Deploy 1bp Fee Tier on UniswapV3 Optimism(L2)
+"Governance and Risk #196 - Thursday, June 23 at 17:00 UTC"
+"Forum at a Glance | June 16 - 22, 2022"
+Huntingdon Valley Bank (“HVB”) - RWA Collateral Onboarding Risk Assessment
+MIP41c5-SP8: Facilitator Offboarding (EVENTS-001)
+MIP40c3-SP72: Modify Core Unit Budget for EVENTS-001
+Consensus Check - Enable 1bp Fee Tier on UniswapV3 Optimism(L2)
+Un Vistazo al Foro | 09 - 15 de Junio de 2022
+MIP40c3-SP72: Modify Core Unit Budget (EVENTS-001)
+Collateral Status Index (CSI) Update 2022-06-23
+[SIGNAL REQUEST] [BEAR] Building Financial Resilience & DAO Targets
+Deimos Delegation Platform
+Proposal to add HOME/3CRV to the gauge Controller
+USDC Tokens for $1026 stolen from my wallet
+Harmony Horizon bridge exploit. Consequences to Aave V3 Harmony
+[RFC] A mechanism to use the UNI treasury to grow and defend Uniswap
+How to save emoji/icon?
+[Proposal] Optimal MEV Policy for Lido
+Opening Hearing on reWARDS Committee
+Replace $LDO as LPs rewards token by $WETH
+Add Polygon LDO as a Snapshot strategy
+Introduction of study case group- Focus is on other uses for AFTR governance tokens
+Mandated Actors Neutrality Discussion
+How might one vote without a verifiable interface?
+A Large Complex DAO: reducing the human footprint
+Questions about MIP47 multisigs & Makershire
+Thoughts on Multichain DAI Liquidity Strategy
+[RWA009 / Huntingdon Valley Bank] Collateral Onboarding Oracle Assessment
+[Informal Poll] DAI borrowing incentive ideas that the DAO could test?
+Relay Semanal | 14 - 20 de Junio del 2022
+Flaw in the display of ranked choice voting outcomes
+Maker Making News
+"🦚 What I do and don't think about current votes, and how/why I plan to vote"
+Making a bigger community
+Endgame Discord
+Endgame Index List
+The cryptobank metaplatform political party
+Actualizaciones Mensuales de las Core Units | Mayo del 2022
+Proposing the Maker Understandability Initiative
+Arbitrum
+OP Incentives for Optimism Rollout
+Sushi x Pool Together - Optimizing Treasury Management and Community Engagement
+Proposal to add a sETH Gauge on Optimism
+The cryptobank thinktank - For scientific governance
+GIP-0035: GraphQL `@live` queries
+Aave Mobile App
+[ARC] UI/UX upgrade governance framework
+Announcing Mainnet Indexer - dapplooker.eth
+You can now TWAP buy/sell stETH without incurring price impact on chain
+[Discussion] Kill CREAM/WETH Gauge
+A Farewell to Lending Oversight
+SourceCred Acontecimientos Bi-Semanales #8 [Traducción]
+Doo_Upcoming Resignation from Maker Growth Core Unit
+[RUMOR] [DEBATE] Finding of new amount of gold in Uganda
+SHCU | Reflections On Recent Events
+Weekly MIPs Update #93
+Announcement - At end of term MakerMan will be retiring as a delegate.
+Exploring Partnership Opportunities Between Maker DAO and Anchorage Digital
+Weekly (almost) Narrative on MakerDAO - 28 July 2019
+Weekly (almost) Narrative on MakerDAO - 02 July 2019
+MakerDAO's Discord Servers
+Governance Initiative: Maker Business Analytics Dashboard
+All Available Dashboards
+Pvl Delegate Platform
+The Votes and Important Dates Calendar
+The Calls Calendar
+Swap Treasury CRV and cvxCRV for AURA
+PTIP-77 Extend ETH/POOL LP on Uniswap V2 for 60 days at a rate of 150 POOL per day
+[EURS] MIP6 Collateral Onboarding Application - STASIS
+Wallet connecting
+[EURS] MIP6 Collateral Onboarding Application - STASIS Euro stablecoin
+SES Biweekly Status Update - SES Legal Research
+A Revised Proposal to Whitelist Kallisto’s Automated Vault Contract
+Proposal to Whitelist Redacted’s Treasury Multisig Contract
+Would a DAI/sUSD/MIM pool be attractive during the?
+Proposal to remove tBTCv1 gauge
+Proposal to add Euro Pool (cEUR/agEUR/EUROC) to the Gauge Controller
+Proposal to Whitelist Kallisto's Automated Vault Contract
+Proposal: Add FRAX/TEMPLE xLP/LP Pool to the Gauge Controller
+Help / How can i withdraw my ONE (Harmony market)
+What is your current favorite wallet for AAVE and why?
+RFC. Aave Governance. Adjust Level 2 requirements (long-executor)
+Risk-Off Framework for the Aave Protocol
+[ARC] Increase Supply Cap of sAVAX on v3 Avalanche (Fast-track)
+Questbook Grants tool pilot with Aave Grants DAO
+Introducing: GHO
+Aave V3 Harmony - Freeze Reserves
+ARC: Increase the USDT debt ceiling for the Avalanche V3 Market
+Delegation Introduction: Lucas Vogelsang (lucasvo.eth)
+ARC: Add WOO as a collateral & borrow asset
+Change the Stablecoin Name from $GHO to $USA
+Adding Syscoin blockchain support to AAVE
+ARC: Add TORN (Tornado Cash DAO Token)
+ARC: Add support for BTC.b (Native Bitcoin bridged to Avalanche)
+Obsolete request
+[ARC] - Integrate Infinity Wallet Connect into the Aave app
+Discussion: Give depositors the choice to disable lending of the assets they deposit on aave
+"ARC: Disable MKR Borrowing, Adjust Interest Rate Model, and Increase Reserve Factor"
+"""Fee Switch"" Design Space & Next Steps"
+Temperature Check - Upgrading to a Flexible Voting enabled Governor
+Should Uniswap provide Rage Trade with an additional use grant?
+Hayden doing TikTok dances for Uniswap marketing
+Uniswap v3 Deployed on Celo
+When did it switch over to this logo
+Need help to remove all people that were granted to my account
+Request for information about disputes #GDR-12
+Chain requirements and expectations to be added to The Graph Network
+Request for information about disputes #GDR-14
+Request for information about disputes #GDR-13
+Request for information about disputes #GDR-11
+Request for information about disputes #GDR-10
+Metamask no longer connecting
+The Graph Council - Meeting #32 Notes
+This month in curation #17 | July 22
+The Graph Council - Meeting #31 Notes
+Connecting to Metamask
+Graph partnership with GameStop NFT Marketplace could produce significant query volume
+The Graph Indexer in AWS Cloud - Costs
+The Graph's Core R&D Call #14
+One subgraph - multiple networks
+Treasury Diversification #2
+[reWARDS] July '22 Budget
+LEGO: Q2 2022 report
+Redirecting incoming revenue stream from insurance fund to DAO treasury
+Lido DAO Core Contributors Provisional Budget
+EasyTrack limits and budgets: architecture design record
+Lido Support Feedback Request
+Lido on Ethereum Node Operator Merge Readiness Assessment
+Calling for a profile update among all LEGO Nominees
+Discussion on potential beacon chain adjustment proposed by Vitalik
+Activate BAL emissions for the 80MPH/20WETH gauge
+Funding Proposal for Daoism Systems: PROTOCOL REVENUE SHARING FOR POOL & FACTORY CREATORS
+Problem adding tokens to LBP using joinPool
+Orb Marketing Budget Proposal for the Remainder of Q3
+[BIP-XX] Purge Unused Gauges
+Q2 2022 Quarterly Report from Messari
+[BIP-28] Kill CREAM/WETH Gauge
+[RFC] Support for the Insrt Finance Infra Index
+Llama Delegation Thread
+[BIP-24] Allocate BAL to a Ribbon Finance Vault
+[BIP-27] Enable DIGG/wBTC/graviAURA 40/40/20 Gauge [Ethereum]
+[BIP-26] Enable MAGIC/USDC Gauge [Arbitrum]
+For Balancer service providers to be a user of Parcel
+[BIP-19] Incentivize Core Pools & L2 Usage
+Problem creating liquidity pool and adding liquidity (polygon net)
+Unable to connect metamask wallet 01-July-2022
+[BIP-23] graviAURA ecosystem gauges (3)
+[BIP-20] Funding Proposal for Orb Collective
+[BIP-21] Funding Proposal for Ecosystem Ops and Development Squad
+[BIP-22] Fund Balancer Grants for Q3
+Announcement: Delegate Migration
+MIP-6 Declaration of Intent – Invest in short-term bonds – Proposal for implementation
+[Informal Poll] Long-Term Stablecoin Competitive Advantage
+Endgame DVC meeting july 20: Budget reductions and growth/marketing CU consolidations
+"""Code is Law"" vs ""Bankruptcy Law is Law"""
+Endgame Plan Part 5: Endgame Product Roadmap - Pregame and Early Game
+MIP6: Pando Investment Grade Climate Assets Collateral Onboarding
+El Salvador - Remittance case for DAI
+SourceCred Bi-Weekly Happenings #10
+MIP41c5-SP10: Facilitator Offboarding (IS-001)
+Weekly MakerDAO Recap
+MIP40c3-SP77: Modify Immunefi Security Budget (IS-001)
+MIP67: Cabot Renewable Energy Crypto Mining (MIP6 Follow On)
+Growth Update: North America
+SourceCred Acontecimientos Bi-Semanales #10 [Traducción]
+MIP76: Makershire Redux
+MIP65 Sub-project: Tokenization / Community Feedback Request
+Struggle and Progress in Democratic Governance
+Collateral Onboarding Call #45 | Backed-Finance
+Informe Financiero 2022-06 [Traducción]
+Weekly MIPs Update #96
+Huntingdon Valley Bank: Transaction Documents on Permaweb
+"ETH LATAM en Buenos Aires, Argentina - 11 al 13 de Agosto 2022 - Tickets e info"
+Relay Semanal | 28 de Junio - 05 de Julio del 2022
+Compound vs MakerDAO
+Sen. Warren Asks SEC Chair Gensler About Risks Posed by Cryptocurrency Exchanges
+Bootstrap veToken Finance locker for IDLE
+Fee sharing distribution and Performance fee update
+Adaptive Yield Split implementation for existing PYTs
+[Gauges] - Proposal to add Euler agEUR Senior tranche
+[Gauges] - Proposal to add Euler Senior PYTs
+IDLE withdrawal from Bancor
+Idle's Leagues extinction
+New Governance and Tokenomics models for the DAO
+[IIP-23] D2D collaboration proposal: Idle <> Lido
+Leagues budget M2-2022 extension
+[IIP-22] stkIDLE Whitelisting Process Implementation
+M2-2022 Leagues & Coordinators Proposal
+[IIP-21] Set final $IDLE distribution rate on Gauges
+Migrate DIGG TCL to Balancer/Aura
+Migrate Balancer TCL to Aura
+Swap Treasury bcvxCRV for AURA (part 2)
+Coordinape Q3 2022
+How Do We Capture Our Tailwinds?
+[RFC] Continue the Polygon POOL Pool?
+RFC: Decrease draw frequency and add appropriate prize tiering with larger prizes and a wider range
+RFC: What Is The PoolTogether DAO?
+The Road to $100m TVL
+Prize Network: Press Release and FAQ
+PTIP-79 Extend POOL Pool Emissions
+Code of Conduct
+RFC: Executive-Team Renewal
+PoolTogether Should Excel During a Bear Market
+(Off-chain) PTIP-78: Protocol security bounties and payout
+Vulnerability Disclosure: Aave Yield Source
+List SUSHI and xSUSHI as collateral assets on Fringe Finance
+Ribbon Finance x SushiSwap: Increase Treasury Stablecoin Reserves
+The Sushi Toshokan Blog
+Snapshot Quorum & Threshold
+SUSHi integrating Across
+Add Stop Limit Orders on SushiSwap
+Team Proposal mixmore in financial and operations and non-technical side
+Nabe (Sushiswap Community Metaverse)
+Address the SushiSwap Migrator Death Trap
+Make Swap from Contract
+[1RC] 1inch DAO Meta-Governance Delegation Programme
+[1IP-09] Collect 1inch DAO Treasury Revenue in 1INCH Token in Addition to USDC
+[1IP-08] Simple diversification mechanism for 1inch DAO Treasury
+Token addresses
+Kick starting stage 2 of Decentralisation of 1inchDAO
+Proposal Lifecycle -- Suggested Improvements
+[1RC] Earn Conservative Yields on USDC in Treasury
+[1RC] Self - Earning DAO Engine V1.0
+[1RC] 1inch Community Grants Program
+[1RC] Delegate Improvement Proposal
+Automate contrac call (jobs) with keep3r network
+Discussion: AMM Functionality
+Discussion: rKP3R allocation to Curve Gauges
+IB token Curve Pools need balancing
+Problems with Gnosis Safe
+Safe infrastructure setup when services are inside a VPN
+x
+Call for grant applications - the relationship between DAOs and their intangible assets and IP
+[Signal Request] Reset delegation metrics for Hasu
+A simple idea that might just work
+Fire Drill Postmortem & Informal Poll
+Discussion; ibXXX Peg Maintenance
+Meet the Dai Foundation Board during EthCC[5]
+Safn nqi qwr nqiwr qiwrnr qwoigfn
+This is new amzing topic
+Thats new amazing topic
+Fghvbjk ahgsjbnkmasl;'ghjbkj
+Request: Scientific risk calculation of entrusting protocol-owned funds to 3rd party multisigs
+Encuestas de la Semana: 18 de Julio del 2022
+Preguntas para las Core Units sobre los activos intangibles - para revisión y comentarios [Traducción]
+Discussion; Curve Pool Optimization
+DAIvinity EthCC Paris Tickets
+MKR Token Decentralization Views
+Delegate Office Hours #3 - Includes poll for discussion topic
+"The Schuppi and ElPro Delegate Happy Hour at EthCC -- Paris 2022, Episode 2"
+Proposal to Whitelist Keep3r''s Treasury Multisig Contract
+Creating an educational video about Curve
+Proposal - AAVE Built in integration on open source/self-custody/privacy focused Edge Wallet
+Partnership grant for AAVE devs to integrate Unstoppable Domains login
+ARC: Raise LTV and liquidation threshold for AVAX on Aave V3 markets on Avalanche
+Options on AAVE LP tokens/AAVE/GHO
+ARC - Removing composability breakers in AAVE V3
+ARC: Add OP as Collateral to AAVE v3
+Gov. token collateralised bonds to mobilise the treasury
+Delegate to Llama
+Sybil Resistance for AAVE
+Aave introduction video
+Claim Aave Liquidity Farming Rewards & Send to Aave Grants DAO
+Liquidation by the protocol
+Benefits of holding AAVE?
+"""Order Book"" view for Analytics"
+Temperature Check - UNI-based Fee Tiers
+Update Uniswap v3.0 to accept rebase tokens
+Schema: How to map a field to more than one entity
+GIP-0036: Juno indexing for Graph node
+The Graph's Community Talk #13
+Treasury Diversification #2 - Part 2
+Respect the Pump
+Emergency Brakes multi-sig upgrade
+On Chain Hedge Fund at recommendation of @Cobie
+[BIP-XX] Allocate BAL Liquidity to Polygon & Arbitrum Multichain Bridge
+[BIP-XX] Add Paladin's Quest to the Core Pools and L2 Incentivization program
+[BIP-30] Purge Unused Gauges
+[BIP-36] Enable TEMPLE/DAI 80/20 Gague (Ethereum)
+[BIP-35] Whitelist the Laguna Games’ Gnosis Safe for Balancer’s Voting Escrow
+[BIP-34] Enable the 50/50 RBW/wETH Gauge on Polygon
+[RFC] Simple Framework for veBAL gauge voting
+Balancer Maxis July 2022 Update
+[RFC] Revoke Hexagon's Friendly Fork Status
+[RFC] Kill WBTC/DIGG/graviAURA Gauge
+Wildfire DAO Delegate Thread
+How to remove liquidity?
+[BIP-32] Funding Proposal for Daoism Systems: PROTOCOL REVENUE SHARING FOR POOL & FACTORY CREATORS
+[BIP-33] Orb Marketing Budget Proposal for the Remainder of Q3
+[BIP-31] Authorize the Batch Relayer v3
+[BIP-29] Introduce GaugeAdder v2
+"The Schuppi and ElPro Delegate Happy Hour post-EthCC – Paris 2022, Episode 3"
+MIP79: Recognized Delegate MKR Compensation
+MIP78: Recognized Delegate DAI Compensation
+Relay Semanal | 19 - 25 de Julio del 2022
+MIP65 Clydesdale / Governance Framework & Setup
+MIP77: Delegates in the Maker Protocol
+"Clarifications about my take on LOVE vs MetaDAO, and a diagram of approval voting"
+Llama Delegate Platform
+Reseach Paper - The Crypto Banking System
+Actualizaciones Mensuales de las Core Units | Junio del 2022
+¿Cómo ser un buen vendedor de la idea de aceptar criptomonedas como método de pago?
+En que plataformas o aplicaciones han podido utilizar DAI para pagar para productos o servicios?
+¿La hiperinflación ayuda a la adopción de criptomonedas?
+Multichain Market Musings
+Decision to Delay Today’s Executive till Friday 29th
+[SIGNAL REQUEST] Budget Re-allocation & Core Unit Accountability Framework
+Endgame: Different starting point for DVCs
+Un Vistazo al Foro | 14 - 20 de Julio del 2022
+MakerDAO Actual Expenses vs Budget - June 2022
+MakerDAO Blog Actualización y Discusión [Traducción]
+KNC Circulating and Total supply
+"Leagues M3: Resurrection (M2 Report + M3 Structure, Goals & Budget)"
+ANGLE rewards for stkIDLE voters
+Multi language website etc
+Forum structure
+Governance Mining #1 - June 2022 DAO Rewards
+BIP 95 - GraviAURA Regulations
+Defi Marketing Services Company - The Platform You Could Rely On
+Prize Distribution #5
+Bridge as a service - solution for multi-chain POOL token
+Pilot Prize Team
+Liquid Staking to Boost Prizes
+Pooltogether grants program renewal
+Prizes - Assesment of PTIP-76
+PoolTogether Pyme Campaign
+First Activation for OP Incentives Launch!
+Protocol-Owned Liquidity (POL) Analysis | Uniswap V3 [Polygon] | Part 1
+Election of Jonathan Howard as Head Chef
+Make SushiSwap Decentralized Again
+Current process to add tokens to the default sushi token list
+Sushiswap Parachain
+Fixed Forex on Optimism
+Popcorn Airdrop to Yearn Users
+Explainer; Emissions Schedule
+% proportion distribution
+Kill CRV gauge emissions for secondary Pyusd+USDC pool
+Add LUAUSD/2CRV to the gauge controller
+Kill CRV gauge emissions for decprecated crvUSD stableswap pools
+New implementations for Controller and AMM for crvusd
+Reimbursing costs incurred to JPEG’d DAO during the July exploit
+Proposal to add TricryptoGHO to the Gauge Controller
+Proposal to deploy Curve on Fraxtal (Frax Finance Chain)
+Change USDC/USDM fee on Base
+Change USDC/USDM fee on Polygon
+Leverage Curve pools (+ any-to-CRVUSD volume growth)
+"Kill CRV gauge emissions for old sdYFI, sdCRV, yCRV pools and deprecated pETH/frxETH, BUSDv2, and BUSD/FraxBP pools"
+Proposal to add the weETH/swETH pool to the Gauge Controller
+Detailed 2023 Curve Ecosystem Report
+Add a gauge for the stable-ng pool: wbIB01<>FRAX<>eUSD
+Add BobrCRV/CRV/crvUSD on Ethereum mainnet to the Gauge controller
+Add a gauge for the following stable-ng pool: crvUSD/stUSDT (new implementation)
+CRV incentives for my WBTC/DAI poοl
+[Temp Check] Make crvUSD Cross Chain into Cosmos
+Proposal to add the pyUSD/USDC pool to the Gauge Controller
+"How to help USDM - Mochi ""Slow Rug"" Victims & kill the USDM / 3CRV POOL?"
+Proposal to Enable TricryptoFRAX Gauge [Arbitrum]
+Proposal to add alETH-wETH to the Gauge Controller
+Collect 500k+ OP grant and store in DAO controlled vault on Optimism.
+"Proposal to add pxETH/WETH, pxETH/frxETH and pxETH/stETH pools to the Gauge Controller"
+Proposal to Recompensate LPs Affected by Curve Pool Exploit
+Proposal to add the pxETH/ETH pool to the Gauge Controller
+Whitelist the Prisma DAO CurveProxy contract
+Proposal to add tBTC/WETH [Base] to the Gauge Controller
+Update crvusd stableswap factory implementations
+Proposal to add mwstETH-WPUNKS pools to the Gauge Controller
+BGD. Retroactive bug bounties proposal (pre-Immunefi)
+[TEMP CHECK] Add gmETH on Arbitrum V3
+[TEMP CHECK] Add gmBTC on Arbitrum V3
+BGD. Request for Bounty Payout - January 2024
+[ARFC] Add sFRAX on Ethereum V3
+Introducing Dolce Vita - Empowering Aave Governance with seamless operations
+LBS Blockchain Society Delegate Platform
+Introducing Range Protocol's GHO Vaults
+Noob mistake - Possibility of recovering WETH sent to ETH address?
+Participation of Aave co-founders in the international Blockchain Life 2024 forum in Dubai
+"[ARFC] Introducing ""Frontier"" - Staking as a Service for the Aave DAO"
+[ARFC] Onboard fdUSD to Aave v3 on BSC
+Governance Weekly Recap [2024]
+[TEMP CHECK] Onboard RSR to Aave v3
+EzR3aL Delegate Platform
+[ARFC] Gauntlet USDC.e Supply and Borrow Cap Recommendation on Optimism Aave v3
+Splitting Aave v3 position
+The Defiant: #1 Ranked Crypto 101 Education & Onboarding Series
+AMPL problem on Aave v2 Ethereum
+Keyrock Delegate Platform
+Diverse Use Cases of Asset Tokenization
+BGD. Technical maintenance proposals
+[ARFC] Aave Funding Update
+GHO Analytics - TokenLogic
+[ARFC] BGD. Risk Steward Phase 2: RiskSteward
+[Temp Check] Aave V3 MVP Deployment on Neon EVM Mainnet
+DAOplomats Delegate Platform
+Karpatkey Delegate Platform
+[ARFC] Gauntlet USDT Cap Recommendation on Ethereum Aave v3
+[ARFC] Updated Aave Grants Continuation Proposal
+Community Governance Process Update [Jan 2023]
+Uniswap Revitalization and Growth
+Gauntlet’s Uniswap Protocol Fee Report - TLDR version
+Deploy Uniswap v3 on Rootstock (Bitcoin Sidechain)
+[RFC]: Lower Onchain Proposal Threshold
+[RFC] Uniswap V3 deployment on Taiko
+PGov Delegate Platform
+StableLab Delegate Platform
+Uniswap Deployments Accountability Committee Next Steps & The Committee Application Thread
+Messari Governor DAO Profile Update for Uniswap DAO
+[Discussion] 100K+ USD Grantees to Introduce Themselves on the Forum
+[RFC - Update] Community Governance Process Changes
+"Accountability Committee, Deployments & Agreements"
+Uniswap Deployments Accountability Committee [Update Thread]
+Making Protocol Fees Operational
+Karpatkey Delegate Platform
+Delegate Contact Info
+Delegated Delegates Accountability Thread
+Wintermute Delegate Platform
+Grant Update: Cross-chain Governance
+Request: Feedback on which forum features matter most
+Incentives for non-token holders in governance of Uniswap Ecosystem
+The State of Uniswap Governance
+[RFC]: Uniswap Community Calls
+Uniswap-Arbitrum Delegate Program (UADP) Communication Thread
+Governanceunswap
+[RFC] Should Uniswap Enable a Dedicated Governance Tool for Delegates and Voters?
+L2BEAT Delegate Platform
+[Governance Proposal] Delegation of UNI to Active but Underrepresented Delegates
+The Defiant: #1 Ranked Crypto 101 Education & Onboarding Series
+Announcing The Graph Builders Office Hours!
+Graph Council Meeting
+I can no longer see my GRT balance when i connect my wallet
+Why do we need curation?
+Know Your Indexer #28 | Pinax
+Add Sport for SKALE Network
+Add Support for Fraxtal (Frax Finance Chain)
+Add support for Scroll Mainnet
+The Graph's Community Talk #31
+My metamask wallet is not connecting I have staked GRT
+"I want a GRT tokens faucet , provide me with the updated details"
+The Graph Core Dev Call #27
+Add Support for BEVM Canary
+Graph Horizon Explained: a Proposal for the Evolution of the Protocol
+Graph Advocates Weekly - Issue #65
+Edge & Node’s December/January Update
+Add support for zora network
+Graph Council Meeting #66
+Add support for opBNB
+Geo January 2024 Update
+GraphOps Update January 2024
+Messari January 2024 Update
+StreamingFast January 2024 Update
+Pinax January 2024 Update
+Introducing the IndexerRelayer: Graph Node powered Blockchain Attestation Oracle
+Semiotic Labs January 2024 Update
+Query blockchain data from multiple subgraphs with a single GraphQL operation
+Add Support for Chiado chain (Gnosis chain testnet)
+The Guild January 2024 Update
+Staking Router Distribution Mechanisms Research
+Ethereum Node Operator EL Diversity Improvement Commitments
+Tally x Lido DAO Research Grant
+LDO+stETH dual governance (continuation)
+Community staking module
+Tiered Rewards Share Program: A Sustainable Approach to stETH Growth
+Staking Router Module Proposal: Simple DVT
+StableLab Delegate Thread - Updated
+RFP: wstETH on BNB
+User Research and Activation Plan to engage new token holders in Lido DAO Governance by OpenUX
+Holesky as test network
+The Defiant: #1 Ranked Crypto 101 Education & Onboarding Series
+"Bond and staking fee ""napkin math"""
+LayerZero: Implementation for wstETH on BNB Chain and Ownership Acceptance by Lido DAO
+Wormhole x Axelar | Lido Bridge: Implementation for wstETH on BNB Chain
+Liquidity Observation Lab (LOL): Liquidity Strategy and application to Curve stETH:ETH Pool
+Request to authorise a 22M LDO ceiling for a four year contributor Token Reward Plan (TRP)
+Updating the Easy Track setup for LEGO
+Updating the Easy Track setups to allow DAI USDT USDC payments for Lido Contributors Group
+Add Easy Track stETH factories for Lido Contributors Group
+Node Operator Registry - Name & Reward address change
+"Disable inactive Node Operators (Anyblock Analytics, Jump Crypto) in Curated Node Operator Registry"
+Jump Crypto Replacement in the Oracle Set
+BloXroute Validator Gateway Testing by NOs
+[EGG] st2024 v1: Lido Contributors Group Request for Grant Funding to Advance GOOSE Goals
+Solution to Improve DAO Governance Efficiency
+Holesky Safe - Q1/2024 Budget Provision - Support & Maintenance
+Why not bring back stSOL? p2p is still doing it
+STAKE_LIMIT error swapping ETH to STETH on Goerli
+[BIP-XX] Enable GHO/USDC E-CLP & GHO/GYD E-CLP Gauges
+[RFC] Linear pool hack restitution
+[RFC] Generate USDC revenue through on-chain BAL covered call lending
+[BIP-140] Introduce TimelockAuthorizer
+Karpatkey Delegate Thread
+“My liquidity amount” visible but pool balance is 0
+[BIP-524] Seed BAL Liquidity on Optimism
+[BIP-538] Enable ezETH/WETH Gauge [Ethereum]
+[BIP-535] Assisting DNS hack victims - final batch payment
+[BIP-537] Replace GGP Incentives On Avax
+[BIP-536] Enable DOLA/mkUSD Gauge [Ethereum]
+[BIP-455] Assisting DNS hack victims
+[BIP-513] Seed BAL Liquidity on Avalanche
+[BIP-534] Re-enable 50tBTC/50WETH Gauge [Base]
+OpCo Product Team - December 2023 Update
+[BIP-533] Initiate Cooldown to Withdraw from BAL/AURA/ARB Pool on Arbitrum
+[BIP-532] Enable ePENDLE/PENDLE Gauge w 2% Cap [Ethereum]
+[BIP-531] Enable stERN/wstETH Gauge [Optimism]
+[BIP-530] Enable sFRAX-FRAX gauge [Arbitrum]
+[BIP-529] Enable sFRAX-sfrxETH gauge [Optimism]
+[BIP-528] Enable 80PAL-20WETH Gauge w 2% Cap [Arbitrum]
+Request: Feedback on which forum features matter most
+[BIP-521] Cap individual voter weight on Snapshot
+Balancer Maxis December 2023 Update
+Treasury Monthly Reports by karpatkey
+[BIP-498] Assisting DNS hack victims - final batch
+"[BIP-526] Pay BAL to DAO Multisig signers, H2-2023"
+[BIP-527] Gauge Kill/Unkill for 2eur Pools
+[BIP-525] Business Development Funding Proposal Q1-2024 and Retroactive Q4-2023 Funding
+The Defiant: #1 Ranked Crypto 101 Education & Onboarding Series
+[Stability Scope Auction Parameters Changes #1] Liquidation Throughput Limit
+"Introducing Atlas Axis & GAIT Kick-off Call (Jan 29, 8pm CET)"
+MIP102c2-SPXXX: MIP Amendment Subproposals
+MIP102c2-SPXX: MIP Amendment Subproposals
+TRUE NAME Aligned Delegate Communications Platform
+CVC Member Registration Submission [KISS CVC]
+UPMaker AD Submission
+Digital ALCO Meeting Summary: January 23rd 2024
+Today's Atlas Call Cancellation and Updates
+BONAPUBLICA Aligned Delegate Communication
+0xDefensor Aligned Delegate Communications
+Solution to Improve DAO Governance Efficiency
+JuliaChang AD Recognition Submission
+CVC Creation (Sovereign Finance CVC)
+Byteron AD Recognition Submission
+Out-of-Schedule Executive to Fortify Elasticity of On-chain 1:1 Liquidity of USDC
+RWA tokens - A simpler way to issue RWA-backed DAI?
+AVC Creation (Regenerative Finance AVC)
+"Update of L2-to-L2 Teleport 🌌, DAI is burnt on the origin L2, minted on the destination L2, and sent to the user as soon as the transaction is confirmed by Maker Oracles"
+Methods for improving yield on Protocol Owned MKR/DAI Liquidity
+Real-World Asset Report - 2023-12
+2023: Risk Year in Review
+Smart Burn Engine - Transaction Analysis & Parameter Reconfiguration Update #4
+Market Conditions and Competition Analysis - 19 January 2024
+Proposed Spark Pre-farming Airdrop Formula
+Query Regarding Voting in Polls Without Holding MKR Tokens
+PseudoAnonymous Participation Protocol (PPP)
+[DISCUSS] Gas Refund Program V2
+KIP-30: Allocating remaining KNC in the Ecosystem Fund to the KyberSwap team for growth initiatives [APPROVED]
+KIP-29: Add DAO multisig to the smart contract strategy for converting & receiving LP fees [APPROVED]
+Ambassadorship program
+Application for the position of an ambassador/ brand advocate
+Brand advocate/Thought leader Ambassador
+Application for the position of a Brand Advocate for Kyberswap Ambassador Program
+Application for kyberdao ambassador
+Candidate Application: Ambassador Role at KyberSwap
+Application for Kyber Network ambassador
+KIP draft: 1st ARB Airdrop to active Arbitrum users on KyberSwap [DISCUSS]
+KIP-28: KyberDAO to open a Limit Order for mKNC holders to swap mKNC to KNC [APPROVED]
+My KyberSwap Ambassador Application
+Ambassador Program Application for Brand Advocates
+Ambassador collab
+KIP-27: Improving KNC Liquidity and Pair Diversity [APPROVED]
+Applying for KyberDAO Community Delegate Program
+KyberDAO Community Delegate Program Application
+Application as Technical Advisor and Brand Advocate
+Application as a Brand Ambassador
+Ambassador Program Application | Editor-Creator Content Leader Community Leader
+Application for Ambassador Program | Community Champions Brand Advocates/Thought Leaders
+Application for the position of Ambassador at Kyberswap
+My KyberSwap Ambassador Program
+Cater Joshua Application for Ambassador Program
+Application as a Brand Advocate - KyberNetwork Ambassador
+Apply for KyberDAO Community Delegate Application - LUKE
+My ambassador application to Kyber Network!
+APPLICATION FOR BRAND ADVOCATE AT KYBERSWAP
+Leagues M1-2024: Roadmap and M4-2023 Recap
+Prime Staking - IDLE staking v2
+Security Management Policy update and Hypernative integration
+Leagues M4-2023: Roadmap and M3-23 Recap
+Better Governance Process communication for IDLE DAO
+[Delegation Pitch] Cambridge Blockchain Society (CBS) - Meta Delegate Program
+M3-2023 Performance Report
+M2-2023 Performance Report
+Automated workflow for your Dao
+Leagues multisig management
+BY yield source update
+Clearpool YTs as a new yield source for USDC BY - Wincent
+Idle Deployment on zkEVM: a multi-step Growth Plan
+$IDLE incentives distribution update 4
+[IIP-38] - IDLE transfer to Leagues
+AMM Liquidity Improvements
+[IIP-37] - Strategic agreement with Fasanara Digital and Leagues budget for M3-2023
+Leagues M3-2023: Roadmap and M2-23 Recap
+Idle DAO incorporation in the Marshall Islands
+🏛️ Idle DAO LLC
+Idle DAO Strategic Agreement – Fasanara Digital
+"[IIP-36] - Update Best Yield USDC, WETH yield sources and pause the staking rewards for IDLE stakers"
+Grant Proposal - Idle Protocol Analytics
+IDLE staking update
+Clearpool YTs as a new yield source for USDC BY - Fasanara
+IDLE token improvement proposals
+Idle DAO LLC: Operating agreement
+"[IIP-35] - Update Liquidity Mining, Best Yield USDC and USDT yield sources and transfer budget for M2-2023"
+Leagues M2-2023: Milestones & M1-2023 Recap
+M1-2023 Performance Report
+"eBTC Launch Planning, Peg Management, and Monetary Policy"
+RFF- Empower the treasury council to have compensation for participation paid directly from the treasury
+#41 Treasury Council Independence
+Request: Feedback on which forum features matter most
+How to unstake badger
+"What could Badgers main strength in the future be: Swapping, Bridging, Money Markets, or Liquidity Providing"
+BadgerDAO Community Council Vote: Loss of Trust and Confidence in the Leadership of the Primary Technical Service Provider to BadgerDAO
+Is an anon mode helpful for Badger?
+Understanding the Badger Association
+RFF - Formalize Swiss Association Roles and Responsibilities
+RFF- Transition admin and operational responsibility of the Badger discord to the Community Council
+Introduction for BA Labs as eBTC Contributor
+Introductory Poast from Steakhouse ₿inancial
+Rff- Bring Discord Back
+#8 1.5x BTC Long using 5 Treasury BTC and Oasis
+Introducing eBTC - A Decentralized Bitcoin Powered by Ethereum Staking
+#32: Treasury Council Decision: Lend $BADGER
+#40 Remove Funds From FRAX and Balancer/Aura LPs
+#39 Divest AURA From DIGG LP
+#1 Balancer Deposit of Treasury BTC and Badger
+#38 Treasury Policy Amendment
+#36 Divestment of Treasury AURA
+#37 Value Preservation of ibBTC Rewards
+BIP 102 - Discontinue DIGG TCL/LP
+#34: Liquis partner engagement
+"#35: Buy up to 200,000 BADGER to Offset TCD #32 Expenses"
+BIP 101 - Council Election
+#30 Formalise Annual Operating Budget 2023
+BIP 100 - Allocation of unclaimed ibBTC rewards
+[RFC] PTBR-15: G9 Software Inc. <> PoolTogether
+[RFC] PTB-13 Executive Team Q1 2024
+[RFC V2] PTBR-14: Pooltime
+Pooltime Team Description & Updates
+PoolCollective Updates
+[RFC] PTBR-14: Pooltime
+Marketing proposal - Xposure Today
+POOL liquidity on Optimism
+<> V3x2 </>
+Proposal for a (lightly) structured approach to governance comms
+A Roadmap for a Sustainable PoolTogether
+V5 Vault Collateralization Issue
+$POOL staking pool: an economically sustainable proposal
+A Sustainable PoolTogether
+POL should be price agnostic (full range v3 LP)
+"Revenues are not evil, we need to value $POOL more"
+Q4 2023 Treasury Report and Runway Considerations
+PTBR-12: PoolTogether <> Generation Software Inc. Q1 2024
+"[Discussion]: PTBRs, Council, Direction, and Lack of Accountability"
+[RFC] PTBR-12: PoolTogether <> Generation Software Inc. Q1 2024
+2023: The Year in Review
+Creating the Contributor Fund
+Solution to Improve DAO Governance Efficiency
+Glo Dollar x PoolTogether
+Better Governance Process communication for PoolTogether Dao
+PTIP-89: Sunsetting PoolTogether V4
+PoolTogether Proposal to partnership with Hexagate web3 cyber security
+Fixing Coordinape
+DeFiSafety Quality Certificate proposal
+[signal] Send Sushi from Merkel Distributor Contract to Sushi Treasury
+[RFC] The Sushi token and Legal clarity
+[RFC] Sushi community governance in the Sengoku-Jidai (the warring DEX period)
+Tokenized uranium fixes this:
+PWN x Sushi Proposal: Revenue generation & Bond issuance
+The Problem With AMMs (And the solution)
+Extend Sushi Runway With OUSD
+[RFC] Sushi ($SUSHI) Treasury diversification through Fyde Treasury Protocol
+Financial and operations and non-technical side
+[RFC] Acquisition Proposal for Option-like Hedging Infrastructure
+[RFC] Algebra x Sushi: Bringing Algebra Integral (V4) to Sushi
+Dusknight Sushinomics
+[RFC] Deploy new tokenomics for Sushi
+Seeking a Resolution for the SAKΞ Situation — A Suggestion
+Sushi Swap Governance overhaul
+[RFC] Deploy Sushi to Humanode EVM to enable Sybil-resistant DeFi and Quadratic LP staking
+[RFC] [Proposal] Integration of Quadrat Active Liquidity Manager into Sushiswap v3 | 0xPlasma Labs
+Abracadabra Bentobox Strategist Proposal
+Reimburse Kashi Depositors
+Strategic cooperation with DWF Labs
+Legal Entity Update & Proposed Changes
+Proposal to Decentralized Asset Rating Oracles powered by SushiSwap and Chainsighta
+How can I swap NuCypher coins?
+XSUSHI staking still useful?
+Sushi Tokenomics Redesign
+Help with transaction
+multiYFI on FTM
+Set yETH Pool Inclusion Rules and Weight Limits
+Enhance yETH Governance Voting: Quorum and Decay
+Incentivizing yPRISMA gauges on bribe platforms
+How $YFI Works (Explainer Video)
+[Temp Check] Create ATOM Vault on Yearn Finance
+[Proposal] SuperBoosted
+Euro Payments for Yearn Contributors
+Treasury Knowledge Resources
+RFC: AI Dashboard for Governance Proposals
+YFI Chain ID for its Blockchain Netword
+Yernfinance official app
+Automated workflow for your Dao
+[YIP-75] Launch V3
+[YIP-74] YFI Wintermute Loan & CRV Plans
+[Proposal] DWF Labs CRV & YFI partnership
+Enhancing Yearn's Operations with Syncvote
+Circulating Supply
+vAMMV2-RED convert to OP
+[YIP-73] Activate veYFI rewards with oYFI Gauges
+Venom Foundation <> Yearn Finance
+Yearn Useful Links
+MetaMask State logs - v7.1.0 (1136)
+Connect yearn to coinbase wallet
+Lost SNX and YFI in Transfer
+Free Financement Projet
+Partnership - Integrating On & Off-Ramp solutions
+Is there a plan to use the 1M OP we have?
+Sent to the wrong adres
+v
+[Discussion][OBRA] Governance Onboarding Program - DAOplomats
+[Discussion] [OBRA] Split Delegation - Gnosis Guild
+RSVP: Safe Grants Wave 1 Closing Ceremony
+[Discussion] [OBRA] Formalizing the Guardian Role onchain with Hats Protocol - Hats Protocol
+[Discussion] [OBRA] Education with Boring Security
+SafeDAO Community Updates
+[Discussion] [OBRA] Contribution Efficiency System (CES) - Areta
+Schedule for Season 1
+:phone: Governance call regarding Token Utility SEP
+Regarding $Safe enabling transferability voting process
+Exploring The SAFE Token: Call For Input - INSTRUCTIONS
+[Discussion] [OBRA] Develop Ecosystem Accounts on Optimism
+[Discussion] [OBRA] FinOps3: Accelerating Asset Management on Safe
+Need help to rescue token that i've accidentally send into the token contract address
+[Discussion] [OBRA] Roles Mod + Pilot Extension - Gnosis Guild
+SAFE Token Utility Proposal
+SafeDAO Governance Dashboard Feedback Thread
+[SEP #7] Governance Framework
+Add support for Sepolia
+[HOW TO] SafeDAO Governance Process
+Wrapped Safe {Wallet}: exchange $SAFE
+Request: Feedback on which forum features matter most
+The State of Safe DAO Governance
+How can a Safe hold asset on multiple chains?
+Incentives for non-token holders in governance
+Smart Account Fee Engine (S.A.F.E.)
+Constrain safe guardians to ensure safe healthy development
+The safe TX Analyser you always wanted
+[Discussion] Outcomes-based resource allocation framework (OBRA)
+Maple's Q2 23 Treasury Report
+MIP-009: Upgrade MPL Token Design
+Maple's Q1 2023 Treasury Report
+Maple’s Enhanced DAO Governance Process
+[Grant Proposal] : Maple Monthly Financial Reporting
+Discussing the Pool Delegate Role and Strengthening Pool Delegate Alignment
